@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Hiperservicios, traspasos de carros, motos y demás vehículos</title>
+    <title>Hiperservicios, traspaso de vehiculos y demás tramites de transito</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,126 +35,43 @@
   <body>
     <!-- Container -->
     <div class="site-container">
-      <!--========================Header========================== -->
-      <header class="main-header">
-        <div class="upper-header">
-          <div class="container">
-            <div class="row">
-              <div class="logo">
-                	<a href="/"><img src="images/logoweb.png" alt="Logo de empresa de tramites de transito"></a>
-              </div>
-              <ul class="header-info">
-                <li class="group">
-                  <i class="icomoon-icon-phone"></i>
-                  <div class="h-text">
-                    Llámanos
-							      <span><a href="tel:+573152292379">315 229 23 79</a></span>
-                  </div>
-                </li>
-                <li class="group">
-                  <i class="icomoon-icon-location"></i>
-                  <div class="h-text">
-                    Nuestras Oficinas
-							      <span>
-                      <a href="Ibague">Bogotá </a> -
-                      <a href="Ibague">Medellín </a> - 
-                      <a href="Ibague">Ibagué</a> 
-                    </span>
-                  </div>
-                </li>
-                <!-- 
-                <li>
-                  <i class="icomoon-icon-clock"></i>
-                  <div class="h-text">
-                    Working Hours
-							      <span>Mon - Sat, 10AM to 6PM</span>
-                  </div>
-                </li>
-                 -->
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="header-menu navbar-fixed-top">
-          <div class="container">
-            <div class="nav-outer">
-            	<nav class="navbar navbar-default" role="navigation">
-                <div class="navbar-header">
-                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                  </button>
-                </div>
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                  <ul class="nav navbar-nav">
-                    <li class="drop"><a class="active" href="index.html">Inicio</a></li>
-                    <li class="drop"><a href="projects.html">Nosotros</a></li>
-                    <li class="drop"><a href="about.html">Oficinas</a>
-                      <ul class="dropdown">
-                        <li><a href="about.html">Bogotá</a></li>
-                        <li><a href="service_strategic_planning.html">Medellín</a></li>
-                        <li><a href="project_strategic_planning.html">Ibagué</a></li>
-                      </ul>
-                    </li>
-                    <li class="drop"><a href="services.html">Servicios</a>
-                      <ul class="dropdown">
-                        <li><a href="service_strategic_planning.html">Strategic Planning</a></li>
-                        <li><a href="service_turnaround_consultingn.html">Turnaround Consulting</a></li>
-                        <li><a href="service_bonds_commodities.html">Bonds & Commodities</a></li>
-                        <li><a href="service_audit_assurance.html">Audit & Assurance</a></li>
-                        <li><a href="service_financial_projections.html">Financial Projections</a></li>
-                        <li><a href="service_trades_stocks.html">Trades & Stocks</a></li>
-                      </ul>
-                    </li>
-                    <li class="drop"><a href="blog.html">Blog</a>
-                      <ul class="dropdown">
-                        <li><a href="blog.html">Blog Default</a></li>
-                        <li><a href="single-post.html">Single Post</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="contact.html">Contáctenos</a></li>
-                  </ul>
-                </div>
-              </nav>
-              <div class="get-btn"><a href="#" class="theme-btn appt-btn">Solicitar una asesoría</a></div>
-            </div>
-          </div>
-        </div>
-      </header>
-      <!-- End Header -->
+     <!--========================Header========================== -->
+     
+     <?php include 'header.php'; ?>
+
+      
+    <!-- End Header -->
 
       <!--========================Slider========================== -->
-			<div class="top-slider">
+      <div class="top-slider">
 				<div id="slider" class="owl-carousel">
 					<div class="item slider-pic">
+						<img src="images/sliders/vender_mi_carro.jpg" alt="" />
+						<div class="slider-content-box">
+							<h2 class="stripe">Legalize su traspaso</h2>
+							<p>Cuando venda su vehiculo es muy importante que legalize su traspaso para evitar multas, impuestos y otros inconvenientes que le puede traer tener un vehiculo que ya vendio a su nombre.</p>
+							<div class="accent-btn">
+								<a href="#">Leer más</a>
+							</div>
+						</div>
+					</div>      
+          <div class="item slider-pic">
 						<img src="images/sliders/1_cerrar_el_traspaso.jpg" alt="" />
 						<div class="slider-content-box">
-							<h2 class="stripe">Strategiespara for Enduring Success</h2>
-							<p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent conubia inceptos himenaeos.</p>
+							<h2 class="stripe">Compre su vehiculo tranquilo</h2>
+							<p>Cuando compre su vehiculo es muy importante que revise el estado de los documentos del vehiculo que esta comprando.</p>
 							<div class="accent-btn">
-								<a href="#">Buy This Template</a>
+								<a href="#">Leer más</a>
 							</div>
 						</div>
 					</div>
 					<div class="item slider-pic">
-						<img src="images/sliders/2.jpg" alt="" />
+						<img src="images/sliders/2_transito_bogota.jpg" alt="" />
 						<div class="slider-content-box">
-							<h2 class="stripe">Strategic and commercial approach</h2>
-							<p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent conubia inceptos himenaeos.</p>
+							<h2 class="stripe">Transite con sus documentos en regla</h2>
+							<p>Para evitar inconvenientes y sorpresas revise regularmente el SOAT, la revision TecnicoMecanica e impuestos de su vehiculo.</p>
 							<div class="accent-btn">
-								<a href="#">View All Services</a>
-							</div>
-						</div>
-					</div>
-					<div class="item slider-pic">
-						<img src="images/sliders/3.jpg" alt="" />
-						<div class="slider-content-box">
-							<h2 class="stripe">Financial Projections and Analysis</h2>
-							<p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent conubia inceptos himenaeos.</p>
-							<div class="accent-btn">
-								<a href="#">Buy This Template</a>
+								<a href="#">Leer más</a>
 							</div>
 						</div>
 					</div>
@@ -167,12 +84,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
-                    <h3>wanna start a new Finance project ? contact us and start today.</h3>
+                    <h3>Quiere una asesoria en algun tramite de transito? Contactenos ahora!</h3>
                 </div>
 
                 <div class="col-md-3">
                       <div class="accent-btn">
-              <a href="contact.html">get a quote</a>
+              <a href="contactenos.php">Solicitar una asesoria</a>
             </div>
                 </div>
             </div>
@@ -185,37 +102,37 @@
         <div class="container">
           <div class="row">
             <div class="section-title align-center col-md-12">
-              <h2 class="stripe">our services</h2>
+              <h2 class="stripe">Nuestros Servicios</h2>
             </div>
           </div>
           <div class="row">
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/1.jpg" alt="">
+                <img src="images/services/formulario_de_traspaso_hiperservicios.jpg" alt="">
                 <div class="service-info">
-                  <h4>Strategic Planning</h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Nulla cursus pharetra massa at lacinia Fusce eleifhend Fusce in dapibus.</p>
-                  <a href="service_strategic_planning.html" class="">read More</a>
+                  <h4>Traspaso de vehiculo</h4>
+                  <p>Cuando compre o venda su vehiculo, debe registrar dicha transaccion en las oficinas de transito, nosotros le indicamos como.</p>
+                  <a href="service_strategic_planning.html" class="">Leer más</a>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/2.jpg" alt="">
+                <img src="images/services/Levantamiento_prenda_hiperservicios.jpg" alt="">
                 <div class="service-info">
-                  <h4>Turnaround Consulting</h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Nulla cursus pharetra massa at lacinia Fusce eleifhend Fusce in dapibus.</p>
-                  <a href="service_turnaround_consultingn.html" class="">read More</a>
+                  <h4>Levantamiento de prenda</h4>
+                  <p>Si ya termino de pagar la deuda de su vehiculo es hora de levantar la pignoracion que tiene con la entidad financiera.</p>
+                  <a href="service_turnaround_consultingn.html" class="">Leer más</a>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/3.jpg" alt="">
+                <img src="images/services/certificado_tradicion_hiperservicios.jpg" alt="">
                 <div class="service-info">
-                  <h4>Bonds & Commodities</h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Nulla cursus pharetra massa at lacinia Fusce eleifhend Fusce in dapibus.</p>
-                  <a href="service_bonds_commodities.html" class="">read More</a>
+                  <h4>Certificados de tradición</h4>
+                  <p>Confirme el historial de embargos y siniestros del vehiculo que va a comprar, no se deje engañar.</p>
+                  <a href="service_bonds_commodities.html" class="">Leer más</a>
                 </div>
               </div>
             </div>
@@ -224,7 +141,7 @@
       </section>
       <!-- what we do -->
 
-      <!--========================Why choose us========================== -->
+      <!--========================Why choose us========================== 
       <section class="why-choose-us grey">
         <div class="container">
           <div class="row">
@@ -274,7 +191,7 @@
       </section>
       <!-- Why choose us -->
 
-      <!--========================Projects========================== -->
+      <!--========================Projects========================== 
       <section class="recent-projects">
         <div class="container">
           <div class="row">
@@ -395,36 +312,36 @@
                     <div class="fact-icon">
                       <i class="icomoon-icon-trophy"></i>
                     </div>
-                     <h2 class="timer" data-from="1" data-to="12" data-speed="5000" data-refresh-interval="50">12</h2>
-                    <span class="count-number-dsc">Winning Awards</span>
+                     <h2 class="timer" data-from="5375" data-to="5386" data-speed="5000" data-refresh-interval="50">12</h2>
+                    <span class="count-number-dsc">Tramites realizados</span>
                   </div>
                   <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="fact-icon">
                       <i class="icomoon-icon-office"></i>
                     </div>
-                     <h2 class="timer" data-from="100" data-to="1325" data-speed="5000" data-refresh-interval="50">1325</h2><!--End Number-->
-                    <span class="count-number-dsc">Projects Delivered</span>
+                     <h2 class="timer" data-from="1" data-to="3" data-speed="5000" data-refresh-interval="50">1325</h2><!--End Number-->
+                    <span class="count-number-dsc">Oficinas a nivel nacional</span>
                   </div>
                   <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="fact-icon">
                       <i class="icomoon-icon-briefcase"></i>
                     </div>
-                     <h2 class="timer"  data-from="10" data-to="40" data-speed="5000" data-refresh-interval="50">40</h2><!--End Number-->
-                    <span class="count-number-dsc">Years on the Market</span>
+                     <h2 class="timer"  data-from="1" data-to="11" data-speed="5000" data-refresh-interval="50">40</h2><!--End Number-->
+                    <span class="count-number-dsc">Años en el mercado</span>
                   </div>
                   <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="fact-icon">
                       <i class="icomoon-icon-user"></i>
                     </div>
-                     <h2 class="timer" data-from="10" data-to="89" data-speed="5000" data-refresh-interval="50">20000</h2><!--End Number-->
-                    <span class="count-number-dsc">Skilled Professionals</span>
+                     <h2 class="timer" data-from="1" data-to="11" data-speed="5000" data-refresh-interval="50">20000</h2><!--End Number-->
+                    <span class="count-number-dsc">Empleos generados</span>
                   </div>
                 </div><!--End Row-->
               </div><!--End Container-->
       </section>
       <!-- End fun-facts -->
 
-      <!--========================news section========================== -->
+      <!--========================news section========================== 
        <section class="news-section grey">
         <div class="container">
           <div class="row">
@@ -484,17 +401,16 @@
       <section class="about-us-img">
         <div class="container">
           <div class="row">
-            <h3>Investing with innovation</h3>
-            <h2>Innovative solutions to move your <br>business forward</h2>
+            <h2>Somos especialistas en <br>tramites ante transito</h2>
             <div class="accent-btn">
-								<a href="#">get a quote</a>
+								<a href="contactenos.php">Solicitar una asesoria</a>
 						</div>
           </div>
         </div>
       </section>
       <!-- about-us-img -->
 
-      <!--========================team========================== -->
+      <!--========================team========================== 
       <section class="team">
         <div class="container">
           <div class="row">
@@ -556,93 +472,14 @@
       </section>
       <!-- End team -->
 
+
+
       <!--========================Footer========================== -->
-			<footer>
-				<div class="main-footer">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="footer-widget">
-									<div class="widget-title">
-											<h4>About Buildplus</h4>
-									</div>
-									<div class="text-box">
-										<p>Founded by Kevin Smith back in 2000. Renovate has estabilished itself as one of the greatest and prestigious providers of construction focused interior renovation services and building.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="footer-widget">
-									<div class="widget-title">
-										<h4>navigation</h4>
-									</div>
-									<ul class="footer-nav">
-										<li><a href="#">Home</a></li>
-										<li><a href="#">About us</a></li>
-										<li><a href="#">Our Projects</a></li>
-										<li><a href="#">Blog</a></li>
-										<li><a href="#">Our Services</a></li>
-										<li><a href="#">Pages</a></li>
-										<li><a href="#">Projects</a></li>
-										<li><a href="#">Contact us</a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="footer-widget">
-									<div class="widget-title">
-										<h4>tags</h4>
-									</div>
-									<div class="tagcloud">
-										<ul>
-											<li>
-												<a href="#">design</a>
-											</li>
-											<li>
-												<a href="#">Business</a>
-											</li>
-											<li>
-												<a href="#">Construction</a>
-											</li>
-											<li>
-												<a href="#">wordpress</a>
-											</li>
-											<li>
-												<a href="#">Wood</a>
-											</li>
-											<li>
-												<a href="#">Envato</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="footer-widget">
-								<div class="widget-title">
-										<h4>from the blog</h4>
-								</div>
-								<ul class="lasts-posts">
-									<li><a href="#">How To Build A Construction Plan</a></li>
-									<li><a href="#">What a Difference a Few Months Make</a></li>
-									<li><a href="#">Construction Forklift Buyers Guide</a></li>
-									<li><a href="#">consectetuer adipiscing elit sed diam </a></li>
-								</ul>
-							</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="footer-btm">
-					<div class="container">
-						<div class="row">
-              <span class="copyright">© Copyright 2016 <a href="#" title="ConsultMe Template" target="_blank">ConsultMe Template</a> by <a href="https://themeforest.net/user/style-themes/portfolio" title="Stylish-Themes" target="_blank">style Themes</a>
-							</span>
-						</div>
-					</div>
-				</div>
-			</footer>
+			     <?php include 'footer.php'; ?>
 			<!-- End Footer -->
+
+
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

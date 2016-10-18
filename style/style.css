@@ -58,7 +58,7 @@ ol, ul {
 }
 
 section {
-  padding: 70px 0;
+  padding: 0px 0;
 }
 
 strong {
@@ -158,8 +158,7 @@ h6 {
     color: #ffffff;
     display: inline-block;
     padding: 11px 20px;
-    border: 2px solid #30344d;
-    background-color: #30344d;
+    background-color: #2bb12b;
     border-radius: 3px;
     letter-spacing: 0.5px;
     transition: all 0.3s ease;
@@ -264,6 +263,15 @@ h6 {
     letter-spacing: 0;
 }
 /* --- Main MENU --- */
+
+.mainmenu-area.stricky-fixed {
+    position: fixed;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
 .main-header .header-menu {
     position: relative;
     left: 0px;
@@ -420,9 +428,9 @@ h6 {
     line-height: 52px;
     border: 0;
     border-radius: 0 3px 3px 0!important;
-    -webkit-transition: background-color .3s ease-in-out;
-    -o-transition: background-color .3s ease-in-out;
-    transition: background-color .3s ease-in-out;
+    -webkit-transition: background-color .5s ease-in-out;
+    -o-transition: background-color .5s ease-in-out;
+    transition: background-color .5s ease-in-out;
 }
 .owl-prev,
 .owl-next {
@@ -488,7 +496,7 @@ h6 {
 .slider-content-box{
 	background:rgba(255, 255, 255, 0.81) ;
 	padding-bottom: 40px;
-	top: 18%;
+	top: 30%;
 	width: 500px;
 	left: calc(30% - 250px);
 	position: absolute;
@@ -771,7 +779,7 @@ section.about-us-img{
   padding: 125px 0;
 }
 .about-us-img{
-    background: url('../images/others/2p.jpg') center fixed;
+    background: url('../images/others/placas.jpg') center fixed;
     position: relative;
     background-size: cover;
     -webkit-background-size: cover;
@@ -1626,6 +1634,7 @@ section.testimonials {
 /* --------google map-------------*/
 .google-map{
     position: relative;
+    /*pointer-events: none;*/
 }
 #map-section{
     height: 550px;
@@ -1663,7 +1672,7 @@ section.testimonials {
 .main-footer {
 
 	background-color: #242427;
-	padding: 80px 0px;
+	padding: 35px 0px;
 }
 footer .main-footer .widget-title h4 {
     color: #ffffff;
@@ -1725,4 +1734,20 @@ footer .footer-btm .copyright a {
   content: "";
   display: table;
   clear: both;
+}
+
+.main-header.navbar-fixed-top{
+    position: fixed;
+}
+
+.page-heading,
+.d-toppagefixed{
+    margin-top: 158px;
+
+}
+
+.formatoh1{
+    margin-top: 10px;
+    text-align: center;
+    cursor: pointer;
 }

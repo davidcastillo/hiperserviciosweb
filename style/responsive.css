@@ -196,7 +196,8 @@
 }
 @media (max-width: 500px) {
 	#slider .item.slider-pic {
-    	height: 300px;
+    	display: none;
+		height: 300px;
 	}
 	.top-slider .owl-prev, .top-slider .owl-next{
 		display: none!important;
