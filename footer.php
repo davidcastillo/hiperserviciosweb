@@ -63,10 +63,10 @@
 										<h4>Del blog</h4>
 								</div>
 								<ul class="lasts-posts">
-									<li><a href="#">How To Build A Construction Plan</a></li>
-									<li><a href="#">What a Difference a Few Months Make</a></li>
-									<li><a href="#">Construction Forklift Buyers Guide</a></li>
-									<li><a href="#">consectetuer adipiscing elit sed diam </a></li>
+									<li><a href="#">Visite nuestro blog</a></li>
+									<li><a href="#">Para conocer temas de actualidad</a></li>
+									<li><a href="#">sobre tramites de transito</a></li>
+									<li><a href="#">y la legalización de documentos ante transito</a></li>
 								</ul>
 							</div>
 							</div>

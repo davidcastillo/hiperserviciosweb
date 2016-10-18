@@ -27,7 +27,7 @@
 /*-------------------------------------------------*/
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     color: #777777;
     font-weight: 400;
     background: #ffffff;
@@ -158,7 +158,7 @@ h6 {
     color: #ffffff;
     display: inline-block;
     padding: 11px 20px;
-    background-color: #2bb12b;
+    background-color: red;
     border-radius: 3px;
     letter-spacing: 0.5px;
     transition: all 0.3s ease;
@@ -241,7 +241,7 @@ h6 {
     margin-top: 0;
     font-size: 30px;
     line-height: 30px;
-    color: #038875;
+    color: #172db3;
 }
 .header-info li .h-text {
     font-weight: 400;
@@ -277,7 +277,7 @@ h6 {
     left: 0px;
     top: 0px;
     width: 100%;
-    background: #30344d;
+    background: #172db3;
     z-index: 5;
 }
 .main-header .nav-outer {
@@ -373,7 +373,7 @@ h6 {
     top: 0px;
     width: 200px;
     height: 100%;
-    background: #2bb12b;
+    background: red;
 }
 
 .main-header .get-btn:hover {
@@ -998,16 +998,16 @@ section.testimonials {
 /* --- page header --- */
 .page-heading{
     text-align: center;
-    background-image: url('../images/others/1h.jpg') !important;
+   /* background-image: url('../images/team/tramitadores.jpg') !important;*/
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 65px 0 ;
+    padding: 0px 0 ;
 }
 .page-heading .stripe:after{
     background: #ffffff;
 }
 .page-heading h2{
-    color: #ffffff!important;
+    color: black!important;
     font-size: 36px;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -1634,7 +1634,7 @@ section.testimonials {
 /* --------google map-------------*/
 .google-map{
     position: relative;
-    /*pointer-events: none;*/
+    pointer-events: none;
 }
 #map-section{
     height: 550px;
@@ -1645,13 +1645,13 @@ section.testimonials {
 .contact-us .contact-info ul li {
     display: block;
     font-family: 'Montserrat', sans-serif;
-    font-size: 13px;
+    font-size: 17px;
     margin: 15px 0px;
     color: #30344d;
 }
 
 .contact-us .contact-info ul li i {
-    color: #038875;
+    color: #172db3;
     margin-right: 20px;
     font-size: 20px;
     line-height: 35px;

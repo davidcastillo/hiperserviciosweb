@@ -39,7 +39,6 @@
      <?php include 'header.php'; ?>
       <!-- End Header -->
 
-
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
@@ -206,10 +205,10 @@
 				</div>
 			</section>
       <!-- End Trades & Stocks -->
-<!--========================Footer========================== -->
+
+    <!--========================Footer========================== -->
 			     <?php include 'footer.php'; ?>
 			<!-- End Footer -->
-
 
 			
       <!-- scrollToTop -->

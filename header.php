@@ -54,22 +54,22 @@
                     </div>
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                       <ul class="nav navbar-nav">
-                        <li class="drop"><a class="active" href="home.php">Inicio</a></li>
+                        <li class="drop"><a class="active" href="index.php">Inicio</a></li>
                         <li class="drop"><a href="nosotros.php">Nosotros</a></li>
-                        <li class="drop"><a href="oficinas.php">Oficinas</a>
+                        <li class="drop"><a href="#">Oficinas</a>
                           <ul class="dropdown">
                             <li><a href="bogota.php">Bogotá</a></li>
                             <li><a href="medellin.php">Medellín</a></li>
                             <li><a href="ibague.php">Ibagué</a></li>
                           </ul>
                         </li>
-                        <li class="drop"><a href="servicios.php">Servicios</a>
+                        <li class="drop"><a href="traspaso.php">Servicios</a>
                           <ul class="dropdown">
                             <li><a href="traspaso.php">Traspaso de vehiculo</a></li>
                             <li><a href="levantamiento_de_prenda.php">Levantamiento de prenda</a></li>
                             <li><a href="traslado_de_cuenta.php">Traslado de cuenta</a></li>
                             <li><a href="cancelacion_de_matricula.php">Cancelacion de matricula</a></li>
-                            <li><a href="transformacion.php">Transformacion</a></li>
+                            <li><a href="certificado_de_tradicion.php">Certificados de tradición</a></li>
                             <li><a href="otros.php">Otros</a></li>
                           </ul>
                         </li>

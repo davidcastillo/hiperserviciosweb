@@ -39,10 +39,11 @@
      <?php include 'header.php'; ?>
       <!-- End Header -->
 
+
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h2 class="stripe">Strategic Planning</h2>
+          <h2 class="stripe">Traspaso</h2>
         </div>
       </div>
       <!-- Page heading -->
@@ -56,34 +57,33 @@
 								<div class="widget vertical-menu">
 									<ul>
 										<li class="selected">
-											<a href="service_strategic_planning.html" title="Strategic Planning">
-												Strategic Planning
+											<a href="traspaso.php" title="Traspaso">
+												Traspasos
 											</a>
 										</li>
 										<li>
-											<a href="service_turnaround_consultingn.html" title="Turnaround Consulting">
-												Turnaround Consulting
+											<a href="levantamiento_de_prenda.php" title="Levantamiento de Prenda">
+												Levantamiento de prenda
 												<i class=""></i>
 											</a>
 										</li>
 										<li>
-											<a href="service_bonds_commodities.html" title="Bonds & Commodities">
-												Bonds & Commodities
+											<a href="traslado_de_cuenta.php" title="traslado de cuenta">
+												Traslado de Cuenta
 											</a>
 										</li>
 										<li>
-											<a href="service_audit_assurance.html" title="Audit & Assurance">
-												Audit & Assurance
+											<a href="cancelacion_de_matricula.php" title="Cancelacion de matricula">
+												Cancelación de matricula											</a>
+										</li>
+										<li>
+											<a href="certificado_de_tradicion.php" title="certificado de tradicion">
+												Certificado de tradición
 											</a>
 										</li>
 										<li>
-											<a href="service_financial_projections.html" title="Financial Projections">
-												Financial Projections
-											</a>
-										</li>
-										<li>
-											<a href="service_trades_stocks.html" title="Trades & Stocks">
-												Trades & Stocks
+											<a href="otros.php" title="Otros tramites de transito">
+												Otros
 
 											</a>
 										</li>
@@ -131,11 +131,11 @@
 									</div>
 								</div>
 								<div class="services-post">
-										<h4>Service Overview</h4>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-										<br>
-										<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+										<h4>Que es?</h4>
+										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo, 
 										</p>
+										<br>
+										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el tramite de traspaso ante la secretaria correspondiente, esto le evitara inconvenientes en el futuro.</p>
 								</div>
 								<div class="row">
 									<div class="col-md-6">
@@ -205,10 +205,10 @@
 				</div>
 			</section>
       <!-- End Trades & Stocks -->
-
-    <!--========================Footer========================== -->
+<!--========================Footer========================== -->
 			     <?php include 'footer.php'; ?>
 			<!-- End Footer -->
+
 
 			
       <!-- scrollToTop -->
