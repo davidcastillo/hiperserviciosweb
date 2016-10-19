@@ -131,7 +131,7 @@
 									</div>
 								</div>
 								<div class="services-post">
-										<h4>Que es?</h4>
+										<h4>Que es? y para que sirve</h4>
 										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo, 
 										</p>
 										
