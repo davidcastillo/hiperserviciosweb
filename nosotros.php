@@ -42,7 +42,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading container">
         <div class="">
-          <h2 class="stripe">Strategic Planning</h2>
+         <!-- <h2 class="stripe">Strategic Planning</h2> -->
         </div>
       </div>
       <!-- Page heading -->
