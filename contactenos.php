@@ -58,15 +58,15 @@
                   <textarea name="message" placeholder="Inquietud"></textarea>
                   <button type="submit" class="submit">enviar</button>
               </form> 
-              
-        <!-- End form holder -->
             </div>
+                    <!-- End form holder -->
+
             <div class="col-md-5">
               <div class="contact-info">
                 <h4>HIPERSERVICIOS COLOMBIA</h4>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
-                <li><i class="icomoon-icon-phone"></i>315 229 23 79 -  317 482 38 41 <br>(8) 266 74 82 - 266 75 55</br></li>
+                <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
                   <li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
                     <br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
                     </li>

@@ -73,7 +73,7 @@
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
                   <li><i class="icon-map-marker"></i>Calle 60 No.2A - 59 Barrio La Floresta</li>
-                  <li><i class="icomoon-icon-phone"></i>317 482 38 41</li>
+                  <li><i class="icomoon-icon-phone"></i><a href="tel:+573174823841">317 482 38 41</a></li>
                   <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
                   <li><i class="icomoon-icon-clock"></i>Lunes - Sabado : 08:00am - 6:00pm</li>
                 </ul>

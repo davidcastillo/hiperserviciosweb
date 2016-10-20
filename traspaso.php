@@ -91,25 +91,25 @@
 								</div>
 								<div class="widget widget-brochures">
 									<div class="widget-title">
-										<h4 class="stripe">Brochures</h4>
+										<h4 class="stripe">Formatos esenciales</h4>
 									</div>
 									<ul>
 										<li>
 											<a href="#" class="button-brochures">
 												<i class="icomoon-icon-file-pdf"></i>
-												Download.pdf
+												Formulario de traspaso.pdf
 											</a>
 										</li>
 										<li>
 											<a href="#" class="button-brochures">
 												<i class="icomoon-icon-file-pdf"></i>
-												Download.doc
+												Contrato de Mandato.pdf
 											</a>
 										</li>
 										<li>
 											<a href="#" class="button-brochures">
 												<i class="icomoon-icon-file-pdf"></i>
-												Download.ppt
+												Contrato de compraventa.pdf
 											</a>
 										</li>
 									</ul>
@@ -137,7 +137,54 @@
 										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el tramite de traspaso ante la secretaria correspondiente, esto le evitara inconvenientes en el futuro.</p>
 								</div>
 								<div class="row">
-									<div class="col-md-6">
+
+										<section class="contact-us caja_contact_in_tramite">
+												<div class="row">
+													
+													<div class="col-md-5">
+													<div class="contact-info">
+														<h4>HIPERSERVICIOS COLOMBIA</h4>
+														<ul>
+														<li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
+														<br>
+														<li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
+															<br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
+															</li>
+														<li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
+														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br> 
+														</li>
+															<li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
+															<br>Calle 60 No.2A - 59 Barrio La Floresta</br> 
+															</li>
+															<li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
+														</ul>
+													</div>
+													</div>
+
+													<div class="col-md-7">
+													<form action="includes/sendemail.php" class="contact-form">
+														<input type="text" name="name" placeholder="Su nombre">
+														<input type="email" name="email" placeholder="Su Email">
+														<input type="text" name="subject" placeholder="Tema">
+														<textarea name="message" placeholder="Inquietud"></textarea>
+														<button type="submit" class="submit">enviar</button>
+													</form> 
+													</div>
+															<!-- End form holder -->
+
+													
+												</div>
+												</div>
+											</section>
+											<!-- End contact-us -->
+
+
+
+
+
+
+
+									<!-- <div class="col-md-6">
 										<div class="services-post">
 											<h4>Brochures</h4>
 											<img src='images/services/single3.jpg' alt='img'>
@@ -198,7 +245,7 @@
 											</dl>
 										</div>
 									</div>
-								</div>
+								</div>-->
 						</div>
 					</div>
 				</div>

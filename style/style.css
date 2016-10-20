@@ -1742,7 +1742,7 @@ footer .footer-btm .copyright a {
 
 .page-heading,
 .d-toppagefixed{
-    margin-top: 158px;
+    margin-top: 180px;
 
 }
 
@@ -1750,4 +1750,11 @@ footer .footer-btm .copyright a {
     margin-top: 10px;
     text-align: center;
     cursor: pointer;
+}
+
+.caja_contact_in_tramite
+{
+    margin-top: 0px;
+    margin-bottom: 25px;
+    margin-left: 60px;
 }

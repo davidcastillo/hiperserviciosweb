@@ -83,7 +83,7 @@
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
                   <li><i class="icon-map-marker"></i>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</li>
-                  <li><i class="icomoon-icon-phone"></i>315 229 23 79</li>
+                  <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a></li>
                   <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
                   <li><i class="icomoon-icon-clock"></i>Lunes - Sabado : 08:00am - 6:00pm</li>
                 </ul>
