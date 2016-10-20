@@ -142,7 +142,7 @@
 												<div class="row">
 													
 													<div class="col-md-5">
-													<div class="contact-info">
+													<div class="contact-info" style=" height: 460px; margin-left: -46px;">
 														<h4>HIPERSERVICIOS COLOMBIA</h4>
 														<ul>
 														<li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
@@ -177,13 +177,6 @@
 												</div>
 											</section>
 											<!-- End contact-us -->
-
-
-
-
-
-
-
 									<!-- <div class="col-md-6">
 										<div class="services-post">
 											<h4>Brochures</h4>

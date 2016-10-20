@@ -43,7 +43,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h2 class="stripe">Strategic Planning</h2>
+          <h2 class="stripe">Otros tramites de Transito</h2>
         </div>
       </div>
       <!-- Page heading -->
@@ -56,35 +56,34 @@
 							<div class="sidebar">
 								<div class="widget vertical-menu">
 									<ul>
-										<li class="selected">
-											<a href="service_strategic_planning.html" title="Strategic Planning">
-												Strategic Planning
+										<li>
+											<a href="traspaso.php" title="Traspaso">
+												Traspasos
 											</a>
 										</li>
 										<li>
-											<a href="service_turnaround_consultingn.html" title="Turnaround Consulting">
-												Turnaround Consulting
+											<a href="levantamiento_de_prenda.php" title="Levantamiento de Prenda">
+												Levantamiento de prenda
 												<i class=""></i>
 											</a>
 										</li>
 										<li>
-											<a href="service_bonds_commodities.html" title="Bonds & Commodities">
-												Bonds & Commodities
+											<a href="traslado_de_cuenta.php" title="traslado de cuenta">
+												Traslado de Cuenta
 											</a>
 										</li>
 										<li>
-											<a href="service_audit_assurance.html" title="Audit & Assurance">
-												Audit & Assurance
-											</a>
+											<a href="cancelacion_de_matricula.php" title="Cancelacion de matricula">
+												Cancelación de matricula											</a>
 										</li>
 										<li>
-											<a href="service_financial_projections.html" title="Financial Projections">
-												Financial Projections
+											<a href="certificado_de_tradicion.php" title="certificado de tradicion">
+												Certificado de tradición
 											</a>
 										</li>
-										<li>
-											<a href="service_trades_stocks.html" title="Trades & Stocks">
-												Trades & Stocks
+										<li class="selected">
+											<a href="otros.php" title="Otros tramites de transito">
+												Otros
 
 											</a>
 										</li>
@@ -92,25 +91,25 @@
 								</div>
 								<div class="widget widget-brochures">
 									<div class="widget-title">
-										<h4 class="stripe">Brochures</h4>
+										<h4 class="stripe">Formatos esenciales</h4>
 									</div>
 									<ul>
 										<li>
 											<a href="#" class="button-brochures">
 												<i class="icomoon-icon-file-pdf"></i>
-												Download.pdf
+												Formulario de traspaso.pdf
 											</a>
 										</li>
 										<li>
 											<a href="#" class="button-brochures">
 												<i class="icomoon-icon-file-pdf"></i>
-												Download.doc
+												Contrato de Mandato.pdf
 											</a>
 										</li>
 										<li>
 											<a href="#" class="button-brochures">
 												<i class="icomoon-icon-file-pdf"></i>
-												Download.ppt
+												Contrato de compraventa.pdf
 											</a>
 										</li>
 									</ul>
@@ -132,14 +131,53 @@
 									</div>
 								</div>
 								<div class="services-post">
-										<h4>Service Overview</h4>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-										<br>
-										<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+										<h4>Que es?</h4>
+										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo, 
 										</p>
+										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el tramite de traspaso ante la secretaria correspondiente, esto le evitara inconvenientes en el futuro.</p>
 								</div>
 								<div class="row">
-									<div class="col-md-6">
+
+										<section class="contact-us caja_contact_in_tramite">
+												<div class="row">
+													
+													<div class="col-md-5">
+													<div class="contact-info" style=" height: 460px; margin-left: -46px;">
+														<h4>HIPERSERVICIOS COLOMBIA</h4>
+														<ul>
+														<li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
+														<br>
+														<li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
+															<br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
+															</li>
+														<li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
+														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br> 
+														</li>
+															<li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
+															<br>Calle 60 No.2A - 59 Barrio La Floresta</br> 
+															</li>
+															<li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
+														</ul>
+													</div>
+													</div>
+
+													<div class="col-md-7">
+													<form action="includes/sendemail.php" class="contact-form">
+														<input type="text" name="name" placeholder="Su nombre">
+														<input type="email" name="email" placeholder="Su Email">
+														<input type="text" name="subject" placeholder="Tema">
+														<textarea name="message" placeholder="Inquietud"></textarea>
+														<button type="submit" class="submit">enviar</button>
+													</form> 
+													</div>
+															<!-- End form holder -->
+
+													
+												</div>
+												</div>
+											</section>
+											<!-- End contact-us -->
+									<!-- <div class="col-md-6">
 										<div class="services-post">
 											<h4>Brochures</h4>
 											<img src='images/services/single3.jpg' alt='img'>
@@ -200,16 +238,16 @@
 											</dl>
 										</div>
 									</div>
-								</div>
+								</div>-->
 						</div>
 					</div>
 				</div>
 			</section>
       <!-- End Trades & Stocks -->
-
-     <!--========================Footer========================== -->
+<!--========================Footer========================== -->
 			     <?php include 'footer.php'; ?>
 			<!-- End Footer -->
+
 
 			
       <!-- scrollToTop -->

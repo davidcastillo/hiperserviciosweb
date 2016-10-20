@@ -53,7 +53,6 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="project-pics">
-								<a href="images/projects/single4.jpg" class="prettyPhoto">
 							<img src='images/team/tramitadores.jpg' alt='Somos un equipo de 10 personas listas para hacer su tramite ante transito' title="tramitadores de transito">
 						</a>
 						<!--	<a href="images/projects/single5.jpg" class="prettyPhoto">
