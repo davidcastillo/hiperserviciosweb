@@ -1,134 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 <url>
-  <loc>http://www.asesoriasantetransito.com/</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/tel:+573152292379</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/bogota.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/tel:+573174823841</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/medellin.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/bogota.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/ibague.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/medellin.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/index.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/ibague.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/nosotros.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/index.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/traspaso.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/nosotros.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/levantamiento_de_prenda.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/traspaso.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/traslado_de_cuenta.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/levantamiento_de_prenda.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/cancelacion_de_matricula.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/traslado_de_cuenta.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/certificado_de_tradicion.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/cancelacion_de_matricula.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/otros.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/certificado_de_tradicion.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/blog.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/otros.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/contactenos.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/blog.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/oficinas.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://www.asesoriasantetransito.com/contactenos.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
+  <loc>http://asesoriasantetransito.com/servicios.php</loc>
+  <lastmod>2016-10-31T20:15:18+00:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
-<url>
-  <loc>http://www.asesoriasantetransito.com/service_strategic_planning.html</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
-</url>
-<url>
-  <loc>http://www.asesoriasantetransito.com/service_turnaround_consultingn.html</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
-</url>
-<url>
-  <loc>http://www.asesoriasantetransito.com/service_bonds_commodities.html</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
-</url>
-<url>
-  <loc>http://www.asesoriasantetransito.com/home.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
-</url>
-<url>
-  <loc>http://www.asesoriasantetransito.com/oficinas.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
-</url>
-<url>
-  <loc>http://www.asesoriasantetransito.com/servicios.php</loc>
-  <priority>0.0</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2016-10-31</lastmod>
-</url>
+</urlset>
