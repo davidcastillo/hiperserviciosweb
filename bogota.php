@@ -7,6 +7,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Realizamos tramites de transito en Bogotá y municipios aledaños">
+
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -80,6 +82,7 @@
             <div class="col-md-4">
               <div class="contact-info">
                 <h4>HIPERSERVICIOS BOGOTÁ</h4>
+                <p>Nuestra oficina esta para realizar sus tramites de transito en Bogotá y municipios aledaños</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
                   <li><i class="icon-map-marker"></i>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</li>
