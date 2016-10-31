@@ -8,6 +8,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Somos especialistas en realizar tramites ante transito, traspasos, levantamiento de prenda, traslado de cuenta,  cancelación de matricula, certificados de tradición, etc.">
+    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+    <meta name="robots" content="follow, index" />
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -47,7 +49,7 @@
       <div class="top-slider">
 				<div id="slider" class="owl-carousel">
 					<div class="item slider-pic">
-						<img src="images/sliders/vender_mi_carro.jpg" alt="" />
+						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" />
 						<div class="slider-content-box">
 							<h2 class="stripe">Legalize su traspaso</h2>
 							<p>Cuando venda su vehiculo es muy importante que legalize su traspaso para evitar multas, impuestos y otros inconvenientes que le puede traer tener un vehiculo que ya vendio a su nombre.</p>
