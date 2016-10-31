@@ -1759,3 +1759,41 @@ footer .footer-btm .copyright a {
     margin-bottom: 25px;
     margin-left: 60px;
 }
+
+@media screen and (max-width: 480px) {
+    .logo{
+        width: 100%;
+        text-align: center;
+        padding-bottom: 0px;
+    }
+    .logo a{
+        display: block;
+    }
+    .header-info li,
+    .header-info li:first-child {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        margin-left: 20px;
+    }
+
+    .top-slider{
+        margin-top: 265px;
+    }
+
+    .owl-item,
+    .owl-item img{
+        width: 100%;
+    }
+
+    .slider-content-box{
+        width: 100%;
+        left: 0;
+    }
+
+    
+
+
+
+
+}
