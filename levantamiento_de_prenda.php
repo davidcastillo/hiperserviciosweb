@@ -132,9 +132,10 @@
 								</div>
 								<div class="services-post">
 										<h4>Que es?</h4>
-										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo, 
+										<p>Si compro su vehiculo utilizando un credito con una entidad financiera, y ya termino de pagar el credito, es hora de levantar la limitación a la propiedad que tenia el vehiculo para que pueda venderlo o permutarlo libremente, 
 										</p>
-										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el tramite de traspaso ante la secretaria correspondiente, esto le evitara inconvenientes en el futuro.</p>
+										<p>para realizar este tramite debe contar con una carta expedida por la entidad financiera que no supere los 
+										30 dias de expedida en la cual certifican que la deuda esta pagada y que levantan la prenda impuesta sobre el vehiculo realizada en el momento que adquirio el vehiculo a traves del prestamo.</p>
 								</div>
 								<div class="row">
 

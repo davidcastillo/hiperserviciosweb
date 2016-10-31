@@ -132,9 +132,11 @@
 								</div>
 								<div class="services-post">
 										<h4>Que es?</h4>
-										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo, 
+										<p>Si desafortunadamente su vehiculo fue robado o desaparecido y no tiene rastro de el, es conveneniente que realize la cancelación de la matricula ante la secretaria de transito correspondiente, 
 										</p>
-										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el tramite de traspaso ante la secretaria correspondiente, esto le evitara inconvenientes en el futuro.</p>
+										<p>De esta manera, el vehiculo quedara desactivado de las bases de datos de la secretaria de transito y los impuestos y demas costos inherentes a la tenencia del vehiculo se detrentran porque el vehiculo tiene la matricula cancelada.</p>
+										<p>Si las autoridades encuentran nuevamente su vehiculo y esta en las condiciones aptas para entrar nuevamente en circulacion puede realizar un tramite llamada rematricula.</p>
+										
 								</div>
 								<div class="row">
 

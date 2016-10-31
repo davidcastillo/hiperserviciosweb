@@ -1672,8 +1672,9 @@ section.testimonials {
 .main-footer {
 
 	background-color: #242427;
-	padding: 35px 0px;
-}
+	padding-top: 15px;
+    padding-bottom: 0px;
+    }
 footer .main-footer .widget-title h4 {
     color: #ffffff;
 }
@@ -1702,7 +1703,7 @@ footer .main-footer .text-box p {
 /* --------copyright-------------*/
 footer .footer-btm {
     background-color: #1e1e21;
-    padding: 25px 0;
+    padding: 4px 0;
     text-align: center;
 }
 footer .footer-btm .copyright {
