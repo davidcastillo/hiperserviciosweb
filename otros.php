@@ -134,8 +134,8 @@
 								</div>
 								<div class="services-post">
 										<h4>Tramites de transito</h4>
-										<p>Entre los tramites de transito que puede realizar son: cambio de color, cambio de motor, regrabar motor, regrabar chasis, transformación, duplicado de licencia de transito, inscripcion de prenda, </p>
-										<p>Cambio de placas, rematricula, conversion de gasolina a gas, cambio de carroceria entre otros menos comunes y mas complicados.</p>
+										<p>Entre los tramites de transito que puede realizar son: cambio de color, cambio de motor, regrabar motor, regrabar chasis, transformación, duplicado de licencia de transito, inscripcion de prenda,
+										Cambio de placas, rematricula, conversion de gasolina a gas, cambio de carroceria entre otros menos comunes y mas complicados.</p>
 								</div>
 								<div class="row">
 
