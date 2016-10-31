@@ -7,6 +7,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Otros tramites de transito">
+
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -131,10 +133,9 @@
 									</div>
 								</div>
 								<div class="services-post">
-										<h4>Que es?</h4>
-										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo, 
-										</p>
-										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el tramite de traspaso ante la secretaria correspondiente, esto le evitara inconvenientes en el futuro.</p>
+										<h4>Tramites de transito</h4>
+										<p>Entre los tramites de transito que puede realizar son: cambio de color, cambio de motor, regrabar motor, regrabar chasis, transformación, duplicado de licencia de transito, inscripcion de prenda, </p>
+										<p>Cambio de placas, rematricula, conversion de gasolina a gas, cambio de carroceria entre otros menos comunes y mas complicados.</p>
 								</div>
 								<div class="row">
 

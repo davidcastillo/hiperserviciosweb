@@ -7,6 +7,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Que es un certificado de tradicion y porque es solicitarlo al comprar un vehiculo">
+
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -132,9 +134,8 @@
 								</div>
 								<div class="services-post">
 										<h4>Que es?</h4>
-										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo, 
-										</p>
-										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el tramite de traspaso ante la secretaria correspondiente, esto le evitara inconvenientes en el futuro.</p>
+										<p>La manera mas efectiva de conocer el historial legal de un carro es a traves de un certificado de tradicion, si va a comprar un vehiculo,</p>
+										<p>esta es la practica mas recomendada, ya que en este documento, solicitado en la secretaria de transito donde se encuentra matriculado el vehiculo estan reflejado, lo ultimos tramites realizar al vehiculo, embargos, reportes por robo etc.</p>
 								</div>
 								<div class="row">
 

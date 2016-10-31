@@ -7,6 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Realizamos tramites de transito en Medellin y municipios de Antioquia">
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -70,6 +71,7 @@
             <div class="col-md-4">
               <div class="contact-info">
                 <h4>HIPERSERVICIOS MEDELLÍN</h4>
+                <p>Nuestra oficina esta para realizar sus tramites de transito en Medellín y municipios aledaños de Antioquia</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
                   <li><i class="icon-map-marker"></i>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</li>

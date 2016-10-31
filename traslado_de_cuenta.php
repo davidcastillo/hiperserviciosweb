@@ -7,6 +7,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Que es un traslado de cuenta y porque es conveniente realizarlo">
+
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -132,7 +134,7 @@
 								</div>
 								<div class="services-post">
 										<h4>Que es?</h4>
-										<p>Si compro un carro matriculado en una ciudad diferente a la de su residencia, puede realizar el traslado de cuenta para tener mas a la mano el historial y la documentacion del vehiculo a la hora de una eventual venta,</p>
+										<p>Si compro un carro matriculado en una ciudad diferente a la de su residencia, puede realizar el traslado de cuenta para tener mayor control del historial y la documentación del vehiculo a la hora de una eventual venta,</p>
 										<p>Este tramite es opcional, no es obligatorio realizarlo, sin embargo algunos propietarios deciden hacerlo tambien motivados por ganar descuentos en impuestos sobre el vehiculo que ofrecen algunos departamentos.</p>
 								</div>
 								<div class="row">
