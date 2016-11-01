@@ -1764,6 +1764,17 @@ footer .footer-btm .copyright a {
     margin-left: 60px;
 }
 
+.subrayar_texto
+{
+    text-decoration: underline
+}
+
+
+
+
+
+
+
 @media screen and (max-width: 480px) {
     .logo{
         width: 100%;

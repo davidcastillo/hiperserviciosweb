@@ -12,8 +12,7 @@
                     <i class="icomoon-icon-phone"></i>
                     <div class="h-text">
                       Llámanos
-                      <span><a href="tel:+573152292379">315 229 23 79 - </a>    <a href="tel:+573174823841">317 482 38 41</a></span>
-                      
+                      <span><a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a> - <a class="subrayar_texto" href="tel:+573174823841">317 482 38 41</a></span>
                     </div>
                   </li>
                   <li class="group">
@@ -21,9 +20,9 @@
                     <div class="h-text">
                       Nuestras Oficinas
                       <span>
-                        <a href="bogota.php">Bogotá </a> -
-                        <a href="medellin.php">Medellín </a> - 
-                        <a href="ibague.php">Ibagué</a> 
+                        <a class="subrayar_texto" href="bogota.php">Bogotá </a> -
+                        <a class="subrayar_texto" href="medellin.php">Medellín </a> - 
+                        <a class="subrayar_texto" href="ibague.php">Ibagué</a> 
                       </span>
                     </div>
                   </li>
