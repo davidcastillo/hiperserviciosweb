@@ -46,7 +46,7 @@
     <!-- End Header -->
 
       <!--========================Slider========================== -->
-      <div class="top-slider">
+      <div class="top-slider visible-xs-*">
 				<div id="slider" class="owl-carousel">
 					<div class="item slider-pic">
 						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" />

@@ -1777,23 +1777,21 @@ footer .footer-btm .copyright a {
         margin-left: 20px;
     }
 
-    .top-slider{
+    .quote-intro{
         margin-top: 265px;
     }
+    .top-slider {
+        display: none;
+    }    
 
-    .owl-item,
-    .owl-item img{
-        width: 100%;
+
+     .get-btn{
+        display: none
     }
 
-    .slider-content-box{
+    .main-header .nav-outer{
+        padding-right: 0px;
         width: 100%;
-        left: 0;
     }
-
-    
-
-
-
 
 }
