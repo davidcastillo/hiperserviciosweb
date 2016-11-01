@@ -223,6 +223,10 @@ h6 {
     float: left;
     padding: 23px 0;
 }
+.header-info1 {
+    float: right;
+    padding: 10px 0;
+}
 .header-info {
     float: right;
     padding: 30px 0;
@@ -1769,14 +1773,16 @@ footer .footer-btm .copyright a {
     .logo a{
         display: block;
     }
+    .header-info{
+        padding: 10px;
+    }
     .header-info li,
     .header-info li:first-child {
         width: 100%;
-        margin: 0;
+        margin: 10px;
         padding: 0;
         margin-left: 20px;
     }
-
     .quote-intro{
         margin-top: 265px;
     }
