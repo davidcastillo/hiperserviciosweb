@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Hiperservicios, traspaso de vehiculos y demás tramites de transito</title>
+    <title>Hiperservicios, certificado de tradición y demás tramites de transito</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,7 +46,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h2 class="stripe">Certificado de Tradición</h2>
+          <h1 class="stripe">CERTIFICADO DE TRADICIÓN</h1>
         </div>
       </div>
       <!-- Page heading -->
@@ -135,8 +135,7 @@
 								</div>
 								<div class="services-post">
 										<h4>Que es?</h4>
-										<p>La manera mas efectiva de conocer el historial legal de un carro es a traves de un certificado de tradicion, si va a comprar un vehiculo,</p>
-										<p>esta es la practica mas recomendada, ya que en este documento, solicitado en la secretaria de transito donde se encuentra matriculado el vehiculo estan reflejado, lo ultimos tramites realizar al vehiculo, embargos, reportes por robo etc.</p>
+										<p>La manera mas efectiva de conocer el historial legal de un carro es a traves de un certificado de tradicion, si va a comprar un vehiculo, esta es la practica mas recomendada, ya que en este documento, solicitado en la secretaria de transito donde se encuentra matriculado el vehiculo estan reflejado, lo ultimos tramites realizar al vehiculo, embargos, reportes por robo etc.</p>
 								</div>
 								<div class="row">
 

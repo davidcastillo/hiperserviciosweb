@@ -6,7 +6,7 @@
 							<div class="col-md-3 col-sm-6 col-xs-12">
 								<div class="footer-widget">
 									<div class="widget-title">
-											<h4>Sobre HiperServicios Colombia</h4>
+											<h1>Sobre HiperServicios Colombia</h1>
 									</div>
 									<div class="text-box">
 										<p>Fundada en 2004. Somos especialistas en realizar tramites ante transito, realizamos traspasos, levantamiento de prenda, traslados de cuenta, licencias de transito.</p>

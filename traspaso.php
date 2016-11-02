@@ -46,7 +46,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h2 class="stripe">Traspaso</h2>
+          <h1 class="stripe">TRASPASO</h1>
         </div>
       </div>
       <!-- Page heading -->

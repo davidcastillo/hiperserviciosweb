@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Hiperservicios, traspaso de vehiculos y demás tramites de transito</title>
+    <title>Hiperservicios, tramites de transito en Ibagué y Tolima</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -73,7 +73,7 @@
             </div>
             <div class="col-md-4">
               <div class="contact-info">
-                <h4>HIPERSERVICIOS IBAGUÉ</h4>
+                <h1>TRAMITES DE TRANSITO EN HIPERSERVICIOS IBAGUÉ</h1>
                 <p>Nuestra oficina esta para realizar sus tramites de transito en Ibagué y municipios aledaños del Tolima</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>

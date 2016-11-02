@@ -84,8 +84,9 @@
 									<li>::   Etiam sit amet sem a lorem porta tempor</li>
 									<li>::   Vivamus bibendum diam ornare nunc</li>
 								</ul>-->
-								<h1>Nuestro Objetivo</h1>
-								<p>Somos una empresa Ibaguereña, fundada en el año 2005, que se ha sostenido en el mercado gracias a su responsabilidad, seriedad  y cumplimiento en la gestion documental de tramites ante todos los organismos de transito del pais.
+								<h1>HIPERSERVICIOS COLOMBIA
+                <p>Asesorías ante tránsito a nivel nacional</P> </h1>
+								<p>Somos una empresa Ibaguereña, fundada en el año 2004, que se ha sostenido en el mercado gracias a su responsabilidad, seriedad  y cumplimiento en la gestion documental de tramites ante todos los organismos de transito del pais.
 </p>
 								<p>Somos especialistas en realizar tramites ante transito, realizamos traspasos, levantamiento de prenda, traslados de cuenta, licencias de transito.</p>
                 <p>Nuestra misión es ahorrarle tiempo y dinero a nuestros clientes haciendo sus tramites ante transito rapido y bien hecho.</p>

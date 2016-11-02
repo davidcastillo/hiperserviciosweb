@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Hiperservicios, traspaso de vehiculos y demás tramites de transito</title>
+    <title>Hiperservicios, traslado de cuenta y demás tramites de transito</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,7 +46,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h2 class="stripe">Traslado de cuenta</h2>
+          <h1 class="stripe">TRASLADO DE CUENTA</h1>
         </div>
       </div>
       <!-- Page heading -->

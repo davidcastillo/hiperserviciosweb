@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Hiperservicios, traspaso de vehiculos y demás tramites de transito</title>
+    <title>Hiperservicios, cancelacion de matricula y demás tramites de transito</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -45,7 +45,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h2 class="stripe">Cancelación de Matricula</h2>
+          <h1 class="stripe">CANCELACIÓN DE MATRICULA</h1>
         </div>
       </div>
       <!-- Page heading -->
@@ -135,8 +135,7 @@
 								<div class="services-post">
 										<h4>Que es?</h4>
 										<p>Si desafortunadamente su vehiculo fue robado o desaparecido y no tiene rastro de el, es conveneniente que realize la cancelación de la matricula ante la secretaria de transito correspondiente, 
-										</p>
-										<p>De esta manera, el vehiculo quedara desactivado de las bases de datos de la secretaria de transito y los impuestos y demas costos inherentes a la tenencia del vehiculo se detrentran porque el vehiculo tiene la matricula cancelada.</p>
+										de esta manera, el vehiculo quedara desactivado de las bases de datos de la secretaria de transito y los impuestos y demas costos inherentes a la tenencia del vehiculo se detrentran porque el vehiculo tiene la matricula cancelada.</p>
 										<p>Si las autoridades encuentran nuevamente su vehiculo y esta en las condiciones aptas para entrar nuevamente en circulacion puede realizar un tramite llamada rematricula.</p>
 										
 								</div>

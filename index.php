@@ -54,7 +54,7 @@
 							<h2 class="stripe">Legalize su traspaso</h2>
 							<p>Cuando venda su vehiculo es muy importante que legalize su traspaso para evitar multas, impuestos y otros inconvenientes que le puede traer tener un vehiculo que ya vendio a su nombre.</p>
 							<div class="accent-btn">
-								<a href="#">Leer más</a>
+								<a href="traspaso.php">Leer más</a>
 							</div>
 						</div>
 					</div>      
@@ -64,7 +64,7 @@
 							<h2 class="stripe">Compre su vehiculo tranquilo</h2>
 							<p>Cuando compre su vehiculo es muy importante que revise el estado de los documentos del vehiculo que esta comprando.</p>
 							<div class="accent-btn">
-								<a href="#">Leer más</a>
+								<a href="certificado_de_tradicion.php">Leer más</a>
 							</div>
 						</div>
 					</div>
@@ -74,7 +74,7 @@
 							<h2 class="stripe">Transite con sus documentos en regla</h2>
 							<p>Para evitar inconvenientes y sorpresas revise regularmente el SOAT, la revision TecnicoMecanica e impuestos de su vehiculo.</p>
 							<div class="accent-btn">
-								<a href="#">Leer más</a>
+								<a href="traspaso.php">Leer más</a>
 							</div>
 						</div>
 					</div>
@@ -87,7 +87,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
-                    <h3>Quiere una asesoria en algun tramite de transito? Contactenos ahora!</h3>
+                    <h1>Quiere una asesoria en algun tramite de transito? Contactenos ahora!</h1>
                 </div>
 
                 <div class="col-md-3">
@@ -105,7 +105,7 @@
         <div class="container">
           <div class="row">
             <div class="section-title align-center col-md-12">
-              <h2 class="stripe">Nuestros Servicios</h2>
+              <h1 class="stripe">Los tramites de transito que realizamos</h1>
             </div>
           </div>
           <div class="row">
@@ -113,9 +113,9 @@
               <div class="service-item">
                 <img src="images/services/formulario_de_traspaso_hiperservicios.jpg" alt="">
                 <div class="service-info">
-                  <h4>Traspaso de vehiculo</h4>
+                  <h1>Traspaso de vehiculo</h1>
                   <p>Cuando compre o venda su vehiculo, debe registrar dicha transaccion en las oficinas de transito, nosotros le indicamos como.</p>
-                  <a href="service_strategic_planning.html" class="">Leer más</a>
+                  <a href="traspaso.php" class="">Leer más</a>
                 </div>
               </div>
             </div>
@@ -123,9 +123,9 @@
               <div class="service-item">
                 <img src="images/services/Levantamiento_prenda_hiperservicios.jpg" alt="">
                 <div class="service-info">
-                  <h4>Levantamiento de prenda</h4>
+                  <h1>Levantamiento de prenda</h1>
                   <p>Si ya termino de pagar la deuda de su vehiculo es hora de levantar la pignoracion que tiene con la entidad financiera.</p>
-                  <a href="service_turnaround_consultingn.html" class="">Leer más</a>
+                  <a href="levantamiento_de_prenda.php" class="">Leer más</a>
                 </div>
               </div>
             </div>
@@ -133,9 +133,9 @@
               <div class="service-item">
                 <img src="images/services/certificado_tradicion_hiperservicios.jpg" alt="">
                 <div class="service-info">
-                  <h4>Certificados de tradición</h4>
+                  <h1>Certificados de tradición</h1>
                   <p>Confirme el historial de embargos y siniestros del vehiculo que va a comprar, no se deje engañar.</p>
-                  <a href="service_bonds_commodities.html" class="">Leer más</a>
+                  <a href="certificado_de_tradicion.php" class="">Leer más</a>
                 </div>
               </div>
             </div>
@@ -404,9 +404,9 @@
       <section class="about-us-img">
         <div class="container">
           <div class="row">
-            <h2>Somos especialistas en <br>tramites ante transito</h2>
+            <h2>Somos especialistas en <br>tramites ante tránsito</h2>
             <div class="accent-btn">
-								<a href="contactenos.php">Solicitar una asesoria</a>
+								<a href="contactenos.php">Solicitar una asesoría</a>
 						</div>
           </div>
         </div>

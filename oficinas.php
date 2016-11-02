@@ -7,6 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Oficinas para realizar tramites de transito a nivel nacional">
     <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
     <!-- Google Tag Manager -->
@@ -44,7 +45,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h2 class="stripe">Services</h2>
+          <h1 class="stripe">OFICINAS DE ASESORIAS DE TRANSITO A NIVEL NACIONAL</h1>
         </div>
       </div>
       <!-- Page heading -->
@@ -55,15 +56,35 @@
           <div class="row">
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/1.jpg" alt="">
+                <img src="images/offices/traspasos-bogota.jpg" alt="">
                 <div class="service-info">
-                  <h4>Strategic Planning</h4>
-                  <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Nulla cursus pharetra massa at lacinia Fusce eleifhend Fusce in dapibus.</p>
-                  <a href="service_strategic_planning.html" class="">read More</a>
+                  <h1>HIPERSERVICIOS BOGOTÁ</h1>
+                  <p>Tenemos la capacidad de realizar sus tramites de transito en Bogotá y municipios de Cundinamarca</p>
+                  <a href="bogota.php" class="">Leer mas</a>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
+            <div class="service-item">
+                <img src="images/offices/traspasos-medellin.jpg" alt="">
+                <div class="service-info">
+                  <h1>HIPERSERVICIOS MEDELLÍN</h1>
+                  <p>Con nuestra oficina, podemos realizar sus tramites de transito en Medellín y municipios de Antioquia</p>
+                  <a href="medellin.php" class="">Leer mas</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+            <div class="service-item">
+                <img src="images/offices/traspasos-ibague.jpg" alt="">
+                <div class="service-info">
+                  <h1>HIPERSERVICIOS IBAGUÉ</h1>
+                  <p>Nuestra oficina principal realiza tramites de transito en Ibagué y municipios del Tolima</p>
+                  <a href="ibague.php" class="">Leer mas</a>
+                </div>
+              </div>
+            </div>
+           <!-- <div class="col-md-4">
               <div class="service-item">
                 <img src="images/services/2.jpg" alt="">
                 <div class="service-info">
@@ -112,7 +133,7 @@
                   <a href="service_trades_stocks.html" class="">read More</a>
                 </div>
               </div>
-            </div>
+            </div>-->
           </div>
         </div>
       </section>

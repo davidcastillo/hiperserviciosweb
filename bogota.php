@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Hiperservicios, traspaso de vehiculos y demás tramites de transito</title>
+    <title>Hiperservicios, tramites de transito en Bogotá y Cundinamarca</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -47,8 +47,7 @@
                
       <!--========================google-map========================== -->
       <div class="container d-toppagefixed formatoh1">
-                <h1>TITI</h1>
-</div>
+      </div>
       
       
       <div class="google-map d-toppagefixed">
@@ -82,7 +81,7 @@
             </div>
             <div class="col-md-4">
               <div class="contact-info">
-                <h4>HIPERSERVICIOS BOGOTÁ</h4>
+                <h1>TRAMITES DE TRANSITO EN HIPERSERVICIOS BOGOTÁ</h1>
                 <p>Nuestra oficina esta para realizar sus tramites de transito en Bogotá y municipios aledaños</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>

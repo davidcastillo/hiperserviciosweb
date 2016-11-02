@@ -46,7 +46,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h2 class="stripe">Otros tramites de Transito</h2>
+          <h1 class="stripe">OTROS TRAMITES DE TRANSITO</h1>
         </div>
       </div>
       <!-- Page heading -->
@@ -134,7 +134,7 @@
 									</div>
 								</div>
 								<div class="services-post">
-										<h4>Tramites de transito</h4>
+										<h1>Tramites de transito</h1>
 										<p>Entre los tramites de transito que puede realizar son: cambio de color, cambio de motor, regrabar motor, regrabar chasis, transformación, duplicado de licencia de transito, inscripcion de prenda,
 										Cambio de placas, rematricula, conversion de gasolina a gas, cambio de carroceria entre otros menos comunes y mas complicados.</p>
 								</div>

@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Hiperservicios, traspaso de vehiculos y demás tramites de transito</title>
+    <title>Hiperservicios, levantamiento de prenda y demás tramites de transito</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -45,7 +45,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h2 class="stripe">Levantamiento de Prenda</h2>
+          <h1 class="stripe">LEVANTAMIENTO DE PRENDA</h1>
         </div>
       </div>
       <!-- Page heading -->
@@ -135,8 +135,7 @@
 								<div class="services-post">
 										<h4>Que es?</h4>
 										<p>Si compro su vehiculo utilizando un credito con una entidad financiera, y ya termino de pagar el credito, es hora de levantar la limitación a la propiedad que tenia el vehiculo para que pueda venderlo o permutarlo libremente, 
-										</p>
-										<p>para realizar este tramite debe contar con una carta expedida por la entidad financiera que no supere los 
+										para realizar este tramite debe contar con una carta expedida por la entidad financiera que no supere los 
 										30 dias de expedida en la cual certifican que la deuda esta pagada y que levantan la prenda impuesta sobre el vehiculo realizada en el momento que adquirio el vehiculo a traves del prestamo.</p>
 								</div>
 								<div class="row">
