@@ -14,20 +14,16 @@
 									<div>
 										<ul class="social-icons">
 										<li>
-											<a target="_blank" href="https://www.facebook.com/asesoriasantetransitos/" class="enotype-icon-facebook" title="facebook"></a>
+											<a target="_blank" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9" class="enotype-icon-googleplus" title="googleplus"></a>
+											<a class="lasts-posts" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9"> Google + </a>
+										</li>
+										<li>
+											<a target="_blank" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9" class="enotype-icon-facebook" title="facebook"></a>
 											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Facebook </a>
 										</li>
 										<li>
-											<a target="_blank" href="#" class="enotype-icon-twitter" title="twitter"></a>
-											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Twitter</a>
-										</li>
-										<li>
-											<a href="#" class="enotype-icon-instagram" title="instagram"></a>
-											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Instagram </a>
-										</li>
-										<li>
-											<a title="" href="#" class="enotype-icon-pinterest"></a>
-											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Pinterest </a>
+											<a href="#" class="enotype-icon-twitter" title="twitter"></a>
+											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Twitter </a>
 										</li>
 										</ul>
 									</div>
