@@ -5,12 +5,33 @@
 						<div class="row">
 							<div class="col-md-3 col-sm-6 col-xs-12">
 								<div class="footer-widget">
-									<div class="widget-title">
-											<h1>Sobre HiperServicios Colombia</h1>
+
+								<div class="widget-title">
+											<h4>Nuestras redes sociales</h4>
 									</div>
-									<div class="text-box">
-										<p>Fundada en 2004. Somos especialistas en realizar tramites ante transito, realizamos traspasos, levantamiento de prenda, traslados de cuenta, licencias de transito.</p>
+									
+								<div class="col-md-1">
+									<div>
+										<ul class="social-icons">
+										<li>
+											<a target="_blank" href="https://www.facebook.com/asesoriasantetransitos/" class="enotype-icon-facebook" title="facebook"></a>
+											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Facebook </a>
+										</li>
+										<li>
+											<a target="_blank" href="#" class="enotype-icon-twitter" title="twitter"></a>
+											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Twitter</a>
+										</li>
+										<li>
+											<a href="#" class="enotype-icon-instagram" title="instagram"></a>
+											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Instagram </a>
+										</li>
+										<li>
+											<a title="" href="#" class="enotype-icon-pinterest"></a>
+											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Pinterest </a>
+										</li>
+										</ul>
 									</div>
+								</div>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6 col-xs-12">
