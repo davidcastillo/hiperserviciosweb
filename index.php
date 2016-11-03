@@ -36,6 +36,11 @@
     <link rel="stylesheet" type="text/css" href="style/icons.css">
   </head>
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K8CXZN"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <!-- Container -->
     <div class="site-container">
      <!--========================Header========================== -->
@@ -489,12 +494,6 @@
       </a>
     </div>
     <!-- End Container -->
-
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K8CXZN"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
     <!-- Js File -->
     <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
