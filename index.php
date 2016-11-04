@@ -4,13 +4,6 @@
 
     <title>Hiperservicios, traspaso de vehiculos y demás tramites de transito</title>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Somos especialistas en realizar tramites ante transito, traspasos, levantamiento de prenda, traslado de cuenta,  cancelación de matricula, certificados de tradición, etc.">
-    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin, bogota, medellin, ibague, levantamiento de prenda, traslado de cuenta, servicios" />
-    <meta name="robots" content="follow, index" />
-
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -18,6 +11,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-WLB6J8');</script>
 <!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Somos especialistas en realizar tramites ante transito, traspasos, levantamiento de prenda, traslado de cuenta,  cancelación de matricula, certificados de tradición, etc.">
+    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin, bogota, medellin, ibague, levantamiento de prenda, traslado de cuenta, servicios" />
+    <meta name="robots" content="follow, index" />
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico">
