@@ -7,17 +7,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Que es un certificado de tradicion y porque es solicitarlo al comprar un vehiculo">
+	<meta name="description" content="Que es un certificado de tradicion y porque es importante solicitarlo al comprar un vehiculo">
 	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WLB6J8');</script>
-<!-- End Google Tag Manager -->
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WLB6J8');</script>
+	<!-- End Google Tag Manager -->
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -70,22 +70,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 											</a>
 										</li>
 										<li>
-											<a href="levantamiento_de_prenda.php" title="Levantamiento de Prenda">
+											<a href="levantamiento-de-prenda.php" title="Levantamiento de Prenda">
 												Levantamiento de prenda
 												<i class=""></i>
 											</a>
 										</li>
 										<li>
-											<a href="traslado_de_cuenta.php" title="traslado de cuenta">
+											<a href="traslado-de-cuenta.php" title="traslado de cuenta">
 												Traslado de Cuenta
 											</a>
 										</li>
 										<li>
-											<a href="cancelacion_de_matricula.php" title="Cancelacion de matricula">
+											<a href="cancelacion-de-matricula.php" title="Cancelacion de matricula">
 												Cancelación de matricula											</a>
 										</li>
 										<li class="selected">
-											<a href="certificado_de_tradicion.php" title="certificado de tradicion">
+											<a href="certificado-de-tradicion.php" title="certificado de tradicion">
 												Certificado de tradición
 											</a>
 										</li>
@@ -129,17 +129,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single1.jpg' alt='img'>
+											<img src='images/others/certificado_tradicion_vehiculo.jpg' alt='tramite de certificado de tradicion'>
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single2.jpg' alt='img'>
+											<img src='images/others/inmovilizacion_vehiculo.jpg' alt='evite comprar carros ilegales'>
 										</div>
 									</div>
 								</div>
 								<div class="services-post">
-										<h4>Que es?</h4>
+										<h3>Que es un certificado de tradición?</h3>
 										<p>La manera mas efectiva de conocer el historial legal de un carro es a traves de un certificado de tradicion, si va a comprar un vehiculo, esta es la practica mas recomendada, ya que en este documento, solicitado en la secretaria de transito donde se encuentra matriculado el vehiculo estan reflejado, lo ultimos tramites realizar al vehiculo, embargos, reportes por robo etc.</p>
 								</div>
 								<div class="row">

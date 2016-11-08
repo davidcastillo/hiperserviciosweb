@@ -2,21 +2,22 @@
 <html lang="es">
   <head>
 
-    <title>Hiperservicios, cancelacion de matricula y demás tramites de transito</title>
+    <title>Hiperservicios, traslado de cuenta y demás tramites de transito</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Que es una cancelacion de matricula y cuando realizar este tramite ante transito">
+	<meta name="description" content="Que es un traslado de cuenta y porque es conveniente realizarlo">
 	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WLB6J8');</script>
-<!-- End Google Tag Manager -->
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WLB6J8');</script>
+    <!-- End Google Tag Manager -->
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -35,10 +36,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="stylesheet" type="text/css" href="style/icons.css">
   </head>
   <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLB6J8"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLB6J8"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
     <!-- Container -->
     <div class="site-container">
@@ -50,7 +51,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h1 class="stripe">CANCELACIÓN DE MATRICULA</h1>
+          <h1 class="stripe">TRASLADO DE CUENTA</h1>
         </div>
       </div>
       <!-- Page heading -->
@@ -69,22 +70,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</a>
 										</li>
 										<li>
-											<a href="levantamiento_de_prenda.php" title="Levantamiento de Prenda">
+											<a href="levantamiento-de-prenda.php" title="Levantamiento de Prenda">
 												Levantamiento de prenda
 												<i class=""></i>
 											</a>
 										</li>
-										<li>
-											<a href="traslado_de_cuenta.php" title="traslado de cuenta">
+										<li class="selected">
+											<a href="traslado-de-cuenta.php" title="traslado de cuenta">
 												Traslado de Cuenta
 											</a>
 										</li>
-										<li class="selected">
-											<a href="cancelacion_de_matricula.php" title="Cancelacion de matricula">
+										<li>
+											<a href="cancelacion-de-matricula.php" title="Cancelacion de matricula">
 												Cancelación de matricula											</a>
 										</li>
 										<li>
-											<a href="certificado_de_tradicion.php" title="certificado de tradicion">
+											<a href="certificado-de-tradicion.php" title="certificado de tradicion">
 												Certificado de tradición
 											</a>
 										</li>
@@ -128,21 +129,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single1.jpg' alt='img'>
+											<img src='images/others/traslado de cuenta.jpg' alt='img'>
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single2.jpg' alt='img'>
+											<img src='images/others/trasladar-la-cuenta.jpg' alt='img'>
 										</div>
 									</div>
 								</div>
 								<div class="services-post">
 										<h4>Que es?</h4>
-										<p>Si desafortunadamente su vehiculo fue robado o desaparecido y no tiene rastro de el, es conveneniente que realize la cancelación de la matricula ante la secretaria de transito correspondiente, 
-										de esta manera, el vehiculo quedara desactivado de las bases de datos de la secretaria de transito y los impuestos y demas costos inherentes a la tenencia del vehiculo se detrentran porque el vehiculo tiene la matricula cancelada.</p>
-										<p>Si las autoridades encuentran nuevamente su vehiculo y esta en las condiciones aptas para entrar nuevamente en circulacion puede realizar un tramite llamada rematricula.</p>
-										
+										<p>Si compro un carro matriculado en una ciudad diferente a la de su residencia, puede realizar el traslado de cuenta para tener mayor control del historial y la documentación del vehiculo a la hora de una eventual venta.</p>
+										<p>Este tramite es opcional, no es obligatorio realizarlo, sin embargo algunos propietarios deciden hacerlo tambien motivados por ganar descuentos en impuestos sobre el vehiculo que ofrecen algunos departamentos.</p>
 								</div>
 								<div class="row">
 

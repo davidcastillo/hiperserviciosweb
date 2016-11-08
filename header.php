@@ -65,10 +65,10 @@
                         <li class="drop"><a href="traspaso.php">Servicios</a>
                           <ul class="dropdown">
                             <li><a href="traspaso.php">Traspaso de vehiculo</a></li>
-                            <li><a href="levantamiento_de_prenda.php">Levantamiento de prenda</a></li>
-                            <li><a href="traslado_de_cuenta.php">Traslado de cuenta</a></li>
-                            <li><a href="cancelacion_de_matricula.php">Cancelacion de matricula</a></li>
-                            <li><a href="certificado_de_tradicion.php">Certificados de tradición</a></li>
+                            <li><a href="levantamiento-de-prenda.php">Levantamiento de prenda</a></li>
+                            <li><a href="traslado-de-cuenta.php">Traslado de cuenta</a></li>
+                            <li><a href="cancelacion-de-matricula.php">Cancelacion de matricula</a></li>
+                            <li><a href="certificado-de-tradicion.php">Certificados de tradición</a></li>
                             <li><a href="otros.php">Otros</a></li>
                           </ul>
                         </li>

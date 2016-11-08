@@ -70,22 +70,22 @@
 											</a>
 										</li>
 										<li>
-											<a href="levantamiento_de_prenda.php" title="Levantamiento de Prenda">
+											<a href="levantamiento-de-prenda.php" title="Levantamiento de Prenda">
 												Levantamiento de prenda
 												<i class=""></i>
 											</a>
 										</li>
 										<li>
-											<a href="traslado_de_cuenta.php" title="traslado de cuenta">
+											<a href="traslado-de-cuenta.php" title="traslado de cuenta">
 												Traslado de Cuenta
 											</a>
 										</li>
 										<li>
-											<a href="cancelacion_de_matricula.php" title="Cancelacion de matricula">
+											<a href="cancelacion-de-matricula.php" title="Cancelacion de matricula">
 												Cancelación de matricula											</a>
 										</li>
 										<li>
-											<a href="certificado_de_tradicion.php" title="certificado de tradicion">
+											<a href="certificado-de-tradicion.php" title="certificado de tradicion">
 												Certificado de tradición
 											</a>
 										</li>
@@ -129,12 +129,12 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single1.jpg' alt='img'>
+											<img src='images/others/inmovilizacion_vehiculo.jpg' alt='tramites de transito'>
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single2.jpg' alt='img'>
+											<img src='images/others/cancelacion_de_matricula.jpeg' alt='tramite para cancelar la matricula'>
 										</div>
 									</div>
 								</div>

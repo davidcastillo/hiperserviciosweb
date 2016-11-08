@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Somos especialistas en realizar tramites ante transito, traspasos, levantamiento de prenda, traslado de cuenta,  cancelación de matricula, certificados de tradición, etc.">
+    <meta name="description" content="Somos especialistas en realizar trámites ante tránsito, traspasos, levantamiento de prenda, traslado de cuenta, certificados de tradición, etc.">
     <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin, bogota, medellin, ibague, levantamiento de prenda, traslado de cuenta, servicios" />
     <meta name="robots" content="follow, index" />
 
@@ -64,17 +64,17 @@
 						</div>
 					</div>      
           <div class="item slider-pic">
-						<img src="images/sliders/1_cerrar_el_traspaso.jpg" alt="" />
+						<img src="images/sliders/1_cerrar_el_traspaso.jpg" alt="cerrar la venta del carro legalizando el traspaso es una buena practica" />
 						<div class="slider-content-box">
 							<h2 class="stripe">Compre su vehiculo tranquilo</h2>
 							<p>Cuando compre su vehiculo es muy importante que revise el estado de los documentos del vehiculo que esta comprando.</p>
 							<div class="accent-btn">
-								<a href="certificado_de_tradicion.php">Leer más</a>
+								<a href="certificado-de-tradicion.php">Leer más</a>
 							</div>
 						</div>
 					</div>
 					<div class="item slider-pic">
-						<img src="images/sliders/2_transito_bogota.jpg" alt="" />
+						<img src="images/sliders/2_transito_bogota.jpg" alt="transito en Bogota"/>
 						<div class="slider-content-box">
 							<h2 class="stripe">Transite con sus documentos en regla</h2>
 							<p>Para evitar inconvenientes y sorpresas revise regularmente el SOAT, la revision TecnicoMecanica e impuestos de su vehiculo.</p>
@@ -110,15 +110,15 @@
         <div class="container">
           <div class="row">
             <div class="section-title align-center col-md-12">
-              <h1 class="stripe">Los tramites de transito que realizamos</h1>
+              <h2 class="stripe">Los tramites de transito que realizamos</h2>
             </div>
           </div>
           <div class="row">
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/formulario_de_traspaso_hiperservicios.jpg" alt="">
+                <img src="images/services/formulario_de_traspaso_hiperservicios.jpg" alt="tramite de traspaso">
                 <div class="service-info">
-                  <h1>Traspaso de vehiculo</h1>
+                  <h2>Traspaso de vehiculo</h2>
                   <p>Cuando compre o venda su vehiculo, debe registrar dicha transaccion en las oficinas de transito, nosotros le indicamos como.</p>
                   <a href="traspaso.php" class="">Leer más</a>
                 </div>
@@ -126,21 +126,21 @@
             </div>
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/Levantamiento_prenda_hiperservicios.jpg" alt="">
+                <img src="images/services/Levantamiento_prenda_hiperservicios.jpg" alt="tramite de levantar prenda">
                 <div class="service-info">
-                  <h1>Levantamiento de prenda</h1>
+                  <h2>Levantar la prenda</h2>
                   <p>Si ya termino de pagar la deuda de su vehiculo es hora de levantar la pignoracion que tiene con la entidad financiera.</p>
-                  <a href="levantamiento_de_prenda.php" class="">Leer más</a>
+                  <a href="levantamiento-de-prenda.php" class="">Leer más</a>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/certificado_tradicion_hiperservicios.jpg" alt="">
+                <img src="images/services/certificado_tradicion_hiperservicios.jpg" alt="solicitar un traspaso">
                 <div class="service-info">
-                  <h1>Certificados de tradición</h1>
+                  <h3>Certificados de tradición</h3>
                   <p>Confirme el historial de embargos y siniestros del vehiculo que va a comprar, no se deje engañar.</p>
-                  <a href="certificado_de_tradicion.php" class="">Leer más</a>
+                  <a href="certificado-de-tradicion.php" class="">Leer más</a>
                 </div>
               </div>
             </div>

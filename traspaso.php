@@ -70,22 +70,22 @@
 											</a>
 										</li>
 										<li>
-											<a href="levantamiento_de_prenda.php" title="Levantamiento de Prenda">
+											<a href="levantamiento-de-prenda.php" title="Levantamiento de Prenda">
 												Levantamiento de prenda
 												<i class=""></i>
 											</a>
 										</li>
 										<li>
-											<a href="traslado_de_cuenta.php" title="traslado de cuenta">
+											<a href="traslado-de-cuenta.php" title="traslado de cuenta">
 												Traslado de Cuenta
 											</a>
 										</li>
 										<li>
-											<a href="cancelacion_de_matricula.php" title="Cancelacion de matricula">
+											<a href="cancelacion-de-matricula.php" title="Cancelacion de matricula">
 												Cancelación de matricula											</a>
 										</li>
 										<li>
-											<a href="certificado_de_tradicion.php" title="certificado de tradicion">
+											<a href="certificado-de-tradicion.php" title="certificado de tradicion">
 												Certificado de tradición
 											</a>
 										</li>
@@ -129,18 +129,18 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single1.jpg' alt='img'>
+											<img src='images/others/hacer_un_traspaso_hiperservicios.jpg' alt='hacer el traspaso de un vehiculo'>
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single2.jpg' alt='img'>
+											<img src='images/others/hacer_el_traspaso_de_un_vehiculo.jpg' alt='hacer el tramite de traspaso de un vehiculo'>
 										</div>
 									</div>
 								</div>
 								<div class="services-post">
 										<h4>Que es?</h4>
-										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo, 
+										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo. 
 										</p>
 										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el tramite de traspaso ante la secretaria correspondiente, esto le evitara inconvenientes en el futuro.</p>
 								</div>

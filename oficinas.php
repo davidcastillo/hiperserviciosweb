@@ -61,9 +61,9 @@
           <div class="row">
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/offices/traspasos-bogota.jpg" alt="">
+                <img src="images/offices/traspasos-bogota.jpg" alt="Oficina de tramites de transito en Bogota">
                 <div class="service-info">
-                  <h1>HIPERSERVICIOS BOGOTÁ</h1>
+                  <h3>HIPERSERVICIOS BOGOTÁ</h2>
                   <p>Tenemos la capacidad de realizar sus tramites de transito en Bogotá y municipios de Cundinamarca</p>
                   <a href="bogota.php" class="">Leer mas</a>
                 </div>
@@ -71,9 +71,9 @@
             </div>
             <div class="col-md-4">
             <div class="service-item">
-                <img src="images/offices/traspasos-medellin.jpg" alt="">
+                <img src="images/offices/traspasos-medellin.jpg" alt="Oficina de tramites de transito en Medellin">
                 <div class="service-info">
-                  <h1>HIPERSERVICIOS MEDELLÍN</h1>
+                  <h3>HIPERSERVICIOS MEDELLÍN</h3>
                   <p>Con nuestra oficina, podemos realizar sus tramites de transito en Medellín y municipios de Antioquia</p>
                   <a href="medellin.php" class="">Leer mas</a>
                 </div>
@@ -81,9 +81,9 @@
             </div>
             <div class="col-md-4">
             <div class="service-item">
-                <img src="images/offices/traspasos-ibague.jpg" alt="">
+                <img src="images/offices/traspasos-ibague.jpg" alt="Oficina de tramites de transito en Ibague">
                 <div class="service-info">
-                  <h1>HIPERSERVICIOS IBAGUÉ</h1>
+                  <h3>HIPERSERVICIOS IBAGUÉ</h3>
                   <p>Nuestra oficina principal realiza tramites de transito en Ibagué y municipios del Tolima</p>
                   <a href="ibague.php" class="">Leer mas</a>
                 </div>

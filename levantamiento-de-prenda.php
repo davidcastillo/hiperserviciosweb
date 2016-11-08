@@ -10,13 +10,13 @@
 	<meta name="description" content="Que es un levantamiento de prenda, como hacer este tramite ante transito">
 	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WLB6J8');</script>
-<!-- End Google Tag Manager -->
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WLB6J8');</script>
+	<!-- End Google Tag Manager -->
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -69,22 +69,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 											</a>
 										</li>
 										<li class="selected">
-											<a href="levantamiento_de_prenda.php" title="Levantamiento de Prenda">
+											<a href="levantamiento-de-prenda.php" title="Levantamiento de Prenda">
 												Levantamiento de prenda
 												<i class=""></i>
 											</a>
 										</li>
 										<li>
-											<a href="traslado_de_cuenta.php" title="traslado de cuenta">
+											<a href="traslado-de-cuenta.php" title="traslado de cuenta">
 												Traslado de Cuenta
 											</a>
 										</li>
 										<li>
-											<a href="cancelacion_de_matricula.php" title="Cancelacion de matricula">
+											<a href="cancelacion-de-matricula.php" title="Cancelacion de matricula">
 												Cancelación de matricula											</a>
 										</li>
 										<li>
-											<a href="certificado_de_tradicion.php" title="certificado de tradicion">
+											<a href="certificado-de-tradicion.php" title="certificado de tradicion">
 												Certificado de tradición
 											</a>
 										</li>
@@ -128,12 +128,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single1.jpg' alt='img'>
+											<img src='images/others/levantamiento_prenda.jpg' alt='tramite de levantamiento de prenda'>
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/services/single2.jpg' alt='img'>
+											<img src='images/others/levantar_prenda.jpg' alt='carta de levantamiendo de prenda'>
 										</div>
 									</div>
 								</div>
