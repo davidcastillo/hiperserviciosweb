@@ -129,12 +129,12 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/hacer_un_traspaso_hiperservicios.jpg' alt='hacer el traspaso de un vehiculo'>
+											<img src='images/others/hacer_un_traspaso_hiperservicios.jpg' alt='hacer el traspaso de un vehiculo' title="Formulario de traspaso">
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/hacer_el_traspaso_de_un_vehiculo.jpg' alt='hacer el tramite de traspaso de un vehiculo'>
+											<img src='images/others/hacer_el_traspaso_de_un_vehiculo.jpg' alt='hacer el tramite de traspaso de un vehiculo' title="realizar tramite de traspaso">
 										</div>
 									</div>
 								</div>

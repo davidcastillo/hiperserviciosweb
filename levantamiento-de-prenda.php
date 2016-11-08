@@ -128,12 +128,12 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/levantamiento_prenda.jpg' alt='tramite de levantamiento de prenda'>
+											<img src='images/others/levantamiento_prenda.jpg' alt='tramite de levantamiento de prenda' title="Tramite de levantamiento de prenda">
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/levantar_prenda.jpg' alt='carta de levantamiendo de prenda'>
+											<img src='images/others/levantar_prenda.jpg' alt='carta de levantamiendo de prenda' title="credito de vehiculo">
 										</div>
 									</div>
 								</div>

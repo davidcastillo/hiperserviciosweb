@@ -54,7 +54,7 @@
       <div class="top-slider visible-xs-*">
 				<div id="slider" class="owl-carousel">
 					<div class="item slider-pic">
-						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" />
+						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" title="Hacer un traspaso" />
 						<div class="slider-content-box">
 							<h2 class="stripe">Legalize su traspaso</h2>
 							<p>Cuando venda su vehiculo es muy importante que legalize su traspaso para evitar multas, impuestos y otros inconvenientes que le puede traer tener un vehiculo que ya vendio a su nombre.</p>
@@ -64,7 +64,7 @@
 						</div>
 					</div>      
           <div class="item slider-pic">
-						<img src="images/sliders/1_cerrar_el_traspaso.jpg" alt="cerrar la venta del carro legalizando el traspaso es una buena practica" />
+						<img src="images/sliders/1_cerrar_el_traspaso.jpg" alt="cerrar la venta del carro legalizando el traspaso es una buena practica" title="Legalizar la venta de mi carro"/>
 						<div class="slider-content-box">
 							<h2 class="stripe">Compre su vehiculo tranquilo</h2>
 							<p>Cuando compre su vehiculo es muy importante que revise el estado de los documentos del vehiculo que esta comprando.</p>
@@ -74,7 +74,7 @@
 						</div>
 					</div>
 					<div class="item slider-pic">
-						<img src="images/sliders/2_transito_bogota.jpg" alt="transito en Bogota"/>
+						<img src="images/sliders/2_transito_bogota.jpg" alt="transito en Bogota" title="Hacer tramites en Bogota"/>
 						<div class="slider-content-box">
 							<h2 class="stripe">Transite con sus documentos en regla</h2>
 							<p>Para evitar inconvenientes y sorpresas revise regularmente el SOAT, la revision TecnicoMecanica e impuestos de su vehiculo.</p>
@@ -116,9 +116,9 @@
           <div class="row">
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/formulario_de_traspaso_hiperservicios.jpg" alt="tramite de traspaso">
+                <img src="images/services/formulario_de_traspaso_hiperservicios.jpg" alt="tramite de traspaso" title="Traspaso">
                 <div class="service-info">
-                  <h2>Traspaso de vehiculo</h2>
+                  <h3>Traspaso de vehiculo</h3>
                   <p>Cuando compre o venda su vehiculo, debe registrar dicha transaccion en las oficinas de transito, nosotros le indicamos como.</p>
                   <a href="traspaso.php" class="">Leer más</a>
                 </div>
@@ -126,9 +126,9 @@
             </div>
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/Levantamiento_prenda_hiperservicios.jpg" alt="tramite de levantar prenda">
+                <img src="images/services/Levantamiento_prenda_hiperservicios.jpg" alt="tramite de levantar prenda" title="Carta de levantar prenda">
                 <div class="service-info">
-                  <h2>Levantar la prenda</h2>
+                  <h3>Levantar la prenda</h3>
                   <p>Si ya termino de pagar la deuda de su vehiculo es hora de levantar la pignoracion que tiene con la entidad financiera.</p>
                   <a href="levantamiento-de-prenda.php" class="">Leer más</a>
                 </div>
@@ -136,7 +136,7 @@
             </div>
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/certificado_tradicion_hiperservicios.jpg" alt="solicitar un traspaso">
+                <img src="images/services/certificado_tradicion_hiperservicios.jpg" alt="solicitar un certificado de tradicion" title="porque solicitar un certificado de tradicion">
                 <div class="service-info">
                   <h3>Certificados de tradición</h3>
                   <p>Confirme el historial de embargos y siniestros del vehiculo que va a comprar, no se deje engañar.</p>

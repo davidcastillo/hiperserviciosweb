@@ -36,10 +36,10 @@
 										<h4>Navegación</h4>
 									</div>
 									<ul class="footer-nav">
-										<li><a href="home.php">Inicio</a></li>
+										<li><a href="index.php">Inicio</a></li>
 										<li><a href="nosotros.php">Nosotros</a></li>
 										<li><a href="oficinas.php">Oficinas</a></li>
-										<li><a href="servicios.php">Servicios</a></li>
+										<li><a href="traspaso.php">Servicios</a></li>
 										<li><a href="blog.php">Blog</a></li>
 										<li><a href="contactenos.php">Contáctenos</a></li>
 									</ul>
@@ -53,22 +53,19 @@
 									<div class="tagcloud">
 										<ul>
 											<li>
-												<a href="#">traspaso</a>
+												<a href="http://recursosweb.shd.gov.co/ConsultaPagos/ConsultaPagos.html">impuestos de Bogota</a>
 											</li>
 											<li>
-												<a href="#">tramite</a>
+												<a href="http://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">impuestos de Tolima</a>
 											</li>
 											<li>
-												<a href="#">impuestos de vehiculo</a>
+												<a href="http://vehiculosantioquia.com/impuestosWeb/index.jsp">impuestos de Antioquia</a>
 											</li>
 											<li>
-												<a href="#">Transito</a>
+												<a href="https://www.runt.com.co/portel/libreria/php/01.030518.html">Runt</a>
 											</li>
 											<li>
-												<a href="#">Runt</a>
-											</li>
-											<li>
-												<a href="#">Simit</a>
+												<a href="https://consulta.simit.org.co/Simit/verificar/contenido_verificar_pago_linea.jsp">Simit</a>
 											</li>
 										</ul>
 									</div>

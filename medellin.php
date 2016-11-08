@@ -54,7 +54,7 @@
         </div> 
         <div class="col-md-6" >    
           <img src="images/offices/traspasos-medellin.jpg" width="100%" height="400" frameborder="0" 
-          marginheight="0" marginwidth="0"  alt="Oficina de tramites de transito en Medellin"/>
+          marginheight="0" marginwidth="0"  alt="Oficina de tramites de transito en Medellin" title="Oficina de tramites en Medellin"/>
           </div>
       </div>      
       <!-- google-map -->

@@ -56,7 +56,7 @@
         </div> 
         <div class="col-md-6" >    
           <img src="images/offices/traspasos-ibague.jpg" width="100%" height="400" frameborder="0" 
-          marginheight="0" marginwidth="0" alt='oficina de tramites en Ibague'>
+          marginheight="0" marginwidth="0" alt='oficina de tramites en Ibague' title="Oficina de tramites en Ibague y Tolima">
           </div>
       </div>      
       <!-- google-map -->

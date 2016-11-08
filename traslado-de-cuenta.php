@@ -129,12 +129,12 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/traslado de cuenta.jpg' alt='img'>
+											<img src='images/others/traslado de cuenta.jpg' alt='Cambiar la ciudad donde esta registrado mi carro' title="tramite de traslado de cuenta">
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/trasladar-la-cuenta.jpg' alt='img'>
+											<img src='images/others/trasladar-la-cuenta.jpg' alt='Hacer el traslado de cuenta' title="Traslado de cuenta">
 										</div>
 									</div>
 								</div>

@@ -129,12 +129,12 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/inmovilizacion_vehiculo.jpg' alt='tramites de transito'>
+											<img src='images/others/inmovilizacion_vehiculo.jpg' alt='tramites de transito' title="Tramites de transito">
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/cancelacion_de_matricula.jpeg' alt='tramite para cancelar la matricula'>
+											<img src='images/others/cancelacion_de_matricula.jpeg' alt='tramite para cancelar la matricula' title="Tramite para cancelar la matricula">
 										</div>
 									</div>
 								</div>

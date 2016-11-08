@@ -128,12 +128,12 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/cancelacion_de_matricula.jpeg' alt='cancelacion de matricula'>
+											<img src='images/others/cancelacion_de_matricula.jpeg' alt='cancelacion de matricula' title="Tramite de cancelacion de matricula">
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/robo-carro-tramite-cancelacion-matricula.jpg' alt='tramite cuando le roban el carro'>
+											<img src='images/others/robo-carro-tramite-cancelacion-matricula.jpg' alt='tramite cuando le roban el carro' title="Tramite cuando me roban el carro">
 										</div>
 									</div>
 								</div>

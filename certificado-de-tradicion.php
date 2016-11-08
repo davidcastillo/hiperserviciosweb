@@ -129,12 +129,12 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/certificado_tradicion_vehiculo.jpg' alt='tramite de certificado de tradicion'>
+											<img src='images/others/certificado_tradicion_vehiculo.jpg' alt='tramite de certificado de tradicion' title="Solicitar un certificado de tradicion">
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/inmovilizacion_vehiculo.jpg' alt='evite comprar carros ilegales'>
+											<img src='images/others/inmovilizacion_vehiculo.jpg' alt='evite comprar carros ilegales' title="Carros con pendientes judiciales y embargos">
 										</div>
 									</div>
 								</div>
