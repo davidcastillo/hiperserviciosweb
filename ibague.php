@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Hiperservicios, tramites de transito en Ibagué y Tolima</title>
+    <title>Tramites de transito en Ibagué y Tolima, Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
