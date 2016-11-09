@@ -50,7 +50,7 @@
       </div>
       <!-- Page heading -->
 
-      <!--========================blog-section========================== -->
+      <!--========================blog-section==========================single-post.html -->
       <section class="blog-section">
         <div class="container">
           <div class="row">
@@ -59,7 +59,7 @@
                 <div class="blog-post">
                   <img src="images/blog/1.jpg">
                   <div class="post-content">
-                    <h3><a href="single-post.html">Pellentesque ligula odio</a></h3>
+                    <h3><a href="#">Pellentesque ligula odio</a></h3>
                     <ul class="entry-meta">
                     <li>On <a href="#" title="31 March">31 March</a></li>
                     <li>By <a href="#" title="Kevin Smith">Kevin Smith</a></li>
@@ -67,14 +67,14 @@
                     </ul>
                     <p>Paetos dignissim at cursus elefeind norma arcu. Pellentesque mode accumsan est in tempus, etos at ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse est gravida ornare. Non mattis morbi suspendisse velit rutrum modest a tortor velim pellentesque uter justo magna gravida.</p>
                     <div class="accent-btn">
-                      <a href="single-post.html" title="read more">read more</a>
+                      <a href="#" title="read more">read more</a>
                     </div>
                   </div>
                 </div>
                 <div class="blog-post">
                   <img src="images/blog/2.jpg">
                   <div class="post-content">
-                    <h3><a href="single-post.html">Pellentesque ligula odio</a></h3>
+                    <h3><a href="#">Pellentesque ligula odio</a></h3>
                     <ul class="entry-meta">
                     <li>On <a href="#" title="31 March">31 March</a></li>
                     <li>By <a href="#" title="Kevin Smith">Kevin Smith</a></li>
@@ -82,14 +82,14 @@
                     </ul>
                     <p>Paetos dignissim at cursus elefeind norma arcu. Pellentesque mode accumsan est in tempus, etos at ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse est gravida ornare. Non mattis morbi suspendisse velit rutrum modest a tortor velim pellentesque uter justo magna gravida.</p>
                     <div class="accent-btn">
-                      <a href="single-post.html" title="read more">read more</a>
+                      <a href="#" title="read more">read more</a>
                     </div>
                   </div>
                 </div>
                 <div class="blog-post">
                   <img src="images/blog/3.jpg">
                   <div class="post-content">
-                    <h3><a href="single-post.html">Pellentesque ligula odio</a></h3>
+                    <h3><a href="#">Pellentesque ligula odio</a></h3>
                     <ul class="entry-meta">
                     <li>On <a href="#" title="31 March">31 March</a></li>
                     <li>By <a href="#" title="Kevin Smith">Kevin Smith</a></li>
@@ -97,7 +97,7 @@
                     </ul>
                     <p>Paetos dignissim at cursus elefeind norma arcu. Pellentesque mode accumsan est in tempus, etos at ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse est gravida ornare. Non mattis morbi suspendisse velit rutrum modest a tortor velim pellentesque uter justo magna gravida.</p>
                     <div class="accent-btn">
-                      <a href="single-post.html" title="read more">read more</a>
+                      <a href="#" title="read more">read more</a>
                     </div>
                   </div>
                 </div>
@@ -184,17 +184,17 @@
                   <ul>
                     <li class="post-list">
                       <img src="images/widget/1.jpg">
-                      <a href="single-post.html"><h6>Pellentesque ligula odio</h6></a>
+                      <a href="#"><h6>Pellentesque ligula odio</h6></a>
                       <span class="date"> March 5, 2015</span>
                     </li>
                     <li class="post-list">
                       <img src="images/widget/2.jpg">
-                      <a href="single-post.html"><h6>Pellentesque ligula odio</h6></a>
+                      <a href="#"><h6>Pellentesque ligula odio</h6></a>
                       <span class="date"> March 5, 2015</span>
                     </li>
                     <li class="post-list">
                       <img src="images/widget/3.jpg">
-                      <a href="single-post.html"><h6>Pellentesque ligula odio</h6></a>
+                      <a href="#"><h6>Pellentesque ligula odio</h6></a>
                       <span class="date"> March 5, 2015</span>
                     </li>
                   </ul>
