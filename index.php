@@ -52,6 +52,8 @@
 
       <!--========================Slider========================== -->
       <div class="top-slider visible-xs-*">
+              <h1>Quiere una asesoria en algun tramite de transito? Contactenos ahora!</h1>
+
 				<div id="slider" class="owl-carousel">
 					<div class="item slider-pic">
 						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" title="Hacer un traspaso" />
