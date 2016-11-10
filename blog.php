@@ -57,21 +57,21 @@
             <div class="col-md-9">
               <div class="blog-posts">
                 <div class="blog-post">
-                  <img src="images/blog/1.jpg">
+                  <img src="images\sliders\traspaso-carros-042015.jpg">
                   <div class="post-content">
-                    <h3><a href="#">Pellentesque ligula odio</a></h3>
+                    <h3><a href="blog-post1.php">Que vender su carro no se vuelva un dolor de cabeza</a></h3>
                     <ul class="entry-meta">
-                    <li>On <a href="#" title="31 March">31 March</a></li>
-                    <li>By <a href="#" title="Kevin Smith">Kevin Smith</a></li>
-                    <li>In <a href="#" title="Build">Build</a>, <a href="#" title="Repairs">Repairs</a></li>
+                    <li>El <a href="#" title="11 Nov">11 de Nov</a></li>
+                    <li>por <a href="#" title="David Castillo">David Castillo</a></li>
+                    <li>en <a href="traspaso.php" title="Traspaso">Traspaso</a>, <a href="index.php" title="Tramites de transito">Tramites de transito</a></li>
                     </ul>
-                    <p>Paetos dignissim at cursus elefeind norma arcu. Pellentesque mode accumsan est in tempus, etos at ullamcorper quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse est gravida ornare. Non mattis morbi suspendisse velit rutrum modest a tortor velim pellentesque uter justo magna gravida.</p>
+                    <p>Cuando vamos a vender nuestro carro nos podemos meter en un problema muy grande y costos innecesarios si no realizamos unos pasos simples</p>
                     <div class="accent-btn">
-                      <a href="#" title="read more">read more</a>
+                      <a href="blog-post1.php" title="Leer mas">Leer Mas</a>
                     </div>
                   </div>
                 </div>
-                <div class="blog-post">
+                <!-- <div class="blog-post">
                   <img src="images/blog/2.jpg">
                   <div class="post-content">
                     <h3><a href="#">Pellentesque ligula odio</a></h3>
@@ -100,17 +100,17 @@
                       <a href="#" title="read more">read more</a>
                     </div>
                   </div>
-                </div>
+                </div> -->
                 <ul class="pager">
-                  <li class="previous"><a href="#">← Older</a></li>
-                  <li class="next"><a href="#">Newer →</a></li>
+                  <li class="previous"><a href="#">← Anterior</a></li>
+                  <li class="next"><a href="#">Reciente →</a></li>
                 </ul>
               </div>
             </div>
             <div class="col-md-3">
               <div class="sidebar">
                 <div class="widget widget-text">
-                  <div class="widget-title">
+                <!--  <div class="widget-title">
                     <h4 class="stripe">About Buildplus</h4>
                   </div>
                   <div class="text-box">
@@ -127,57 +127,54 @@
                       <i class="icon-search"></i>
                     </button>
                   </form>
-                </div>
+                </div>  -->
                 <div class="widget widget-cats">
                   <div class="widget-title">
-                    <h4 class="stripe">categories</h4>
+                    <h4 class="stripe">Categorias</h4>
                   </div>
                   <ul>
                     <li>
-                      <a href="#">Best Builders</a>
+                      <a href="traspaso.php">Traspasos</a>
                     </li>
                     <li>
-                      <a href="#">Construction</a>
+                      <a href="certificado-de-tradicion.php">Certificados de tradicion</a>
                     </li>
                     <li>
-                      <a href="#">Marketing Plan</a>
+                      <a href="traslado-de-cuenta.php">Traslado de cuenta</a>
                     </li>
                     <li>
-                      <a href="#">Wood</a>
+                      <a href="cancelacion-de-matricula.php">Cancelacion de matricula</a>
                     </li>
                     <li>
-                      <a href="#">Envato</a>
+                      <a href="levantamiento-de-prenda.php">Levantamiento de prenda</a>
                     </li>
                   </ul>
                 </div>
                 <div class="widget widget-tags">
                   <div class="widget-title">
-                    <h4 class="stripe">tags</h4>
+                    <h4 class="stripe">Consulte su informacion de transito</h4>
                   </div>
                   <div class="tagcloud">
                     <ul>
                       <li>
-                        <a href="#">design</a>
+                        <a href="https://www.runt.com.co/portel/libreria/php/01.030518.html">Runt</a>
                       </li>
                       <li>
-                        <a href="#">Business</a>
+                        <a href="https://consulta.simit.org.co/Simit/verificar/contenido_verificar_pago_linea.jsp">Simit</a>
                       </li>
                       <li>
-                        <a href="#">Construction</a>
+                        <a href="http://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">Impuestos Tolima</a>
                       </li>
                       <li>
-                        <a href="#">wordpress</a>
+                        <a href="http://recursosweb.shd.gov.co/ConsultaPagos/ConsultaPagos.html">Impuestos Bogota</a>
                       </li>
                       <li>
-                        <a href="#">Wood</a>
-                      </li>
-                      <li>
-                        <a href="#">Envato</a>
+                        <a href="http://vehiculosantioquia.com/impuestosWeb/index.jsp">Impuestos Antioquia</a>
                       </li>
                     </ul>
                   </div>
                 </div>
-                <div class="widget widget-text">
+            <!--    <div class="widget widget-text">
                   <div class="widget-title">
                     <h4 class="stripe">latest posts</h4>
                   </div>
@@ -198,7 +195,7 @@
                       <span class="date"> March 5, 2015</span>
                     </li>
                   </ul>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
