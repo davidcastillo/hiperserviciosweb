@@ -59,7 +59,7 @@
                 <div class="blog-post">
                   <img src="images\sliders\traspaso-carros-042015.jpg">
                   <div class="post-content">
-                    <h3><a href="blog-post1.php">Que vender su carro no se vuelva un dolor de cabeza</a></h3>
+                    <h3><a href="recomendacion-traspaso.php">Porque es importante legalizar el traspaso</a></h3>
                     <ul class="entry-meta">
                     <li>El <a href="#" title="11 Nov">11 de Nov</a></li>
                     <li>por <a href="#" title="David Castillo">David Castillo</a></li>
@@ -67,7 +67,7 @@
                     </ul>
                     <p>Cuando vamos a vender nuestro carro nos podemos meter en un problema muy grande y costos innecesarios si no realizamos unos pasos simples</p>
                     <div class="accent-btn">
-                      <a href="blog-post1.php" title="Leer mas">Leer Mas</a>
+                      <a href="recomendacion-traspaso.php" title="Leer mas">Leer Mas</a>
                     </div>
                   </div>
                 </div>

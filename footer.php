@@ -77,10 +77,8 @@
 										<h4>Del blog</h4>
 								</div>
 								<ul class="lasts-posts">
-									<li><a href="#">Visite nuestro blog</a></li>
-									<li><a href="#">Para conocer temas de actualidad</a></li>
-									<li><a href="#">sobre tramites de transito</a></li>
-									<li><a href="#">y la legalización de documentos ante transito</a></li>
+									<li><a href="blog.php">Visite nuestro blog</a></li>
+									<li><a href="recomendacion-traspaso.php">Porque es importante legalizar el traspaso</a></li>
 								</ul>
 							</div>
 							</div>

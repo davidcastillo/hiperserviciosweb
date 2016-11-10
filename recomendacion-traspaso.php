@@ -50,7 +50,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h1 class="stripe">QUE VENDER SU CARRO NO SE VUELVA UN DOLOR DE CABEZA</h1>
+          <h1 class="stripe">PORQUE ES IMPORTANTE LEGALIZAR EL TRASPASO</h1>
         </div>
       </div>
       <!-- Page heading -->
