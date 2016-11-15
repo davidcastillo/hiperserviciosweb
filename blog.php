@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Somos especialistas en realizar trámites ante tránsito, traspasos, levantamiento de prenda, traslado de cuenta, certificados de tradición, etc.">
+    <meta name="description" content="Blog sobre trámites ante tránsito, traspasos, levantamiento de prenda, traslado de cuenta, certificados de tradición, etc.">
     <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
     <!-- Google Tag Manager -->
