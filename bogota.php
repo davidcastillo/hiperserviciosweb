@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Tramites de transito en Bogotá y Cundinamarca, Hiperservicios</title>
+    <title>Tramites en el transito de Bogotá y Cundinamarca | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Realizamos tramites de transito en Bogotá y municipios aledaños">
-    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+    <meta name="description" content="Realizamos tramites en el transito de Bogotá y municipios aledaños">
+    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, transito de Bogotá, transito de Medellin, transito de Ibague" />
 
 
     <!-- Google Tag Manager -->
@@ -87,8 +87,8 @@
             </div>
             <div class="col-md-4">
               <div class="contact-info">
-                <h1>TRAMITES DE TRANSITO EN HIPERSERVICIOS BOGOTÁ</h1>
-                <p>Nuestra oficina esta para realizar sus tramites de transito en Bogotá y municipios aledaños</p>
+                <h1>TRAMITES EN EL TRANSITO DE BOGOTÁ | HIPERSERVICIOS</h1>
+                <p>Nuestra oficina esta para realizar sus tramites en el tránsito de Bogotá y municipios aledaños</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
                   <li><i class="icon-map-marker"></i>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</li>

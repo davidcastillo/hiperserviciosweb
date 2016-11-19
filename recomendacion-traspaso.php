@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Blog de tramites de transito, Hiperservicios.</title>
+    <title>Blog de tramites de transito | Hiperservicios.</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">

@@ -2,12 +2,12 @@
 <html lang="es">
   <head>
 
-    <title>Oficinas para traspaso de vehiculos y demás tramites de transito | Hiperservicios</title>
+    <title>Oficinas para traspaso de vehiculos y demás tramites en transito | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Oficinas para realizar tramites de transito a nivel nacional">
+    <meta name="description" content="Oficinas para realizar tramites en transito a nivel nacional">
     <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
     <!-- Google Tag Manager -->
@@ -64,7 +64,7 @@
                 <img src="images/offices/traspasos-bogota.jpg" alt="Oficina de tramites de transito en Bogota" title="Oficina de tramites de transito en Bogota y Cundinamarca">
                 <div class="service-info">
                   <h3>HIPERSERVICIOS BOGOTÁ</h2>
-                  <p>Tenemos la capacidad de realizar sus tramites de transito en Bogotá y municipios de Cundinamarca</p>
+                  <p>Tenemos la capacidad de realizar sus tramites en el transito de Bogotá y  los municipios de Cundinamarca</p>
                   <a href="bogota.php" class="">Leer mas</a>
                 </div>
               </div>
@@ -74,7 +74,7 @@
                 <img src="images/offices/traspasos-medellin.jpg" alt="Oficina de tramites de transito en Medellin" title="Oficina de tramites de transito en Medellin y Antioquia">
                 <div class="service-info">
                   <h3>HIPERSERVICIOS MEDELLÍN</h3>
-                  <p>Con nuestra oficina, podemos realizar sus tramites de transito en Medellín y municipios de Antioquia</p>
+                  <p>Con nuestra oficina, podemos realizar sus tramites en el transito de Medellín y los municipios de Antioquia</p>
                   <a href="medellin.php" class="">Leer mas</a>
                 </div>
               </div>
@@ -84,7 +84,7 @@
                 <img src="images/offices/traspasos-ibague.jpg" alt="Oficina de tramites de transito en Ibague" title="Oficina de tramites de transito en Ibague y Tolima">
                 <div class="service-info">
                   <h3>HIPERSERVICIOS IBAGUÉ</h3>
-                  <p>Nuestra oficina principal realiza tramites de transito en Ibagué y municipios del Tolima</p>
+                  <p>Nuestra oficina principal realiza tramites en el transito de Ibagué y municipios del Tolima</p>
                   <a href="ibague.php" class="">Leer mas</a>
                 </div>
               </div>

@@ -5,7 +5,7 @@
             <div class="container">
               <div class="row">
                 <div class="logo">
-                    <a href="/"><img src="images/logo.png" alt="Logo de empresa de tramites de transito"></a>
+                    <a href="/"><img src="images/logo.png" alt="Empresa de tramites de transito"></a>
                 </div>
                 <ul class="header-info">
                   <li class="group">

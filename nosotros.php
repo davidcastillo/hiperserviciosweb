@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Traspaso de vehiculos y demás tramites de transito | Hiperservicios</title>
+    <title>Traspasos y tramites en el transito de Medellín, Bogotá e Ibagué | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Hiperservicios Colombia empresa de tramites de transito a nivel nacional">
-    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, transito de Ibagué, transito de Medellín, transito de Bogotá" />
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

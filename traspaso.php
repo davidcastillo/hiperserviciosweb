@@ -7,8 +7,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Que es un traspaso y porque realizarlo al comprar o vender un vehiculo">
-	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+	<meta name="description" content="Hacer un traspaso en el transito de Medellín, transito de Bogotá o transito de Ibagué">
+	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, transito de Medellin, transito de Ibagué, transito de Bogotá" />
 
 
     <!-- Google Tag Manager -->

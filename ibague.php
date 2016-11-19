@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Tramites de transito en Ibagué y Tolima, Hiperservicios</title>
+    <title>Tramites en el transito de Ibagué y Tolima  | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Realizamos tramites de transito en Ibague y municipios del Tolima">
-    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+    <meta name="description" content="Realizamos tramites en el transito de Ibagué y municipios del Tolima">
+    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, transito de Ibague, transito de Bogotá, transito de Medellín" />
 
 
 
@@ -78,8 +78,8 @@
             </div>
             <div class="col-md-4">
               <div class="contact-info">
-                <h1>TRAMITES DE TRANSITO EN HIPERSERVICIOS IBAGUÉ</h1>
-                <p>Nuestra oficina esta para realizar sus tramites de transito en Ibagué y municipios aledaños del Tolima</p>
+                <h1>TRAMITES EN EL TRANSITO DE IBAGUÉ | HIPERSERVICIOS</h1>
+                <p>Nuestra oficina esta para realizar sus tramites en el transito de Ibagué y municipios aledaños del Tolima</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
                   <li><i class="icon-map-marker"></i>Calle 60 No.2A - 59 Barrio La Floresta</li>

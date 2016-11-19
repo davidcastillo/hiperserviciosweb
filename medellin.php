@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Tramites de transito en Medellín y Antioquia, Hiperservicios</title>
+    <title>Tramites en el transito de Medellín y Antioquia | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Realizamos tramites de transito en Medellin y municipios de Antioquia">
-    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+    <meta name="description" content="Realizamos tramites en el tránsito de Medellín y municipios de Antioquia">
+    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, transito de Medellín, transito de Ibagué, transito de Bogotá" />
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -76,8 +76,8 @@
             </div>
             <div class="col-md-4">
               <div class="contact-info">
-                <h1>TRAMITES DE TRÁNSITO EN HIPERSERVICIOS MEDELLÍN</h1>
-                <p>Nuestra oficina esta para realizar sus tramites de transito en Medellín y municipios aledaños de Antioquia</p>
+                <h1>TRAMITES EN EL TRANSITO DE MEDELLÍN | HIPERSERVICIOS</h1>
+                <p>Nuestra oficina esta para realizar sus tramites en el tránsito de Medellín y municipios aledaños de Antioquia</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
                   <li><i class="icon-map-marker"></i>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</li>
