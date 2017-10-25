@@ -44,10 +44,10 @@
     <!-- Container -->
     <div class="site-container">
      <!--========================Header========================== -->
-     
+
      <?php include 'header.php'; ?>
 
-      
+
     <!-- End Header -->
 
       <!--========================Slider========================== -->
@@ -58,13 +58,13 @@
 					<div class="item slider-pic">
 						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" title="Hacer un traspaso" />
 						<div class="slider-content-box">
-							<h2 class="stripe">Legalize su traspaso</h2>
+							<h2 class="stripe">Legalice su traspaso</h2>
 							<p>Cuando venda su vehiculo es muy importante que legalize su traspaso para evitar multas, impuestos y otros inconvenientes que le puede traer tener un vehiculo que ya vendio a su nombre.</p>
 							<div class="accent-btn">
 								<a href="traspaso.php">Leer más</a>
 							</div>
 						</div>
-					</div>      
+					</div>
           <div class="item slider-pic">
 						<img src="images/sliders/1_cerrar_el_traspaso.jpg" alt="cerrar la venta del carro legalizando el traspaso es una buena practica" title="Legalizar la venta de mi carro"/>
 						<div class="slider-content-box">
@@ -151,7 +151,7 @@
       </section>
       <!-- what we do -->
 
-      <!--========================Why choose us========================== 
+      <!--========================Why choose us==========================
       <section class="why-choose-us grey">
         <div class="container">
           <div class="row">
@@ -201,7 +201,7 @@
       </section>
       <!-- Why choose us -->
 
-      <!--========================Projects========================== 
+      <!--========================Projects==========================
       <section class="recent-projects">
         <div class="container">
           <div class="row">
@@ -351,7 +351,7 @@
       </section>
       <!-- End fun-facts -->
 
-      <!--========================news section========================== 
+      <!--========================news section==========================
        <section class="news-section grey">
         <div class="container">
           <div class="row">
@@ -420,7 +420,7 @@
       </section>
       <!-- about-us-img -->
 
-      <!--========================team========================== 
+      <!--========================team==========================
       <section class="team">
         <div class="container">
           <div class="row">
