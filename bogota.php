@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Tramites en el transito de Bogotá y Cundinamarca | Hiperservicios</title>
+    <title>Tramites en el tránsito de Bogotá y Cundinamarca | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Realizamos tramites en el transito de Bogotá y municipios aledaños">
-    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, transito de Bogotá, transito de Medellin, transito de Ibague" />
+    <meta name="description" content="Realizamos tramites en el tránsito de Bogotá y municipios aledaños">
+    <meta name="keywords" content="traspaso, tramite, tránsito, runt, simit, tránsito de Bogotá, tránsito de Medellin, tránsito de Ibague" />
 
 
     <!-- Google Tag Manager -->
@@ -49,25 +49,25 @@
       <!-- End Header -->
 
 
-     
-               
+
+
       <!--========================google-map========================== -->
       <div class="container d-toppagefixed formatoh1">
       </div>
-      
-      
+
+
       <div class="google-map d-toppagefixed">
         <div class="col-md-6">
-           <iframe width="100%" height="400" frameborder="0" 
-            marginheight="0" marginwidth="0" 
+           <iframe width="100%" height="400" frameborder="0"
+            marginheight="0" marginwidth="0"
             src="https://www.google.com/maps/embed/v1/place?q=Bogot%C3%A1%20-%20Bogota%2C%20Colombia%20Ave%20suba%20No.%20124%20-%2020%20C.C%20Bahia%20122&key=AIzaSyCfKKYJNffWtBDVBFn3z0g-OM23GsQDSe8"></iframe>
-        </div> 
-        <div class="col-md-6" >    
-          <img src="images/offices/traspasos-bogota.jpg" width="100%" height="400" frameborder="0" 
-          marginheight="0" marginwidth="0" alt="Oficina de tramites de transito en Bogota" title="Oficina de Tramites en Bogota">
+        </div>
+        <div class="col-md-6" >
+          <img src="images/offices/traspasos-bogota.jpg" width="100%" height="400" frameborder="0"
+          marginheight="0" marginwidth="0" alt="Oficina de tramites de tránsito en Bogota" title="Oficina de Tramites en Bogota">
           </div>
-      </div> 
-          
+      </div>
+
       <!-- google-map -->
 
       <!--========================contact-us========================== -->
@@ -81,20 +81,20 @@
                   <input type="text" name="subject" placeholder="Tema">
                   <textarea name="message" placeholder="Inquietud"></textarea>
                   <button type="submit" class="submit">enviar</button>
-              </form> 
-              
+              </form>
+
         <!-- End form holder -->
             </div>
             <div class="col-md-4">
               <div class="contact-info">
-                <h1>TRAMITES EN EL TRANSITO DE BOGOTÁ | HIPERSERVICIOS</h1>
-                <p>Nuestra oficina esta para realizar sus tramites en el tránsito de Bogotá y municipios aledaños</p>
-                <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
+                <h1>TRAMITES EN EL TRÁNSITO DE BOGOTÁ | HIPERSERVICIOS</h1>
+                <p>Nuestra oficina está para realizar sus tramites en el tránsito de Bogotá y municipios aledaños</p>
+                <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondrá en contacto con Ud</p>
                 <ul>
-                  <li><i class="icon-map-marker"></i>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</li>
+                  <li><i class="icon-map-marker"></i>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34, Cerca al SIM de SUBA</li>
                   <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a></li>
                   <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
-                  <li><i class="icomoon-icon-clock"></i>Lunes - Sabado : 08:00am - 6:00pm</li>
+                  <li><i class="icomoon-icon-clock"></i>Lunes - Sábado : 08:00am - 6:00pm</li>
                 </ul>
               </div>
             </div>
@@ -107,7 +107,7 @@
 			     <?php include 'footer.php'; ?>
 			<!-- End Footer -->
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

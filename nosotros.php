@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Traspasos y tramites en el transito de Medellín, Bogotá e Ibagué | Hiperservicios</title>
+    <title>Traspasos y trámites en el tránsito de Medellín, Bogotá e Ibagué | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Hiperservicios Colombia empresa de tramites de transito a nivel nacional">
-    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, transito de Ibagué, transito de Medellín, transito de Bogotá" />
+    <meta name="description" content="Hiperservicios Colombia empresa de trámites de tránsito a nivel nacional">
+    <meta name="keywords" content="traspaso, trámite, tránsito, runt, simit, tránsito de Ibagué, tránsito de Medellín, tránsito de Bogotá" />
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -60,7 +60,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="project-pics">
-							<img src='images/team/tramitadores.jpg' alt='Somos un equipo de 10 personas listas para hacer su tramite ante transito' title="tramitadores de transito">
+							<img src='images/team/tramitadores.jpg' alt='tramitadores de tránsito' title="Somos un equipo de 10 personas listas para hacer su trámite ante tránsito">
 						</a>
 						<!--	<a href="images/projects/single5.jpg" class="prettyPhoto">
 							<img src='images/projects/single2.jpg' alt='img'>
@@ -91,10 +91,10 @@
 								</ul>-->
 								<h1>HIPERSERVICIOS COLOMBIA
                 <p>Asesorías ante tránsito a nivel nacional</P> </h1>
-								<p>Somos una empresa Ibaguereña, fundada en el año 2004, que se ha sostenido en el mercado gracias a su responsabilidad, seriedad  y cumplimiento en la gestion documental de tramites ante todos los organismos de transito del pais.
+								<p>Somos una empresa Ibaguereña, fundada en el año 2004, que se ha sostenido en el mercado gracias a su responsabilidad, seriedad  y cumplimiento en la gestión documental de trámites ante todos los organismos de tránsito del país.
 </p>
-								<p>Somos especialistas en realizar tramites ante transito, realizamos traspasos, levantamiento de prenda, traslados de cuenta, licencias de transito.</p>
-                <p>Nuestra misión es ahorrarle tiempo y dinero a nuestros clientes haciendo sus tramites ante transito rapido y bien hecho.</p>
+								<p>Somos especialistas en realizar trámites ante tránsito, realizamos traspasos, levantamiento de prenda, traslados de cuenta, licencias de tránsito.</p>
+                <p>Nuestra misión es ahorrarle tiempo y dinero a nuestros clientes haciendo sus trámites ante tránsito rápido y bien hecho.</p>
 							</div>
 						</div>
 					</div>
@@ -106,7 +106,7 @@
 			     <?php include 'footer.php'; ?>
 			<!-- End Footer -->
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

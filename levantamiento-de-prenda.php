@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Levantamiento de prenda y demás tramites de transito | Hiperservicios.</title>
+    <title>Levantamiento de prenda y demás trámites de tránsito | Hiperservicios.</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Que es un levantamiento de prenda, como hacer este tramite ante transito">
-	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+	<meta name="description" content="Que es un levantamiento de prenda, como hacer este trámite ante tránsito">
+	<meta name="keywords" content="traspaso, trámite, tránsito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -89,7 +89,7 @@
 											</a>
 										</li>
 										<li>
-											<a href="otros.php" title="Otros tramites de transito">
+											<a href="otros.php" title="Otros trámites de tránsito">
 												Otros
 
 											</a>
@@ -128,26 +128,26 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/levantamiento_prenda.jpg' alt='tramite de levantamiento de prenda' title="Tramite de levantamiento de prenda">
+											<img src='images/others/levantamiento_prenda.jpg' alt='trámite de levantamiento de prenda' title="trámite de levantamiento de prenda">
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/levantar_prenda.jpg' alt='carta de levantamiendo de prenda' title="credito de vehiculo">
+											<img src='images/others/levantar_prenda.jpg' alt='carta de levantamiendo de prenda' title="credito de vehículo">
 										</div>
 									</div>
 								</div>
 								<div class="services-post">
 										<h4>Que es?</h4>
-										<p>Si compro su vehiculo utilizando un credito con una entidad financiera, y ya termino de pagar el credito, es hora de levantar la limitación a la propiedad que tenia el vehiculo para que pueda venderlo o permutarlo libremente, 
-										para realizar este tramite debe contar con una carta expedida por la entidad financiera que no supere los 
-										30 dias de expedida en la cual certifican que la deuda esta pagada y que levantan la prenda impuesta sobre el vehiculo realizada en el momento que adquirio el vehiculo a traves del prestamo.</p>
+										<p>Si compró su vehículo utilizando un crédito con una entidad financiera, y ya terminó de pagar el crédito, es hora de levantar la limitación a la propiedad que tenía el vehículo para que pueda venderlo o permutarlo libremente,
+										para realizar este trámite debe contar con una carta expedida por la entidad financiera que no supere los
+										30 días de expedida en la cual certifican que la deuda está pagada y que levantan la prenda impuesta sobre el vehículo realizada en el momento que adquirio el vehículo a través del préstamo.</p>
 								</div>
 								<div class="row">
 
 										<section class="contact-us caja_contact_in_tramite">
 												<div class="row">
-													
+
 													<div class="col-md-5">
 													<div class="contact-info" style=" height: 460px; margin-left: -46px;">
 														<h4>HIPERSERVICIOS COLOMBIA</h4>
@@ -155,13 +155,13 @@
 														<li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
 														<br>
 														<li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
-															<br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
+															<br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34, Cerca al SIM de SUBA</br>
 															</li>
 														<li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
-														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br> 
+														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br>
 														</li>
 															<li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
-															<br>Calle 60 No.2A - 59 Barrio La Floresta</br> 
+															<br>Calle 60 No.2A - 59 Barrio La Floresta</br>
 															</li>
 															<li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
 														</ul>
@@ -175,11 +175,11 @@
 														<input type="text" name="subject" placeholder="Tema">
 														<textarea name="message" placeholder="Inquietud"></textarea>
 														<button type="submit" class="submit">enviar</button>
-													</form> 
+													</form>
 													</div>
 															<!-- End form holder -->
 
-													
+
 												</div>
 												</div>
 											</section>
@@ -256,7 +256,7 @@
 			<!-- End Footer -->
 
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

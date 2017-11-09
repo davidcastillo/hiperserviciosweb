@@ -1,14 +1,14 @@
-<!DOCTYPE html>
+matrícula<!DOCTYPE html>
 <html lang="es">
   <head>
 
-    <title>Cancelacion de matricula y demás tramites de transito | Hiperservicios</title>
+    <title>Cancelacion de matricula y demás trámites de transito | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Que es una cancelacion de matricula y cuando realizar este tramite ante transito">
-	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+	<meta name="description" content="Que es una cancelacion de matrícula y cuando realizar este trámite ante transito">
+	<meta name="keywords" content="traspaso, trámite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -50,7 +50,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h1 class="stripe">CANCELACIÓN DE MATRICULA</h1>
+          <h1 class="stripe">CANCELACIÓN DE MATRÍCULA</h1>
         </div>
       </div>
       <!-- Page heading -->
@@ -81,7 +81,7 @@
 										</li>
 										<li class="selected">
 											<a href="cancelacion-de-matricula.php" title="Cancelacion de matricula">
-												Cancelación de matricula											</a>
+												Cancelación de matrícula											</a>
 										</li>
 										<li>
 											<a href="certificado-de-tradicion.php" title="certificado de tradicion">
@@ -89,7 +89,7 @@
 											</a>
 										</li>
 										<li>
-											<a href="otros.php" title="Otros tramites de transito">
+											<a href="otros.php" title="Otros trámites de transito">
 												Otros
 
 											</a>
@@ -128,27 +128,26 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/cancelacion_de_matricula.jpeg' alt='cancelacion de matricula' title="Tramite de cancelacion de matricula">
+											<img src='images/others/cancelacion_de_matricula.jpeg' alt='cancelacion de matricula' title="trámite de cancelacion de matricula">
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/robo-carro-tramite-cancelacion-matricula.jpg' alt='tramite cuando le roban el carro' title="Tramite cuando me roban el carro">
+											<img src='images/others/robo-carro-tramite-cancelacion-matricula.jpg' alt='trámite cuando le roban el carro' title="trámite cuando me roban el carro">
 										</div>
 									</div>
 								</div>
 								<div class="services-post">
-										<h3>Que es una cancelación de matricula?</h3>
-										<p>Si desafortunadamente su vehiculo fue robado o desaparecido y no tiene rastro de el, es conveneniente que realize la cancelación de la matricula ante la secretaria de transito correspondiente, 
-										de esta manera, el vehiculo quedara desactivado de las bases de datos de la secretaria de transito y los impuestos y demas costos inherentes a la tenencia del vehiculo se detrentran porque el vehiculo tiene la matricula cancelada.</p>
-										<p>Si las autoridades encuentran nuevamente su vehiculo y esta en las condiciones aptas para entrar nuevamente en circulacion puede realizar un tramite llamada rematricula.</p>
-										
+										<h3>¿Qué es una cancelación de matrícula?</h3>
+										<p>Si desafortunadamente su vehículo fue robado o desaparecido y no tiene rastro de él, es conveneniente que realice la cancelación de la matrícula ante la secretaría de tránsito correspondiente,
+										de esta manera, el vehículo quedará desactivado de las bases de datos de la secretaría de tránsito y los impuestos y demás costos inherentes a la tenencia del vehículo se detrendrán porque el vehículo tiene la matrícula cancelada.</p>
+										<p>Si las autoridades encuentran nuevamente su vehículo y está en las condiciones aptas para entrar nuevamente en circulación puede realizar un trámite llamada rematrícula.</p>
 								</div>
 								<div class="row">
 
 										<section class="contact-us caja_contact_in_tramite">
 												<div class="row">
-													
+
 													<div class="col-md-5">
 													<div class="contact-info" style=" height: 460px; margin-left: -46px;">
 														<h4>HIPERSERVICIOS COLOMBIA</h4>
@@ -156,13 +155,13 @@
 														<li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
 														<br>
 														<li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
-															<br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
+															<br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34, Cerca al SIM de SUBA</br>
 															</li>
 														<li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
-														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br> 
+														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br>
 														</li>
 															<li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
-															<br>Calle 60 No.2A - 59 Barrio La Floresta</br> 
+															<br>Calle 60 No.2A - 59 Barrio La Floresta</br>
 															</li>
 															<li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
 														</ul>
@@ -176,11 +175,11 @@
 														<input type="text" name="subject" placeholder="Tema">
 														<textarea name="message" placeholder="Inquietud"></textarea>
 														<button type="submit" class="submit">enviar</button>
-													</form> 
+													</form>
 													</div>
 															<!-- End form holder -->
 
-													
+
 												</div>
 												</div>
 											</section>
@@ -257,7 +256,7 @@
 			<!-- End Footer -->
 
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

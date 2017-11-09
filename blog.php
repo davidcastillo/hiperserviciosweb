@@ -57,7 +57,7 @@
             <div class="col-md-9">
               <div class="blog-posts">
                 <div class="blog-post">
-                  <img src="images\sliders\traspaso-carros-042015.jpg">
+                  <img src="images\sliders\traspaso-carros-042015.jpg" alt="transito de Medellin" title="Hacer tramites en Medellin"/>
                   <div class="post-content">
                     <h3><a href="recomendacion-traspaso.php">Porque es importante legalizar el traspaso</a></h3>
                     <ul class="entry-meta">
@@ -207,7 +207,7 @@
 			     <?php include 'footer.php'; ?>
 			<!-- End Footer -->
 
-      
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

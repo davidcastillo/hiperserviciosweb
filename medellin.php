@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Tramites en el transito de Medellín y Antioquia | Hiperservicios</title>
+    <title>Tramites en el tránsito de Medellín y Antioquia | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Realizamos tramites en el tránsito de Medellín y municipios de Antioquia">
-    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, transito de Medellín, transito de Ibagué, transito de Bogotá" />
+    <meta name="keywords" content="traspaso, tramite, tránsito, runt, simit, tránsito de Medellín, tránsito de Ibagué, tránsito de Bogotá" />
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -51,12 +51,12 @@
       <div class="google-map d-toppagefixed">
         <div class="col-md-6">
            <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Medell%C3%ADn%20-%20Antioquia%2C%20Colombia%20Cra%2043A%20No.%2019A-87&key=AIzaSyCSReJGZUOr2tMtNPaWciyRuWrZU8pqVRg" allowfullscreen></iframe>
-        </div> 
-        <div class="col-md-6" >    
-          <img src="images/offices/traspasos-medellin.jpg" width="100%" height="400" frameborder="0" 
-          marginheight="0" marginwidth="0"  alt="Oficina de tramites de transito en Medellin" title="Oficina de tramites en Medellin"/>
+        </div>
+        <div class="col-md-6" >
+          <img src="images/offices/traspasos-medellin.jpg" width="100%" height="400" frameborder="0"
+          marginheight="0" marginwidth="0"  alt="Oficina de tramites de tránsito en Medellin" title="Oficina de tramites en Medellin"/>
           </div>
-      </div>      
+      </div>
       <!-- google-map -->
 
       <!--========================contact-us========================== -->
@@ -70,20 +70,20 @@
                   <input type="text" name="subject" placeholder="Tema">
                   <textarea name="message" placeholder="Inquietud"></textarea>
                   <button type="submit" class="submit">enviar</button>
-              </form> 
-              
+              </form>
+
         <!-- End form holder -->
             </div>
             <div class="col-md-4">
               <div class="contact-info">
-                <h1>TRAMITES EN EL TRANSITO DE MEDELLÍN | HIPERSERVICIOS</h1>
-                <p>Nuestra oficina esta para realizar sus tramites en el tránsito de Medellín y municipios aledaños de Antioquia</p>
-                <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
+                <h1>TRAMITES EN EL TRÁNSITO DE MEDELLÍN | HIPERSERVICIOS</h1>
+                <p>Nuestra oficina está para realizar sus tramites en el tránsito de Medellín y municipios aledaños de Antioquia</p>
+                <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondrá en contacto con Ud</p>
                 <ul>
                   <li><i class="icon-map-marker"></i>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</li>
                   <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a></li>
                   <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
-                  <li><i class="icomoon-icon-clock"></i>Lunes - Sabado : 08:00am - 6:00pm</li>
+                  <li><i class="icomoon-icon-clock"></i>Lunes - Sábado : 08:00am - 6:00pm</li>
                 </ul>
               </div>
             </div>
@@ -97,7 +97,7 @@
 			     <?php include 'footer.php'; ?>
 			<!-- End Footer -->
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

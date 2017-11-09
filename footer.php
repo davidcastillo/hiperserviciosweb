@@ -9,7 +9,7 @@
 								<div class="widget-title">
 											<h4>Nuestras redes sociales</h4>
 									</div>
-									
+
 								<div class="col-md-1">
 									<div>
 										<ul class="social-icons">
@@ -53,7 +53,7 @@
 									<div class="tagcloud">
 										<ul>
 											<li>
-												<a href="http://recursosweb.shd.gov.co/ConsultaPagos/ConsultaPagos.html">impuestos de Bogota</a>
+												<a href="http://recursosweb.shd.gov.co/ConsultaPagos/ConsultaPagos.html">impuestos de Bogotá</a>
 											</li>
 											<li>
 												<a href="http://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">impuestos de Tolima</a>
@@ -88,11 +88,10 @@
 				<div class="footer-btm">
 					<div class="container">
 						<div class="row">
-              <span class="copyright">© Copyright 2016 <a href="#" title="ConsultMe Template" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank">David Castillo</a>
+              <span class="copyright">© Copyright 2017 <a href="#" title="ConsultMe Template" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank">David Castillo</a>
 							</span>
 						</div>
 					</div>
 				</div>
 			</footer>
 			<!-- End Footer -->
-

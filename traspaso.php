@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Traspaso de vehiculos y demás tramites de transito | Hiperservicios</title>
+    <title>Traspaso de vehiculos y demás tramites de tránsito | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Hacer un traspaso en el transito de Medellín, transito de Bogotá o transito de Ibagué">
-	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, transito de Medellin, transito de Ibagué, transito de Bogotá" />
+	<meta name="description" content="Hacer un traspaso en el tránsito de Medellín, tránsito de Bogotá o tránsito de Ibagué">
+	<meta name="keywords" content="traspaso, tramite, tránsito, runt, simit, tránsito de Medellin, tránsito de Ibagué, tránsito de Bogotá" />
 
 
     <!-- Google Tag Manager -->
@@ -90,7 +90,7 @@
 											</a>
 										</li>
 										<li>
-											<a href="otros.php" title="Otros tramites de transito">
+											<a href="otros.php" title="Otros tramites de tránsito">
 												Otros
 
 											</a>
@@ -139,16 +139,16 @@
 									</div>
 								</div>
 								<div class="services-post">
-										<h4>Que es?</h4>
-										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, este cambio debe legalizarse ante la secretaria de transito donde se encuentra matriculado el vehiculo. 
+										<h4>¿Qué es?</h4>
+										<p>Cuando va a comprar, vender o cambiar de propietario un vehiculo, éste cambio debe legalizarse ante la secretaría de tránsito donde se encuentra matriculado el vehículo.
 										</p>
-										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el tramite de traspaso ante la secretaria correspondiente, esto le evitara inconvenientes en el futuro.</p>
+										<p>Recuerde que en el momento de comprar su vehículo es importante cerrar el formulario y legalizar el trámite de traspaso ante la secretaría correspondiente, esto le evitará inconvenientes en el futuro.</p>
 								</div>
 								<div class="row">
 
 										<section class="contact-us caja_contact_in_tramite">
 												<div class="row">
-													
+
 													<div class="col-md-5">
 													<div class="contact-info" style=" height: 460px; margin-left: -46px;">
 														<h4>HIPERSERVICIOS COLOMBIA</h4>
@@ -156,15 +156,15 @@
 														<li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
 														<br>
 														<li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
-															<br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
+															<br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34, Cerca al SIM de SUBA</br>
 															</li>
 														<li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
-														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br> 
+														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br>
 														</li>
 															<li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
-															<br>Calle 60 No.2A - 59 Barrio La Floresta</br> 
+															<br>Calle 60 No.2A - 59 Barrio La Floresta</br>
 															</li>
-															<li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
+															<li><i class="icomoon-icon-mail2"></i>asesorias@tránsitoscolombia.com</li>
 														</ul>
 													</div>
 													</div>
@@ -176,11 +176,11 @@
 														<input type="text" name="subject" placeholder="Tema">
 														<textarea name="message" placeholder="Inquietud"></textarea>
 														<button type="submit" class="submit">enviar</button>
-													</form> 
+													</form>
 													</div>
 															<!-- End form holder -->
 
-													
+
 												</div>
 												</div>
 											</section>
@@ -257,7 +257,7 @@
 			<!-- End Footer -->
 
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

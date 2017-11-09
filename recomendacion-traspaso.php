@@ -44,7 +44,7 @@
     <!-- Container -->
     <div class="site-container">
      <!--========================Header========================== -->
-          <?php include 'header.php'; ?>   
+          <?php include 'header.php'; ?>
      <!-- End Header -->
 
       <!--========================Page heading========================== -->
@@ -62,7 +62,7 @@
             <div class="col-md-9">
             	<div class="blog-posts">
             		<div class="blog-post single-post">
-            			<img src="images\sliders\traspaso-carros-042015.jpg">
+            			<img src="images\sliders\traspaso-carros-042015.jpg" alt="transito en Medellin" title="Hacer tramites en Medellin"/>
             			<div class="post-content">
             				<h3>QUE VENDER SU CARRO NO SE VUELVA UN DOLOR DE CABEZA</h3>
             			  <ul class="entry-meta">

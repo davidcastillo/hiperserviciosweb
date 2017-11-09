@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Traslado de cuenta y demás tramites de transito | Hiperservicios</title>
+    <title>Traslado de cuenta y demás trámites de transito | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Que es un traslado de cuenta y porque es conveniente realizarlo">
-	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+	<meta name="keywords" content="traspaso, trámite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
 
     <!-- Google Tag Manager -->
@@ -90,7 +90,7 @@
 											</a>
 										</li>
 										<li>
-											<a href="otros.php" title="Otros tramites de transito">
+											<a href="otros.php" title="Otros trámites de transito">
 												Otros
 
 											</a>
@@ -129,25 +129,25 @@
 								<div class="row">
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/traslado de cuenta.jpg' alt='Cambiar la ciudad donde esta registrado mi carro' title="tramite de traslado de cuenta">
+											<img src='images/others/traslado de cuenta.jpg' alt='trámite de traslado de cuenta' title="Cambiar la ciudad donde esta registrado mi carro">
 										</div>
 									</div>
 									<div class="col-md-6">
 										<div class="services-post">
-											<img src='images/others/trasladar-la-cuenta.jpg' alt='Hacer el traslado de cuenta' title="Traslado de cuenta">
+											<img src='images/others/trasladar-la-cuenta.jpg' alt='Traslado de cuenta' title="Hacer el traslado de cuenta">
 										</div>
 									</div>
 								</div>
 								<div class="services-post">
-										<h4>Que es?</h4>
-										<p>Si compro un carro matriculado en una ciudad diferente a la de su residencia, puede realizar el traslado de cuenta para tener mayor control del historial y la documentación del vehiculo a la hora de una eventual venta.</p>
-										<p>Este tramite es opcional, no es obligatorio realizarlo, sin embargo algunos propietarios deciden hacerlo tambien motivados por ganar descuentos en impuestos sobre el vehiculo que ofrecen algunos departamentos.</p>
+										<h4>¿Que es?</h4>
+										<p>Si compró un carro matriculado en una ciudad diferente a la de su residencia, puede realizar el traslado de cuenta para tener mayor control del historial y la documentación del vehículo a la hora de una eventual venta.</p>
+										<p>Este trámite es opcional, no es obligatorio realizarlo, sin embargo algunos propietarios deciden hacerlo también motivados por ganar descuentos en impuestos sobre el vehículo que ofrecen algunos departamentos.</p>
 								</div>
 								<div class="row">
 
 										<section class="contact-us caja_contact_in_tramite">
 												<div class="row">
-													
+
 													<div class="col-md-5">
 													<div class="contact-info" style=" height: 460px; margin-left: -46px;">
 														<h4>HIPERSERVICIOS COLOMBIA</h4>
@@ -155,13 +155,13 @@
 														<li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
 														<br>
 														<li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
-															<br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
+															<br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34, Cerca al SIM de SUBA</br>
 															</li>
 														<li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
-														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br> 
+														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br>
 														</li>
 															<li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
-															<br>Calle 60 No.2A - 59 Barrio La Floresta</br> 
+															<br>Calle 60 No.2A - 59 Barrio La Floresta</br>
 															</li>
 															<li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
 														</ul>
@@ -175,11 +175,11 @@
 														<input type="text" name="subject" placeholder="Tema">
 														<textarea name="message" placeholder="Inquietud"></textarea>
 														<button type="submit" class="submit">enviar</button>
-													</form> 
+													</form>
 													</div>
 															<!-- End form holder -->
 
-													
+
 												</div>
 												</div>
 											</section>
@@ -256,7 +256,7 @@
 			<!-- End Footer -->
 
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

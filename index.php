@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Traspaso de vehiculos y demás tramites en tránsito | Hiperservicios.</title>
+    <title>Traspaso de vehículos y demás trámites en tránsito | Hiperservicios.</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Somos especialistas en realizar trámites ante tránsito, traspasos, levantamiento de prenda, traslado de cuenta, certificados de tradición, etc.">
-    <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin, bogota, medellin, ibague, levantamiento de prenda, traslado de cuenta, servicios" />
+    <meta name="keywords" content="traspaso, trámite, tránsito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin, bogota, medellin, ibague, levantamiento de prenda, traslado de cuenta, servicios" />
     <meta name="robots" content="follow, index" />
 
     <!-- Google Tag Manager -->
@@ -21,6 +21,7 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="alternate" hreflang="es" href="http://es.asesoriasantetransito.com/" />
 
     <!-- Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,400italic,600,600italic,700,700italic,900italic,900,300,300italic%7COpen+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css' />
@@ -59,7 +60,7 @@
 						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" title="Hacer un traspaso" />
 						<div class="slider-content-box">
 							<h2 class="stripe">Legalice su traspaso</h2>
-							<p>Cuando venda su vehiculo es muy importante que legalize su traspaso para evitar multas, impuestos y otros inconvenientes que le puede traer tener un vehiculo que ya vendio a su nombre.</p>
+							<p>Cuando venda su vehículo es muy importante que legalice su traspaso para evitar multas, impuestos y otros inconvenientes que le puede traer tener un vehículo que ya vendió a su nombre.</p>
 							<div class="accent-btn">
 								<a href="traspaso.php">Leer más</a>
 							</div>
@@ -68,18 +69,18 @@
           <div class="item slider-pic">
 						<img src="images/sliders/1_cerrar_el_traspaso.jpg" alt="cerrar la venta del carro legalizando el traspaso es una buena practica" title="Legalizar la venta de mi carro"/>
 						<div class="slider-content-box">
-							<h2 class="stripe">Compre su vehiculo tranquilo</h2>
-							<p>Cuando compre su vehiculo es muy importante que revise el estado de los documentos del vehiculo que esta comprando.</p>
+							<h2 class="stripe">Compre su vehículo tranquilo</h2>
+							<p>Cuando compre su vehículo es muy importante que revise el estado de los documentos del vehículo que está comprando.</p>
 							<div class="accent-btn">
 								<a href="certificado-de-tradicion.php">Leer más</a>
 							</div>
 						</div>
 					</div>
 					<div class="item slider-pic">
-						<img src="images/sliders/2_transito_bogota.jpg" alt="transito en Bogota" title="Hacer tramites en Bogota"/>
+						<img src="images/sliders/2_transito_bogota.jpg" alt="tránsito en Bogota" title="Hacer trámites en Bogota"/>
 						<div class="slider-content-box">
 							<h2 class="stripe">Transite con sus documentos en regla</h2>
-							<p>Para evitar inconvenientes y sorpresas revise regularmente el SOAT, la revision TecnicoMecanica e impuestos de su vehiculo.</p>
+							<p>Para evitar inconvenientes y sorpresas revise regularmente el SOAT, la revisión TecnicoMécanica e impuestos de su vehículo.</p>
 							<div class="accent-btn">
 								<a href="traspaso.php">Leer más</a>
 							</div>
@@ -94,12 +95,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
-                    <h2>¿Quiere una asesoría en algún trámite de tránsito? ¡Contáctenos ahora!</h2>
+                    <h2>¿Quiere una asesoría en algún trámite de tránsito?<p>¡Contáctenos ahora!</h2>
                 </div>
 
                 <div class="col-md-3">
                       <div class="accent-btn">
-              <a href="contactenos.php">Solicitar una asesoria</a>
+              <a href="contactenos.php">Solicitar una asesoría</a>
             </div>
                 </div>
             </div>
@@ -112,26 +113,26 @@
         <div class="container">
           <div class="row">
             <div class="section-title align-center col-md-12">
-              <h2 class="stripe">Los tramites de transito que realizamos</h2>
+              <h2 class="stripe">Los trámites de tránsito que realizamos</h2>
             </div>
           </div>
           <div class="row">
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/formulario_de_traspaso_hiperservicios.jpg" alt="tramite de traspaso" title="Traspaso">
+                <img src="images/services/formulario_de_traspaso_hiperservicios.jpg" alt="trámite de traspaso" title="Traspaso">
                 <div class="service-info">
-                  <h3>Traspaso de vehiculo</h3>
-                  <p>Cuando compre o venda su vehiculo, debe registrar dicha transaccion en las oficinas de transito, nosotros le indicamos como.</p>
+                  <h3>Traspaso de vehículo</h3>
+                  <p>Cuando compre o venda su vehículo, debe registrar dicha transacción en las oficinas de tránsito, nosotros le indicamos como.</p>
                   <a href="traspaso.php" class="">Leer más</a>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/services/Levantamiento_prenda_hiperservicios.jpg" alt="tramite de levantar prenda" title="Carta de levantar prenda">
+                <img src="images/services/Levantamiento_prenda_hiperservicios.jpg" alt="trámite de levantar prenda" title="Carta de levantar prenda">
                 <div class="service-info">
                   <h3>Levantar la prenda</h3>
-                  <p>Si ya termino de pagar la deuda de su vehiculo es hora de levantar la pignoracion que tiene con la entidad financiera.</p>
+                  <p>Si ya terminó de pagar la deuda de su vehículo es hora de levantar la pignoración que tiene con la entidad financiera.</p>
                   <a href="levantamiento-de-prenda.php" class="">Leer más</a>
                 </div>
               </div>
@@ -141,7 +142,7 @@
                 <img src="images/services/certificado_tradicion_hiperservicios.jpg" alt="solicitar un certificado de tradicion" title="porque solicitar un certificado de tradicion">
                 <div class="service-info">
                   <h3>Certificados de tradición</h3>
-                  <p>Confirme el historial de embargos y siniestros del vehiculo que va a comprar, no se deje engañar.</p>
+                  <p>Confirme el historial de embargos y siniestros del vehículo que va a comprar, no se deje engañar.</p>
                   <a href="certificado-de-tradicion.php" class="">Leer más</a>
                 </div>
               </div>
@@ -323,7 +324,7 @@
                       <i class="icomoon-icon-trophy"></i>
                     </div>
                      <h2 class="timer" data-from="5375" data-to="5386" data-speed="5000" data-refresh-interval="50">12</h2>
-                    <span class="count-number-dsc">Tramites realizados</span>
+                    <span class="count-number-dsc">trámites realizados</span>
                   </div>
                   <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="fact-icon">
@@ -411,7 +412,7 @@
       <section class="about-us-img">
         <div class="container">
           <div class="row">
-            <h2>Somos especialistas en <br>tramites ante tránsito</h2>
+            <h2>Somos especialistas en <br>trámites ante tránsito</h2>
             <div class="accent-btn">
 								<a href="contactenos.php">Solicitar una asesoría</a>
 						</div>

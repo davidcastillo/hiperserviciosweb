@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Certificado de tradición y demás tramites de transito | Hiperservicios</title>
+    <title>Certificado de tradición y demás trámites de tránsito | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -60,7 +60,7 @@
 			<section class="single-service">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-3">	
+						<div class="col-md-3">
 							<div class="sidebar">
 								<div class="widget vertical-menu">
 									<ul>
@@ -82,7 +82,7 @@
 										</li>
 										<li>
 											<a href="cancelacion-de-matricula.php" title="Cancelacion de matricula">
-												Cancelación de matricula											</a>
+												Cancelación de matrícula											</a>
 										</li>
 										<li class="selected">
 											<a href="certificado-de-tradicion.php" title="certificado de tradicion">
@@ -139,15 +139,15 @@
 									</div>
 								</div>
 								<div class="services-post">
-										<h3>Que es un certificado de tradición?</h3>
-										<p>La manera mas efectiva de conocer el historial legal de un carro es a traves de un certificado de tradicion, si va a comprar un vehiculo, esta es la practica mas recomendada, ya que en este documento, solicitado en la secretaria de transito donde se encuentra matriculado el vehiculo estan reflejado, lo ultimos tramites realizar al vehiculo, embargos, reportes por robo etc.</p>
+										<h3>¿Qué es un certificado de tradición?</h3>
+										<p>La manera más efectiva de conocer el historial legal de un carro es a través de un certificado de tradición, si va a comprar un vehículo, ésta es la práctica más recomendada, ya que en este documento, solicitado en la secretaria de tránsito donde se encuentra matriculado el vehículo esta reflejado, los últimos trámites a realizar al vehículo, embargos, reportes por robo etc.</p>
 								</div>
 								<div class="row">
 
 										<section class="contact-us caja_contact_in_tramite">
 												<div class="row">
-													
-													
+
+
 													<div class="col-md-5">
 													<div class="contact-info" style=" height: 460px; margin-left: -46px;">
 														<h4>HIPERSERVICIOS COLOMBIA</h4>
@@ -155,13 +155,13 @@
 														<li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
 														<br>
 														<li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
-															<br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
+															<br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34, Cerca al SIM de SUBA</br>
 															</li>
 														<li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
-														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br> 
+														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br>
 														</li>
 															<li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
-															<br>Calle 60 No.2A - 59 Barrio La Floresta</br> 
+															<br>Calle 60 No.2A - 59 Barrio La Floresta</br>
 															</li>
 															<li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
 														</ul>
@@ -175,11 +175,11 @@
 														<input type="text" name="subject" placeholder="Tema">
 														<textarea name="message" placeholder="Inquietud"></textarea>
 														<button type="submit" class="submit">enviar</button>
-													</form> 
+													</form>
 													</div>
 															<!-- End form holder -->
 
-													
+
 												</div>
 												</div>
 											</section>
@@ -256,7 +256,7 @@
 			<!-- End Footer -->
 
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

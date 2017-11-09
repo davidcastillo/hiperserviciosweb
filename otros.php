@@ -2,7 +2,7 @@
 <html lang="es">
   <head>
 
-    <title>Traspaso de vehiculos y demás tramites de transito | Hiperservicios</title>
+    <title>Traspaso de vehiculos y demás trámites de transito | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,7 +51,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h1 class="stripe">OTROS TRAMITES DE TRANSITO</h1>
+          <h1 class="stripe">OTROS TRÁMITES DE TRÁNSITO</h1>
         </div>
       </div>
       <!-- Page heading -->
@@ -139,15 +139,15 @@
 									</div>
 								</div>
 								<div class="services-post">
-										<h1>Tramites de transito</h1>
-										<p>Entre los tramites de transito que puede realizar son: cambio de color, cambio de motor, regrabar motor, regrabar chasis, transformación, duplicado de licencia de transito, inscripcion de prenda,
-										Cambio de placas, rematricula, conversion de gasolina a gas, cambio de carroceria entre otros menos comunes y mas complicados.</p>
+										<h1>Trámites de tránsito</h1>
+										<p>Entre los trámites de tránsito que puede realizar son: cambio de color, cambio de motor, regrabar motor, regrabar chasis, transformación, duplicado de licencia de tránsito, inscripción de prenda,
+										Cambio de placas, rematrícula, conversión de gasolina a gas, cambio de carrocería entre otros menos comunes y más complicados.</p>
 								</div>
 								<div class="row">
 
 										<section class="contact-us caja_contact_in_tramite">
 												<div class="row">
-													
+
 													<div class="col-md-5">
 													<div class="contact-info" style=" height: 460px; margin-left: -46px;">
 														<h4>HIPERSERVICIOS COLOMBIA</h4>
@@ -155,13 +155,13 @@
 														<li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
 														<br>
 														<li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
-															<br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
+															<br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34, Cerca al SIM de SUBA</br>
 															</li>
 														<li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
-														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br> 
+														<br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br>
 														</li>
 															<li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
-															<br>Calle 60 No.2A - 59 Barrio La Floresta</br> 
+															<br>Calle 60 No.2A - 59 Barrio La Floresta</br>
 															</li>
 															<li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
 														</ul>
@@ -175,11 +175,11 @@
 														<input type="text" name="subject" placeholder="Tema">
 														<textarea name="message" placeholder="Inquietud"></textarea>
 														<button type="submit" class="submit">enviar</button>
-													</form> 
+													</form>
 													</div>
 															<!-- End form holder -->
 
-													
+
 												</div>
 												</div>
 											</section>
@@ -256,7 +256,7 @@
 			<!-- End Footer -->
 
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>
