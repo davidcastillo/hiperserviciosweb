@@ -52,7 +52,7 @@
 
       <!--========================Slider========================== -->
       <div class="top-slider visible-xs-*">
-              <h1>Quiere una asesoria en algun tramite de transito? Contactenos ahora!</h1>
+              <h1>¿Quiere una asesoría en algún trámite de tránsito? ¡Contáctenos ahora!</h1>
 
 				<div id="slider" class="owl-carousel">
 					<div class="item slider-pic">
