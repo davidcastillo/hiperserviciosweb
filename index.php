@@ -94,7 +94,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
-                    <h2>Quiere una asesoria en algun tramite de transito? Contactenos ahora!</h2>
+                    <h2>¿Quiere una asesoría en algún trámite de tránsito? ¡Contáctenos ahora!</h2>
                 </div>
 
                 <div class="col-md-3">
