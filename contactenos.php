@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Somos especialistas en realizar trámites ante tránsito, traspasos, levantamiento de prenda, traslado de cuenta, certificados de tradición, etc.">
     <meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
-    
+
 
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -61,13 +61,14 @@
         <div class="container">
           <div class="row">
             <div class="col-md-7">
-              <form action="includes/sendemail.php" class="contact-form">
+          <!--    <form action="includes/sendemail.php" class="contact-form">
                 <input type="text" name="name" placeholder="Su nombre">
                 <input type="email" name="email" placeholder="Su Email">
                   <input type="text" name="subject" placeholder="Tema">
                   <textarea name="message" placeholder="Inquietud"></textarea>
                   <button type="submit" class="submit">enviar</button>
-              </form> 
+              </form>-->
+              <iframe height='500px' width='100%' frameborder='0' allowTransparency='true' scrolling='auto' src='https://creator.zohopublic.com/davidcastillo1/contact-form/form-embed/Contactenos/amvzy3vjOCNJ4ET3rqSdK9pksRJ47WC8RyDhurRSfKheWHC1QeFZYkEUkuegadYDDQtEjWz3QE9R0w3VHnueDf9BWa169FXbenjN'></iframe>
             </div>
                     <!-- End form holder -->
 
@@ -82,10 +83,10 @@
                     <br>Ave suba No. 124 - 20 C.C Bahia 122 Local 100, Cerca al SIM de BOULEVAR</br>
                     </li>
                    <li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
-                   <br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br> 
+                   <br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br>
                    </li>
                     <li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
-                    <br>Calle 60 No.2A - 59 Barrio La Floresta</br> 
+                    <br>Calle 60 No.2A - 59 Barrio La Floresta</br>
                     </li>
                     <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
                 </ul>
@@ -102,7 +103,7 @@
 			<!-- End Footer -->
 
 
-			
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>
