@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
-
     <title>Traspasos y trámites en el tránsito de Medellín, Bogotá e Ibagué | Hiperservicios</title>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,7 +54,7 @@
 
 			<!--========================single-project========================== -->
 			<section class="single-project">
-        
+
 			<!--	<div class="container"> -->
 					<div class="row">
 						<div class="col-md-6">

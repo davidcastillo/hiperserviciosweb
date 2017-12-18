@@ -1,5 +1,5 @@
 <!--========================Header========================== -->
-      <header class="main-header ">  
+      <header class="main-header ">
         <!--<section class="mainmenu-area stricky stricky-fixed"> -->
           <div class="upper-header">
             <div class="container">
@@ -55,7 +55,7 @@
                       <ul class="nav navbar-nav">
                         <li class="drop"><a class="active" href="index.php">Inicio</a></li>
                         <li class="drop"><a href="nosotros.php">Nosotros</a></li>
-                        <li class="drop"><a href="#">Oficinas</a>
+                        <li class="drop"><a href="oficinas.php">Oficinas</a>
                           <ul class="dropdown">
                             <li><a href="bogota.php">Bogotá</a></li>
                             <li><a href="medellin.php">Medellín</a></li>
