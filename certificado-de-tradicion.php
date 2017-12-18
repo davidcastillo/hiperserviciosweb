@@ -103,21 +103,21 @@
 									</div>
 									<ul>
 										<li>
-											<a href="#" class="button-brochures">
+                      <a href="/images/formats/Formulario_de_traspaso.pdf" class="button-brochures" download>
 												<i class="icomoon-icon-file-pdf"></i>
 												Formulario de traspaso.pdf
 											</a>
 										</li>
 										<li>
-											<a href="#" class="button-brochures">
+                      <a href="/images/formats/contrato_mandato_poder_autorizacion.pdf" class="button-brochures" download>
 												<i class="icomoon-icon-file-pdf"></i>
 												Contrato de Mandato.pdf
 											</a>
 										</li>
 										<li>
-											<a href="#" class="button-brochures">
+                      <a href="/images/formats/contrato_compraventa_de_carro_y_moto.doc" class="button-brochures" download>
 												<i class="icomoon-icon-file-pdf"></i>
-												Contrato de compraventa.pdf
+												Contrato de compraventa.doc
 											</a>
 										</li>
 									</ul>
