@@ -169,7 +169,7 @@
 													</div>
 													</div>
 
-													<div class="col-md-7">
+													<div class="col-md-5">
 													<iframe height='500px' width='100%' frameborder='0' allowTransparency='true' scrolling='auto' src='https://creator.zohopublic.com/davidcastillo1/contact-form/form-embed/Contactenos/amvzy3vjOCNJ4ET3rqSdK9pksRJ47WC8RyDhurRSfKheWHC1QeFZYkEUkuegadYDDQtEjWz3QE9R0w3VHnueDf9BWa169FXbenjN'></iframe>
 													</div>
 															<!-- End form holder -->

@@ -1747,7 +1747,7 @@ footer .footer-btm .copyright a {
 
 .page-heading,
 .d-toppagefixed{
-    margin-top: 180px;
+    margin-top: 15px;
 
 }
 
@@ -1795,11 +1795,11 @@ footer .footer-btm .copyright a {
         margin-left: 20px;
     }
     .quote-intro{
-        margin-top: 265px;
+        margin-top: 0px;
     }
     .top-slider {
         display: none;
-    }    
+    }
 
 
      .get-btn{

@@ -56,6 +56,7 @@
 
 			<!--========================single-project========================== -->
 			<section class="single-project">
+        
 			<!--	<div class="container"> -->
 					<div class="row">
 						<div class="col-md-6">
@@ -89,7 +90,7 @@
 									<li>::   Etiam sit amet sem a lorem porta tempor</li>
 									<li>::   Vivamus bibendum diam ornare nunc</li>
 								</ul>-->
-								
+
                 <h3>
 								 Muchas gracias por contactarnos, pronto uno de nuestros asesores se pondra en contacto con Ud
                </h3>

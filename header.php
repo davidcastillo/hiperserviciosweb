@@ -1,5 +1,5 @@
 <!--========================Header========================== -->
-      <header class="main-header navbar-fixed-top">  
+      <header class="main-header ">  
         <!--<section class="mainmenu-area stricky stricky-fixed"> -->
           <div class="upper-header">
             <div class="container">
@@ -21,12 +21,12 @@
                       Nuestras Oficinas
                       <span>
                         <a class="subrayar_texto" href="bogota.php">Bogotá </a> -
-                        <a class="subrayar_texto" href="medellin.php">Medellín </a> - 
-                        <a class="subrayar_texto" href="ibague.php">Ibagué</a> 
+                        <a class="subrayar_texto" href="medellin.php">Medellín </a> -
+                        <a class="subrayar_texto" href="ibague.php">Ibagué</a>
                       </span>
                     </div>
                   </li>
-                  <!-- 
+                  <!--
                   <li>
                     <i class="icomoon-icon-clock"></i>
                     <div class="h-text">
@@ -83,5 +83,5 @@
             </div>
        <!-- </section> -->
        </header>
-      
+
       <!-- End Header -->
