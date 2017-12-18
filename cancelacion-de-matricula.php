@@ -169,13 +169,7 @@ matrícula<!DOCTYPE html>
 													</div>
 
 													<div class="col-md-7">
-													<form action="includes/sendemail.php" class="contact-form">
-														<input type="text" name="name" placeholder="Su nombre">
-														<input type="email" name="email" placeholder="Su Email">
-														<input type="text" name="subject" placeholder="Tema">
-														<textarea name="message" placeholder="Inquietud"></textarea>
-														<button type="submit" class="submit">enviar</button>
-													</form>
+													<iframe height='500px' width='100%' frameborder='0' allowTransparency='true' scrolling='auto' src='https://creator.zohopublic.com/davidcastillo1/contact-form/form-embed/Contactenos/amvzy3vjOCNJ4ET3rqSdK9pksRJ47WC8RyDhurRSfKheWHC1QeFZYkEUkuegadYDDQtEjWz3QE9R0w3VHnueDf9BWa169FXbenjN'></iframe>
 													</div>
 															<!-- End form holder -->
 
