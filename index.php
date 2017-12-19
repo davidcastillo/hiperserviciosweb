@@ -197,7 +197,7 @@
           </div>
         </div>
       </section>
-      <!-- Why choose us -->
+      <! Why choose us -->
 
       <!--========================Projects==========================
       <section class="recent-projects">
@@ -310,7 +310,7 @@
           </div>
         </div>
       </section>
-      <!-- End Projects -->
+      < End Projects -->
 
       <!--========================fun-facts========================== -->
       <section class="fun-facts">
@@ -403,7 +403,7 @@
           </div>
         </div>
        </section>
-      <!-- End news section -->
+      <! End news section -->
 
       <!--========================about-us-img========================= -->
       <section class="about-us-img">
@@ -478,7 +478,7 @@
           </div>
         </div>
       </section>
-      <!-- End team -->
+      <! End team -->
 
 
 

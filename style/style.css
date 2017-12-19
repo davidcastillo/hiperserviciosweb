@@ -158,7 +158,7 @@ h6 {
     color: #ffffff;
     display: inline-block;
     padding: 11px 20px;
-    background-color: red;
+    background-color: limegreen;
     border-radius: 3px;
     letter-spacing: 0.5px;
     transition: all 0.3s ease;
@@ -377,7 +377,7 @@ h6 {
     top: 0px;
     width: 200px;
     height: 100%;
-    background: red;
+    background: limegreen;
 }
 
 .main-header .get-btn:hover {
