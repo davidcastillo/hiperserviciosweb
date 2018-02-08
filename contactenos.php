@@ -72,12 +72,12 @@
                 <p>Asesorías ante tránsito a nivel nacional</P> </h1>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
-                <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82 - 266 75 55</br></li>
+                <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a><br>(8) 266 74 82</br></li>
                   <li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
-                    <br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34, Cerca al SIM de SUBA</br>
+                    <br>Cra 101 No. 147 - 21 C.C Fiesta Suba cerca al SIM de SUBA Local 34</br>
                     </li>
                    <li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
-                   <br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro</br>
+                   <br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 243</br>
                    </li>
                     <li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
                     <br>Calle 60 No.2A - 59 Barrio La Floresta</br>

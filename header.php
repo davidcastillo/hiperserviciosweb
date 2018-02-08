@@ -5,14 +5,17 @@
             <div class="container">
               <div class="row">
                 <div class="logo">
-                    <a href="/"><img src="images/logo.png" alt="Empresa de tramites de transito"></a>
+                    <a href="/"><img itemprop="image" src="images/logo.png" alt="Empresa de tramites de transito"></a>
                 </div>
                 <ul class="header-info">
                   <li class="group">
                     <i class="icomoon-icon-phone"></i>
                     <div class="h-text">
                       Llámanos
-                      <span><a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a> - <a class="subrayar_texto" href="tel:+573174823841">317 482 38 41</a></span>
+                      <span>
+                        <a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a> -
+                        <a class="subrayar_texto" href="tel:+573174823841">317 482 38 41</a>
+                      </span>
                     </div>
                   </li>
                   <li class="group">

@@ -84,8 +84,8 @@
                 <p>Nuestra oficina está para realizar sus tramites en el tránsito de Bogotá y municipios aledaños</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondrá en contacto con Ud</p>
                 <ul>
-                  <li><i class="icon-map-marker"></i>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34, Cerca al SIM de SUBA</li>
-                  <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a></li>
+                  <li><i class="icon-map-marker"></i>Cra 101 No. 147 - 21 C.C Fiesta Suba contiguo al SIM de SUBA  - Local 34</li>
+                  <li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573226735539">322 673 55 39</a><span> - </span><a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a></li>
                   <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
                   <li><i class="icomoon-icon-clock"></i>Lunes - Sábado : 08:00am - 6:00pm</li>
                 </ul>

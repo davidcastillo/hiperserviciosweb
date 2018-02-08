@@ -31,24 +31,37 @@
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div class="footer-widget">
+								<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="footer-widget">
 									<div class="widget-title">
-										<h4>Navegación</h4>
+										<h4>DONDE ESTAMOS</h4>
 									</div>
-									<ul class="footer-nav">
-										<li><a href="index.php">Inicio</a></li>
-										<li><a href="nosotros.php">Nosotros</a></li>
-										<li><a href="oficinas.php">Oficinas</a></li>
-										<li><a href="traspaso.php">Servicios</a></li>
-										<li><a href="blog.php">Blog</a></li>
-										<li><a href="contactenos.php">Contáctenos</a></li>
+									<ul class="lasts-posts">
+										<li>
+												<ul>
+													<div style="color:white">TELEFONOS</div>
+													<span itemprop="telephone">3152292379</span> - <span itemprop="telephone">3174823841</span>
+												</ul>
+												<br>
+												<ul>
+													<div itemprop="addressLocality" style="color:white">BOGOTÁ</div>
+													<span itemprop="streetAddress">Cra 101 No. 147 - 21 C.C Fiesta Suba contiguo al SIM de SUBA - Local 34</span>
+												</ul>
+												<ul>
+													<div itemprop="addressLocality" style="color:white">MEDELLÍN</div>
+													<span itemprop="streetAddress">Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Oficina 243</span>
+												</ul>
+												<ul>
+													<div  itemprop="addressLocality"style="color:white">IBAGUÉ</div>
+													<span itemprop="streetAddress">Calle 60 No.2A - 59 Barrio La Floresta</span>
+												</ul>
+										</li>
 									</ul>
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6 col-xs-12">
 								<div class="footer-widget">
 									<div class="widget-title">
-										<h4>tags</h4>
+										<h4>SITIOS DE INTERES</h4>
 									</div>
 									<div class="tagcloud">
 										<ul>

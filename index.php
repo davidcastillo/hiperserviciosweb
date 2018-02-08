@@ -41,17 +41,108 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Container -->
-    <div class="site-container">
+    <div itemscope itemtype="http://schema.org/LocalBusiness" class="site-container">
      <!--========================Header========================== -->
 
-     <?php include 'header.php'; ?>
+     <!--========================Header========================== -->
+           <header class="main-header ">
+             <!--<section class="mainmenu-area stricky stricky-fixed"> -->
+               <div class="upper-header">
+                 <div class="container">
+                   <div class="row">
+                     <div class="logo">
+                         <a href="/"><img itemprop="image" src="http://www.asesoriasantetransito.com/images/logo.png" alt="Empresa de tramites de transito"></a>
+                     </div>
+                     <ul class="header-info">
+                       <li class="group">
+                         <i class="icomoon-icon-phone"></i>
+                         <div class="h-text">
+                           Llámanos
+                           <span>
+                             <a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a> -
+                             <a class="subrayar_texto" href="tel:+573174823841">317 482 38 41</a>
+                           </span>
+                         </div>
+                       </li>
+                       <li class="group">
+                         <i class="icomoon-icon-location"></i>
+                         <div class="h-text">
+                           Nuestras Oficinas
+                           <span>
+                             <a class="subrayar_texto" href="bogota.php">Bogotá </a> -
+                             <a class="subrayar_texto" href="medellin.php">Medellín </a> -
+                             <a class="subrayar_texto" href="ibague.php">Ibagué</a>
+                           </span>
+                         </div>
+                       </li>
+                       <!--
+                       <li>
+                         <i class="icomoon-icon-clock"></i>
+                         <div class="h-text">
+                           Working Hours
+                           <span>Mon - Sat, 10AM to 6PM</span>
+                         </div>
+                       </li>
+                       -->
+                     </ul>
+                   </div>
+                 </div>
+               </div>
+                 <div class="header-menu navbar-fixed-top">
+                   <div class="container">
+                     <div class="nav-outer">
+                       <nav class="navbar navbar-default" role="navigation">
+                         <div class="navbar-header">
+                           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                             <span class="sr-only">Toggle navigation</span>
+                             <span class="icon-bar"></span>
+                             <span class="icon-bar"></span>
+                             <span class="icon-bar"></span>
+                           </button>
+                         </div>
+                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                           <ul class="nav navbar-nav">
+                             <li class="drop"><a class="active" href="index.php">Inicio</a></li>
+                             <li class="drop"><a href="nosotros.php">Nosotros</a></li>
+                             <li class="drop"><a href="oficinas.php">Oficinas</a>
+                               <ul class="dropdown">
+                                 <li><a href="bogota.php">Bogotá</a></li>
+                                 <li><a href="medellin.php">Medellín</a></li>
+                                 <li><a href="ibague.php">Ibagué</a></li>
+                               </ul>
+                             </li>
+                             <li class="drop"><a href="traspaso.php">Servicios</a>
+                               <ul class="dropdown">
+                                 <li><a href="traspaso.php">Traspaso de vehiculo</a></li>
+                                 <li><a href="levantamiento-de-prenda.php">Levantamiento de prenda</a></li>
+                                 <li><a href="traslado-de-cuenta.php">Traslado de cuenta</a></li>
+                                 <li><a href="cancelacion-de-matricula.php">Cancelacion de matricula</a></li>
+                                 <li><a href="certificado-de-tradicion.php">Certificados de tradición</a></li>
+                                 <li><a href="otros.php">Otros</a></li>
+                               </ul>
+                             </li>
+                             <li class="drop"><a href="blog.php">Blog</a></li>
+                             <li><a href="contactenos.php">Contáctenos</a></li>
+                           </ul>
+                         </div>
+                       </nav>
+                       <div class="get-btn"><a href="contactenos.php" class="theme-btn appt-btn">Solicitar una asesoría</a></div>
+                     </div>
+                   </div>
+                 </div>
+            <!-- </section> -->
+            </header>
+
+           <!-- End Header -->
+
+
 
 
     <!-- End Header -->
 
       <!--========================Slider========================== -->
       <div class="top-slider visible-xs-*">
-          <h1 style="text-align:center; margin: 0px 0px 0px 0px; background-color: #a5d4ce;">Asesorías en trámites de tránsito a nivel a Nacional</h1>
+          <h1 itemprop="name" style="text-align:center; margin: 0px 0px 0px 0px; background-color: #a5d4ce;">Asesorías en trámites de tránsito a nivel a Nacional</h1>
         <div id="slider" class="owl-carousel">
 					<div class="item slider-pic">
 						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" title="Hacer un traspaso" />
@@ -320,7 +411,7 @@
                     <div class="fact-icon">
                       <i class="icomoon-icon-trophy"></i>
                     </div>
-                     <h2 class="timer" data-from="5375" data-to="5386" data-speed="5000" data-refresh-interval="50">12</h2>
+                     <h2 class="timer" data-from="21375" data-to="25876" data-speed="5000" data-refresh-interval="50">12</h2>
                     <span class="count-number-dsc">trámites realizados</span>
                   </div>
                   <div class="col-md-3 col-sm-6 col-xs-12">
@@ -334,7 +425,7 @@
                     <div class="fact-icon">
                       <i class="icomoon-icon-briefcase"></i>
                     </div>
-                     <h2 class="timer"  data-from="1" data-to="11" data-speed="5000" data-refresh-interval="50">40</h2><!--End Number-->
+                     <h2 class="timer"  data-from="1" data-to="12" data-speed="5000" data-refresh-interval="50">40</h2><!--End Number-->
                     <span class="count-number-dsc">Años en el mercado</span>
                   </div>
                   <div class="col-md-3 col-sm-6 col-xs-12">
@@ -483,7 +574,119 @@
 
 
       <!--========================Footer========================== -->
-			     <?php include 'footer.php'; ?>
+      <!--========================Footer========================== -->
+           <footer>
+             <div class="main-footer">
+               <div class="container">
+                 <div class="row">
+                   <div class="col-md-3 col-sm-6 col-xs-12">
+                     <div class="footer-widget">
+
+                     <div class="widget-title">
+                           <h4>Nuestras redes sociales</h4>
+                       </div>
+
+                     <div class="col-md-1">
+                       <div>
+                         <ul class="social-icons">
+                         <li>
+                           <a target="_blank" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9" class="enotype-icon-googleplus" title="googleplus"></a>
+                           <a class="lasts-posts" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9"> Google + </a>
+                         </li>
+                         <li>
+                           <a target="_blank" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9" class="enotype-icon-facebook" title="facebook"></a>
+                           <a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Facebook </a>
+                         </li>
+                         <li>
+                           <a href="#" class="enotype-icon-twitter" title="twitter"></a>
+                           <a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Twitter </a>
+                         </li>
+                         </ul>
+                       </div>
+                     </div>
+                     </div>
+                   </div>
+                   <div class="col-md-3 col-sm-6 col-xs-12">
+                     <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="footer-widget">
+                       <div class="widget-title">
+                         <h4>DONDE ESTAMOS</h4>
+                       </div>
+                       <ul class="lasts-posts">
+                         <li>
+                             <ul>
+                               <div style="color:white">TELEFONOS</div>
+                               <span itemprop="telephone">3152292379</span> - <span itemprop="telephone">3174823841</span>
+                             </ul>
+                             <br>
+                             <ul>
+                               <div itemprop="addressLocality" style="color:white">BOGOTÁ</div>
+                               <span itemprop="streetAddress">Cra 101 No. 147 - 21 C.C Fiesta Suba contiguo al SIM de SUBA - Local 34</span>
+                             </ul>
+                             <ul>
+                               <div itemprop="addressLocality" style="color:white">MEDELLÍN</div>
+                               <span itemprop="streetAddress">Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Oficina 243</span>
+                             </ul>
+                             <ul>
+                               <div  itemprop="addressLocality"style="color:white">IBAGUÉ</div>
+                               <span itemprop="streetAddress">Calle 60 No.2A - 59 Barrio La Floresta</span>
+                             </ul>
+                         </li>
+                       </ul>
+                     </div>
+                   </div>
+                   <div class="col-md-3 col-sm-6 col-xs-12">
+                     <div class="footer-widget">
+                       <div class="widget-title">
+                         <h4>SITIOS DE INTERES</h4>
+                       </div>
+                       <div class="tagcloud">
+                         <ul>
+                           <li>
+                             <a href="http://recursosweb.shd.gov.co/ConsultaPagos/ConsultaPagos.html">impuestos de Bogotá</a>
+                           </li>
+                           <li>
+                             <a href="http://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">impuestos de Tolima</a>
+                           </li>
+                           <li>
+                             <a href="http://vehiculosantioquia.com/impuestosWeb/index.jsp">impuestos de Antioquia</a>
+                           </li>
+                           <li>
+                             <a href="https://www.runt.com.co/portel/libreria/php/01.030518.html">Runt</a>
+                           </li>
+                           <li>
+                             <a href="https://consulta.simit.org.co/Simit/verificar/contenido_verificar_pago_linea.jsp">Simit</a>
+                           </li>
+                         </ul>
+                       </div>
+                     </div>
+                   </div>
+                   <div class="col-md-3 col-sm-6 col-xs-12">
+                     <div class="footer-widget">
+                     <div class="widget-title">
+                         <h4>Del blog</h4>
+                     </div>
+                     <ul class="lasts-posts">
+                       <li><a href="blog.php">Visite nuestro blog</a></li>
+                       <li><a href="recomendacion-traspaso.php">Porque es importante legalizar el traspaso</a></li>
+                     </ul>
+                   </div>
+                   </div>
+                 </div>
+               </div>
+             </div>
+             <div class="footer-btm">
+               <div class="container">
+                 <div class="row">
+                   <span class="copyright">© Copyright 2017 <a href="#" title="ConsultMe Template" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank">David Castillo</a>
+                   </span>
+                 </div>
+               </div>
+             </div>
+           </footer>
+           <!-- End Footer -->
+
+
+
 			<!-- End Footer -->
 
 
