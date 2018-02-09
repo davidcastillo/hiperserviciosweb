@@ -27,7 +27,7 @@
 /*-------------------------------------------------*/
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     color: #777777;
     font-weight: 400;
     background: #ffffff;
@@ -35,6 +35,7 @@ body {
     background-repeat: no-repeat;
     background-position: center top;
     -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
 }
 .site-container{
   position: relative;
@@ -152,7 +153,7 @@ h6 {
 
 .accent-btn a, .contact-form button, .comment-form button {
     font-family: 'Montserrat', sans-serif;
-    font-size: 12px;
+    font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
     color: #ffffff;
@@ -250,7 +251,7 @@ h6 {
 .header-info li .h-text {
     font-weight: 400;
     color: #30344d;
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Open Sans', sans-serif;
     float: left;
     padding-left: 18px;
@@ -262,7 +263,7 @@ h6 {
     font-family: 'Montserrat', sans-serif;
     display: block;
     text-transform: none;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 24px;
     letter-spacing: 0;
 }
@@ -305,7 +306,7 @@ h6 {
 }
 .navbar-nav > li > a {
   color: #FFFFFF !important;
-  font-size: 14px;
+  font-size: 16px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   text-transform: uppercase;
@@ -355,7 +356,7 @@ h6 {
   -o-transition: all 0.2s ease-in-out;
   display: block;
   color: #333333;
-  font-size: 15px;
+  font-size: 16px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   text-transform: capitalize;
@@ -397,7 +398,7 @@ h6 {
     padding: 18px 5px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
-    font-size: 13px;
+    font-size: 16px;
     color: #ffffff;
     text-transform: uppercase;
 }
@@ -655,7 +656,7 @@ h2.timer {
 span.count-number-dsc {
 	color: #FFFFFF;
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 2;
     margin-top: 15px;
     text-transform: uppercase;
@@ -720,7 +721,7 @@ span.count-number-dsc {
 	  text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     color: #222222;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 700;
     margin-top: 15px;
 }
@@ -1598,7 +1599,7 @@ section.testimonials {
     display: inline-block;
     color: #777;
     border: 1px solid #888;
-    font-size: 12px;
+    font-size: 16px;
     text-transform: uppercase;
     text-align: center;
     padding: 10px 12px;
