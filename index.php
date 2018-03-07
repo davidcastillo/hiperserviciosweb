@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
-    <title>Tramitadores Profesionales de trámites en tránsito | Hiperservicios.</title>
+    <title>Tramitadores Profesionales de trámites en tránsito | Hiperservicios Colombia.</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Somos especialistas en realizar trámites ante tránsito, traspasos, levantamiento de prenda, traslado de cuenta, certificados de tradición, etc.">
+    <meta name="description" content="Somos TRAMITADORES PROFESIONALES en realizar TRÁMITES ANTE TRÁNSITO A NIVEL NACIONAL, Contamos con oficina en BOGOTÁ, MEDELLÍN e IBAGUÉ. SOLICITE LA COTIZACIÓN DE SU TRAMITE AHORA MISMO">
     <meta name="keywords" content="traspaso, trámite, tránsito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin, bogota, medellin, ibague, levantamiento de prenda, traslado de cuenta, servicios" />
     <meta name="robots" content="follow, index" />
 
