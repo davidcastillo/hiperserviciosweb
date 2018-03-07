@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
   <head>
-    <title>Traspaso de vehículos y demás trámites en tránsito | Hiperservicios.</title>
+    <title>Tramitadores Profesionales de trámites en tránsito | Hiperservicios.</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -142,7 +142,7 @@
 
       <!--========================Slider========================== -->
       <div class="top-slider visible-xs-*">
-          <h1 itemprop="name" style="text-align:center; margin: 0px 0px 0px 0px; background-color: #a5d4ce;">Asesorías en trámites de tránsito a nivel a Nacional</h1>
+          <h1 itemprop="name" style="text-align:center; margin: 0px 0px 0px 0px; background-color: #a5d4ce;">Tramitadores Profesionales de tránsito a nivel a Nacional</h1>
         <div id="slider" class="owl-carousel">
 					<div class="item slider-pic">
 						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" title="Hacer un traspaso" />
@@ -183,7 +183,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-9">
-                    <h2>¿Quiere una asesoría en algún trámite de tránsito?<p>¡Contáctenos ahora!</h2>
+                    <h3>¿Quiere una asesoría con uno de nuestros Tramitadores Profesionales?<p>¡Contáctenos ahora!</h3>
                 </div>
 
                 <div class="col-md-3">
@@ -500,7 +500,7 @@
       <section class="about-us-img">
         <div class="container">
           <div class="row">
-            <h2>Somos especialistas en <br>trámites ante tránsito</h2>
+            <h2>Somos especialistas<br>tramitadores ante tránsito</h2>
             <div class="accent-btn">
 								<a href="contactenos.php">Solicitar una asesoría</a>
 						</div>

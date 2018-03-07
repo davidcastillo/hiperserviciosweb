@@ -51,7 +51,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h1 class="stripe">OTROS TRÁMITES DE TRÁNSITO</h1>
+          <h1 class="stripe">TRAMITADORES PROFESIONALES DE OTROS TRÁMITES DE TRÁNSITO</h1>
         </div>
       </div>
       <!-- Page heading -->

@@ -50,7 +50,7 @@ matrícula<!DOCTYPE html>
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h1 class="stripe">CANCELACIÓN DE MATRÍCULA</h1>
+          <h1 class="stripe">TRAMITADORES PROFESIONALES DE CANCELACIÓN DE MATRÍCULA</h1>
         </div>
       </div>
       <!-- Page heading -->

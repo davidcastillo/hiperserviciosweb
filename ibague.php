@@ -71,7 +71,7 @@
             <!-- End form holder -->
             <div class="col-md-4">
               <div class="contact-info">
-                <h1>TRAMITES EN EL TRÁNSITO DE IBAGUÉ | HIPERSERVICIOS</h1>
+                <h1>TRAMITADORES PROFESIONALES EN EL TRÁNSITO DE IBAGUÉ | HIPERSERVICIOS</h1>
                 <p>Nuestra oficina está para realizar sus tramites en el tránsito de Ibagué y municipios aledaños del Tolima</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondrá en contacto con Ud</p>
                 <ul>

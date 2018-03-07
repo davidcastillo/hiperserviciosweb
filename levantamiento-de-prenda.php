@@ -50,7 +50,7 @@
       <!--========================Page heading========================== -->
       <div class="page-heading">
         <div class="container">
-          <h1 class="stripe">LEVANTAMIENTO DE PRENDA</h1>
+          <h1 class="stripe">TRAMITADORES PROFESIONALES DE LEVANTAMIENTO DE PRENDA</h1>
         </div>
       </div>
       <!-- Page heading -->

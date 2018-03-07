@@ -90,7 +90,7 @@
 									<li>::   Vivamus bibendum diam ornare nunc</li>
 								</ul>-->
 								<h1>HIPERSERVICIOS COLOMBIA
-                <p>Asesorías ante tránsito a nivel nacional</P> </h1>
+                <p>Tramitadores Profesionales ante tránsito a nivel nacional</P> </h1>
 								<p>Somos una empresa Ibaguereña, fundada en el año 2004, que se ha sostenido en el mercado gracias a su responsabilidad, seriedad  y cumplimiento en la gestión documental de trámites ante todos los organismos de tránsito del país.
 </p>
 								<p>Somos especialistas en realizar trámites ante tránsito, realizamos traspasos, levantamiento de prenda, traslados de cuenta, licencias de tránsito.</p>
