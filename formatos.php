@@ -60,7 +60,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="project-pics">
-							<img src='images/team/tramitadores.jpg' alt='tramitadores de tránsito' title="Somos un equipo de 10 personas listas para hacer su trámite ante tránsito">
+							<img src='images/others/hacer_un_traspaso_hiperservicios.jpg' alt='tramitadores de tránsito' title="Somos un equipo de 10 personas listas para hacer su trámite ante tránsito">
 						</a>
 						<!--	<a href="images/projects/single5.jpg" class="prettyPhoto">
 							<img src='images/projects/single2.jpg' alt='img'>
@@ -71,30 +71,32 @@
 							</div>
 						</div>
 						<div class="col-md-6">
-						<!-- <div class="project-info">
-							 <h4>Brief Description</h4>
-								<p>
-								<strong>Client</strong>:&nbsp;&nbsp; Awesome Company<br>
-								<strong>Location</strong>:&nbsp;&nbsp; Mountain View CA 94043<br>
-								<strong>Categories</strong>:&nbsp;&nbsp; Investment, Trading<br>
-								<strong>Year Completed</strong>:&nbsp;&nbsp; 2014<br>
-								<strong>Value</strong>:&nbsp;&nbsp; $250.000<br>
-								<strong>Agent</strong>:&nbsp;&nbsp; Jason &amp; Perry
-								</p>
-								<p>Paetos dignissim at cursus elefeind norma arcu. Pellentesque accumsan est in tempus etos ullamcorper, sem quam suscipit lacus maecenas tortor. Erates vitae node metus. Suspendisse gravida ornare non mattis velit rutrum modest. Morbi suspendisse a tortor velim pellentesque uter justo magna gravida.</p>
-								<ul>
-									<li>::   Lorem ipsum dolor sit amet consectetur</li>
-									<li>::   Cras id ipsum ultricies pretium tortor</li>
-									<li>::   Donec ut risus mattis dignissim</li>
-									<li>::   Etiam sit amet sem a lorem porta tempor</li>
-									<li>::   Vivamus bibendum diam ornare nunc</li>
-								</ul>-->
-								<h1>HIPERSERVICIOS COLOMBIA
-                <p>Tramitadores Profesionales ante tránsito a nivel nacional</P> </h1>
-								<p>Somos una empresa Ibaguereña, fundada en el año 2004, que se ha sostenido en el mercado gracias a su responsabilidad, seriedad  y cumplimiento en la gestión documental de trámites ante todos los organismos de tránsito del país.
-</p>
-								<p>Somos especialistas en realizar trámites ante tránsito, realizamos traspasos, levantamiento de prenda, traslados de cuenta, licencias de tránsito.</p>
-                <p>Nuestra misión es ahorrarle tiempo y dinero a nuestros clientes haciendo sus trámites ante tránsito agiles y seguros.</p>
+              <div class="widget widget-brochures">
+                <div class="widget-title">
+                  <h4 class="stripe">Formatos esenciales</h4>
+                </div>
+                <ul>
+                  <li>
+                    <a href="/images/formats/Formulario_de_traspaso.pdf" class="button-brochures" download>
+                      <i class="icomoon-icon-file-pdf"></i>
+                      Formulario de traspaso.pdf
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/images/formats/contrato_mandato_poder_autorizacion.pdf" class="button-brochures" download>
+                      <i class="icomoon-icon-file-pdf"></i>
+                      Contrato de Mandato.pdf
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/images/formats/contrato_compraventa_de_carro_y_moto.doc" class="button-brochures" download>
+                      <i class="icomoon-icon-file-pdf"></i>
+                      Contrato de compraventa.doc
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
 							</div>
 						</div>
 					</div>

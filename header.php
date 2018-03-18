@@ -75,6 +75,7 @@
                             <li><a href="otros.php">Otros</a></li>
                           </ul>
                         </li>
+                        <li class="drop"><a href="formatos.php">Formularios</a></li>
                         <li class="drop"><a href="blog.php">Blog</a></li>
                         <li><a href="contactenos.php">Contáctenos</a></li>
                       </ul>

@@ -63,7 +63,7 @@
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2364.233136398655!2d-74.09302774347582!3d4.743919669607887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f84f6585f3987%3A0x7c83b0f50ed44598!2sCentro+Comercial+Fiesta+Suba!5e0!3m2!1sen!2sco!4v1510205606248"></iframe>
         </div>
         <div class="col-md-6" >
-          <img src="images/offices/traspasos-bogota.jpg" width="100%" height="400" frameborder="0"
+          <img src="images/offices/tramitador_bogota.png" width="70%" height="400" frameborder="0"
           marginheight="0" marginwidth="0" alt="Oficina de tramites de tránsito en Bogota" title="Oficina de Tramites en Bogota">
           </div>
       </div>
@@ -80,11 +80,11 @@
               <!-- End form holder -->
             <div class="col-md-4">
               <div class="contact-info">
-                <h1>TRAMITADORES PROFESIONALES EL TRÁNSITO DE BOGOTÁ | HIPERSERVICIOS</h1>
+                <h1>TRAMITADORES PROFESIONALES EN EL TRÁNSITO DE BOGOTÁ | HIPERSERVICIOS</h1>
                 <p>Nuestra oficina está para realizar sus tramites en el tránsito de Bogotá y municipios aledaños</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondrá en contacto con Ud</p>
                 <ul>
-                  <li><i class="icon-map-marker"></i>Cra 101 No. 147 - 21 C.C Fiesta Suba contiguo al SIM de SUBA  - Local 34</li>
+                  <li><i class="icon-map-marker"></i>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34 - Contiguo al SIM de SUBA</li>
                   <li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573226735539">322 673 55 39</a><span> - </span><a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a></li>
                   <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
                   <li><i class="icomoon-icon-clock"></i>Lunes - Sábado : 08:00am - 6:00pm</li>

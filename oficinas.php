@@ -61,20 +61,20 @@
           <div class="row">
             <div class="col-md-4">
               <div class="service-item">
-                <img src="images/offices/traspasos-bogota.jpg" alt="Oficina de tramites de transito en Bogota" title="Oficina de tramites de transito en Bogota y Cundinamarca">
+                <img src="images/offices/tramitador_bogota.png" alt="Oficina de tramites de transito en Bogota" title="Oficina de tramites de transito en Bogota y Cundinamarca">
                 <div class="service-info">
                   <h3>HIPERSERVICIOS BOGOTÁ</h2>
-                  <p>Tenemos la capacidad de realizar sus tramites en el transito de Bogotá y  los municipios de Cundinamarca</p>
+                  <p align="justify">Ponemos a servicio nuestra oficina de Bogotá para que radique sus tramites tanto a nivel local como nacional.</p>
                   <a href="bogota.php" class="">Leer mas</a>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
             <div class="service-item">
-                <img src="images/offices/traspasos-medellin.jpg" alt="Oficina de tramites de transito en Medellin" title="Oficina de tramites de transito en Medellin y Antioquia">
+                <img src="images/offices/tramitador_medellin.png" alt="Oficina de tramites de transito en Medellin" title="Oficina de tramites de transito en Medellin y Antioquia">
                 <div class="service-info">
                   <h3>HIPERSERVICIOS MEDELLÍN</h3>
-                  <p>Con nuestra oficina, podemos realizar sus tramites en el transito de Medellín y los municipios de Antioquia</p>
+                  <p align="justify">Con nuestra oficina en Medellín podemos realizar sus tramites del area metropolitana y las oficinas de tránsito de todo el territorio colombiano</p>
                   <a href="medellin.php" class="">Leer mas</a>
                 </div>
               </div>
@@ -84,7 +84,7 @@
                 <img src="images/offices/traspasos-ibague.jpg" alt="Oficina de tramites de transito en Ibague" title="Oficina de tramites de transito en Ibague y Tolima">
                 <div class="service-info">
                   <h3>HIPERSERVICIOS IBAGUÉ</h3>
-                  <p>Nuestra oficina principal realiza tramites en el transito de Ibagué y municipios del Tolima</p>
+                  <p align="justify">Ofrecemos nuestra oficina en Ibagué, como punto estrategico para manejar los tramites del Tolima grande y todo el país.</p>
                   <a href="ibague.php" class="">Leer mas</a>
                 </div>
               </div>
@@ -146,7 +146,7 @@
 			     <?php include 'footer.php'; ?>
 			<!-- End Footer -->
 
-      
+
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

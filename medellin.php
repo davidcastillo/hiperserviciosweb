@@ -53,7 +53,7 @@
            <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Medell%C3%ADn%20-%20Antioquia%2C%20Colombia%20Cra%2043A%20No.%2019A-87&key=AIzaSyCSReJGZUOr2tMtNPaWciyRuWrZU8pqVRg" allowfullscreen></iframe>
         </div>
         <div class="col-md-6" >
-          <img src="images/offices/traspasos-medellin.jpg" width="100%" height="400" frameborder="0"
+          <img src="images/offices/tramitador_medellin.png" width="100%" height="400" frameborder="0"
           marginheight="0" marginwidth="0"  alt="Oficina de tramites de tránsito en Medellin" title="Oficina de tramites en Medellin"/>
           </div>
       </div>
@@ -73,7 +73,7 @@
                 <p>Nuestra oficina está para realizar sus tramites en el tránsito de Medellín y municipios aledaños de Antioquia</p>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondrá en contacto con Ud</p>
                 <ul>
-                  <li><i class="icon-map-marker"></i>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Oficina 243</li>
+                  <li><i class="icon-map-marker"></i>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 100</li>
                   <li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573226444272">322 644 42 72</a><span> - </span><a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a></li>
                   <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
                   <li><i class="icomoon-icon-clock"></i>Lunes - Sábado : 08:00am - 6:00pm</li>

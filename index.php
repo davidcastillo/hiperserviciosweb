@@ -121,6 +121,7 @@
                                  <li><a href="otros.php">Otros</a></li>
                                </ul>
                              </li>
+                             <li class="drop"><a href="formatos.php">Formularios</a></li>
                              <li class="drop"><a href="blog.php">Blog</a></li>
                              <li><a href="contactenos.php">Contáctenos</a></li>
                            </ul>
@@ -148,7 +149,7 @@
 						<img src="images/sliders/vender_mi_carro.jpg" alt="vender un carro haciendo un trapaso en hiperservicios colombia" title="Hacer un traspaso" />
 						<div class="slider-content-box">
 							<h2 class="stripe">Legalice su traspaso</h2>
-							<p>Cuando venda su vehículo es muy importante que legalice su traspaso para evitar multas, impuestos y otros inconvenientes que le puede traer tener un vehículo que ya vendió a su nombre.</p>
+							<p>Cuando compre o venda su vehículo, asegurece de legalizar el tramite ante la secretaria de tránsito. Esto le evitará dolores de cabeza como fotomultas, pago de impuestos, embargos, etc.</p>
 							<div class="accent-btn">
 								<a href="traspaso.php">Leer más</a>
 							</div>
@@ -158,7 +159,7 @@
 						<img src="images/sliders/1_cerrar_el_traspaso.jpg" alt="cerrar la venta del carro legalizando el traspaso es una buena practica" title="Legalizar la venta de mi carro"/>
 						<div class="slider-content-box">
 							<h2 class="stripe">Compre su vehículo tranquilo</h2>
-							<p>Cuando compre su vehículo es muy importante que revise el estado de los documentos del vehículo que está comprando.</p>
+							<p>Cuando compre su vehículo asegurece de revisar, comparendos, impuestos, y embargos antes de realizar cualquier inversión.</p>
 							<div class="accent-btn">
 								<a href="certificado-de-tradicion.php">Leer más</a>
 							</div>
@@ -168,7 +169,7 @@
 						<img src="images/sliders/2_transito_bogota.jpg" alt="tránsito en Bogota" title="Hacer trámites en Bogota"/>
 						<div class="slider-content-box">
 							<h2 class="stripe">Transite con sus documentos en regla</h2>
-							<p>Para evitar inconvenientes y sorpresas revise regularmente el SOAT, la revisión TecnicoMécanica e impuestos de su vehículo.</p>
+							<p>Para evitarse molestias y sanciones, de parte de las autoridades de tránsito, revise que los documentos de su vehículo esten vigentes.(SOAT, Revisión, licencia de conducción y licencia de transito)</p>
 							<div class="accent-btn">
 								<a href="traspaso.php">Leer más</a>
 							</div>
