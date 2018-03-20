@@ -44,11 +44,11 @@
 												<br>
 												<ul>
 													<div itemprop="addressLocality" style="color:white">BOGOTÁ</div>
-													<span itemprop="streetAddress">Cra 101 No. 147 - 21 C.C Fiesta Suba contiguo al SIM de SUBA - Local 34</span>
+													<span itemprop="streetAddress">Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34 contiguo al SIM de SUBA</span>
 												</ul>
 												<ul>
 													<div itemprop="addressLocality" style="color:white">MEDELLÍN</div>
-													<span itemprop="streetAddress">Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Oficina 243</span>
+													<span itemprop="streetAddress">Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 100</span>
 												</ul>
 												<ul>
 													<div  itemprop="addressLocality"style="color:white">IBAGUÉ</div>
