@@ -63,7 +63,7 @@
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2364.233136398655!2d-74.09302774347582!3d4.743919669607887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f84f6585f3987%3A0x7c83b0f50ed44598!2sCentro+Comercial+Fiesta+Suba!5e0!3m2!1sen!2sco!4v1510205606248"></iframe>
         </div>
         <div class="col-md-6" >
-          <img src="images/offices/tramitador_bogota.png" width="70%" height="400" frameborder="0"
+          <img src="images/offices/tramitador_bogota.png" width="100%" height="400" frameborder="0"
           marginheight="0" marginwidth="0" alt="tramitador en el tránsito en Bogota" title="Oficina de Tramites en Bogota">
           </div>
       </div>
