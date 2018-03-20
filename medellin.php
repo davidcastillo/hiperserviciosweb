@@ -2,12 +2,12 @@
 <html lang="es">
   <head>
 
-    <title>Tramites en el tránsito de Medellín y Antioquia | Hiperservicios</title>
+    <title>Tramitador Profesional en el tránsito de Medellín y Antioquia | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Realizamos tramites en el tránsito de Medellín y municipios de Antioquia">
+    <meta name="description" content="Tramitador Profesional en el tránsito de Medellín y municipios de Antioquia">
     <meta name="keywords" content="traspaso, tramite, tránsito, runt, simit, tránsito de Medellín, tránsito de Ibagué, tránsito de Bogotá" />
 
     <!-- Google Tag Manager -->

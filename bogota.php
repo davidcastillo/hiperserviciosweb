@@ -2,12 +2,12 @@
 <html lang="es">
   <head>
 
-    <title>Tramites en el tránsito de Bogotá y Cundinamarca | Hiperservicios</title>
+    <title>Tramitador Profesional en el tránsito de Bogotá y Cundinamarca | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Realizamos tramites en el tránsito de Bogotá y municipios aledaños">
+    <meta name="description" content="Somos tramitadores profesionales en el tránsito de Bogotá y municipios aledaños">
     <meta name="keywords" content="traspaso, tramite, tránsito, runt, simit, tránsito de Bogotá, tránsito de Medellin, tránsito de Ibague" />
 
 
@@ -64,7 +64,7 @@
         </div>
         <div class="col-md-6" >
           <img src="images/offices/tramitador_bogota.png" width="70%" height="400" frameborder="0"
-          marginheight="0" marginwidth="0" alt="Oficina de tramites de tránsito en Bogota" title="Oficina de Tramites en Bogota">
+          marginheight="0" marginwidth="0" alt="tramitador en el tránsito en Bogota" title="Oficina de Tramites en Bogota">
           </div>
       </div>
 

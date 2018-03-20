@@ -2,12 +2,12 @@
 <html lang="es">
   <head>
 
-    <title>Tramites en el tránsito de Ibagué y Tolima  | Hiperservicios</title>
+    <title>Tramitador profesional en el tránsito de Ibagué y Tolima  | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Realizamos tramites en el tránsito de Ibagué y municipios del Tolima">
+    <meta name="description" content="Tramitador profesional de tramites en el tránsito de Ibagué y municipios del Tolima">
     <meta name="keywords" content="traspaso, tramite, tránsito, runt, simit, tránsito de Ibague, tránsito de Bogotá, tránsito de Medellín" />
 
 

@@ -2,12 +2,12 @@
 <html lang="es">
   <head>
 
-    <title>Traslado de cuenta y demás trámites de transito | Hiperservicios</title>
+    <title>Tramitadores Profesionales de Traslado de cuenta ante transito | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Que es un traslado de cuenta y porque es conveniente realizarlo">
+	<meta name="description" content="Somos expertos tramitadores de traslados de cuenta ante tránsito a nivel nacional">
 	<meta name="keywords" content="traspaso, trámite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
 

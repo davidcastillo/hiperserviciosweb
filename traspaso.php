@@ -2,12 +2,12 @@
 <html lang="es">
   <head>
 
-    <title>Traspaso de vehiculos y demás tramites de tránsito | Hiperservicios</title>
+    <title>Tramitadores Profesionales de Traspaso de vehiculos ante tránsito | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Hacer un traspaso en el tránsito de Medellín, tránsito de Bogotá o tránsito de Ibagué">
+	<meta name="description" content="Somos expertos profesionales tramitadores de traspasos en todos los tránsitos del pais">
 	<meta name="keywords" content="traspaso, tramite, tránsito, runt, simit, tránsito de Medellin, tránsito de Ibagué, tránsito de Bogotá" />
 
 

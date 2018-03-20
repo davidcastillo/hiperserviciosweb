@@ -2,12 +2,12 @@ matrícula<!DOCTYPE html>
 <html lang="es">
   <head>
 
-    <title>Cancelacion de matricula y demás trámites de transito | Hiperservicios</title>
+    <title>Tramitador Profesional de Cancelacion de matricula | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Que es una cancelacion de matrícula y cuando realizar este trámite ante transito">
+	<meta name="description" content="Somos tramitadores profesionales de cancelacion de matrícula ante transito">
 	<meta name="keywords" content="traspaso, trámite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
 	<!-- Google Tag Manager -->

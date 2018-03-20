@@ -2,13 +2,13 @@
 <html lang="es">
   <head>
 
-    <title>Levantamiento de prenda y demás trámites de tránsito | Hiperservicios.</title>
+    <title>Tramitadores Profesionales de Levantamiento de prenda | Hiperservicios.</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Que es un levantamiento de prenda, como hacer este trámite ante tránsito">
-	<meta name="keywords" content="traspaso, trámite, tránsito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
+    <meta name="description" content="Tramitadores profesionales de levantamiento de prenda y otros tramites ante tránsito">
+    <meta name="keywords" content="traspaso, trámite, tránsito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
 	<!-- Google Tag Manager -->
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

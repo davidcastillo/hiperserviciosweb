@@ -2,12 +2,12 @@
 <html lang="es">
   <head>
 
-    <title>Traspasos y trámites en el tránsito de Medellín, Bogotá e Ibagué | Hiperservicios</title>
+    <title>Formatos para tramites en el tránsito de Medellín, Bogotá e Ibagué | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Hiperservicios Colombia empresa de trámites de tránsito a nivel nacional">
+    <meta name="description" content="Tramitadores Profesionales de trámites de tránsito a nivel nacional">
     <meta name="keywords" content="traspaso, trámite, tránsito, runt, simit, tránsito de Ibagué, tránsito de Medellín, tránsito de Bogotá" />
 
     <!-- Google Tag Manager -->

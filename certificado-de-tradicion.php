@@ -2,12 +2,12 @@
 <html lang="es">
   <head>
 
-    <title>Certificado de tradición y demás trámites de tránsito | Hiperservicios</title>
+    <title>Tramitadores Profesionales de Certificado de tradición de vehículo | Hiperservicios</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Que es un certificado de tradicion y porque es importante solicitarlo al comprar un vehiculo">
+	<meta name="description" content="Solicitamos su certificado de tradición de vehículo en cualquier parte del país">
 	<meta name="keywords" content="traspaso, tramite, transito, runt, simit, tramitador Bogota, tramitador Ibague, tramitador Medellin" />
 
 
