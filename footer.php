@@ -48,7 +48,7 @@
 												</ul>
 												<ul>
 													<div itemprop="addressLocality" style="color:white">MEDELLÍN</div>
-													<span itemprop="streetAddress">Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 100</span>
+													<span itemprop="streetAddress">Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 84</span>
 												</ul>
 												<ul>
 													<div  itemprop="addressLocality"style="color:white">IBAGUÉ</div>
