@@ -14,10 +14,6 @@
 									<div>
 										<ul class="social-icons">
 										<li>
-											<a target="_blank" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9" class="enotype-icon-googleplus" title="googleplus"></a>
-											<a class="lasts-posts" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9"> Google + </a>
-										</li>
-										<li>
 											<a target="_blank" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9" class="enotype-icon-facebook" title="facebook"></a>
 											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Facebook </a>
 										</li>
@@ -101,7 +97,7 @@
 				<div class="footer-btm">
 					<div class="container">
 						<div class="row">
-              <span class="copyright">© Copyright 2017 <a href="#" title="ConsultMe Template" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank">David Castillo</a>
+              <span class="copyright">© Copyright 2021 <a href="#" title="ConsultMe Template" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank">David Castillo</a>
 							</span>
 						</div>
 					</div>
