@@ -19,20 +19,36 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="alternate" hreflang="es" href="http://es.asesoriasantetransito.com/" />
+    <link rel="alternate" hreflang="es" href="https://es.asesoriasantetransito.com/" />
 
     <!-- Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,400italic,600,600italic,700,700italic,900italic,900,300,300italic%7COpen+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css' />
 
     <!-- Css Files -->
-    <link rel="stylesheet" type="text/css" href="style/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="style/owl.transitions.css">
-		<link rel="stylesheet" type="text/css" href="style/owl.carousel.css">
-		<link rel="stylesheet" type="text/css" href="style/owl.theme.css">
-    <link rel="stylesheet" type="text/css" href="style/prettyPhoto.css">
-    <link rel="stylesheet" type="text/css" href="style/style.css">
-    <link rel="stylesheet" type="text/css" href="style/responsive.css">
-    <link rel="stylesheet" type="text/css" href="style/icons.css">
+    <link rel="preload" rel="stylesheet" type="text/css" href="style/bootstrap.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="style/bootstrap.css"></noscript>
+    
+    <link rel="preload  rel="stylesheet" type="text/css" href="style/owl.transitions.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="style/owl.transitions.css"></noscript>
+		
+    <link rel="preload  rel="stylesheet" type="text/css" href="style/owl.carousel.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="style/owl.carousel.css"></noscript>
+
+		<link rel="preload  rel="stylesheet" type="text/css" href="style/owl.theme.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="style/owl.theme.css"></noscript>
+
+    <link rel="preload  rel="stylesheet" type="text/css" href="style/prettyPhoto.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="style/prettyPhoto.css"></noscript>
+
+    <link rel="preload  rel="stylesheet" type="text/css" href="style/style.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="style/style.css"></noscript>
+
+    <link rel="preload  rel="stylesheet" type="text/css" href="style/responsive.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="style/responsive.css"></noscript>
+
+    <link rel="preload  rel="stylesheet" type="text/css" href="style/icons.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="style/icons.css"></noscript>
+
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
@@ -41,105 +57,11 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <!-- Container -->
-    <div itemscope itemtype="http://schema.org/LocalBusiness" class="site-container">
+    <div itemscope itemtype="https://schema.org/LocalBusiness" class="site-container">
+     <!--========================Header========================== -->
+     <?php include 'header.php'; ?>
      <!--========================Header========================== -->
 
-     <!--========================Header========================== -->
-           <header class="main-header ">
-             <!--<section class="mainmenu-area stricky stricky-fixed"> -->
-               <div class="upper-header">
-                 <div class="container">
-                   <div class="row">
-                     <div class="logo">
-                         <a href="/"><img itemprop="image" src="http://www.asesoriasantetransito.com/images/logo.png" alt="Empresa de tramites de transito"></a>
-                     </div>
-                     <ul class="header-info">
-                       <li class="group">
-                         <i class="icomoon-icon-phone"></i>
-                         <div class="h-text">
-                           Llámanos
-                           <span>
-                             <a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a> -
-                             <a class="subrayar_texto" href="tel:+573174823841">317 482 38 41</a>
-                           </span>
-                         </div>
-                       </li>
-                       <li class="group">
-                         <i class="icomoon-icon-location"></i>
-                         <div class="h-text">
-                           Nuestras Oficinas
-                           <span>
-                             <a class="subrayar_texto" href="bogota.php">Bogotá </a> -
-                             <a class="subrayar_texto" href="medellin.php">Medellín </a> -
-                             <a class="subrayar_texto" href="ibague.php">Ibagué</a>
-                           </span>
-                         </div>
-                       </li>
-                       <!--
-                       <li>
-                         <i class="icomoon-icon-clock"></i>
-                         <div class="h-text">
-                           Working Hours
-                           <span>Mon - Sat, 10AM to 6PM</span>
-                         </div>
-                       </li>
-                       -->
-                     </ul>
-                   </div>
-                 </div>
-               </div>
-                 <div class="header-menu navbar-fixed-top">
-                   <div class="container">
-                     <div class="nav-outer">
-                       <nav class="navbar navbar-default" role="navigation">
-                         <div class="navbar-header">
-                           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                             <span class="sr-only">Toggle navigation</span>
-                             <span class="icon-bar"></span>
-                             <span class="icon-bar"></span>
-                             <span class="icon-bar"></span>
-                           </button>
-                         </div>
-                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                           <ul class="nav navbar-nav">
-                             <li class="drop"><a class="active" href="index.php">Inicio</a></li>
-                             <li class="drop"><a href="nosotros.php">Nosotros</a></li>
-                             <li class="drop"><a href="oficinas.php">Oficinas</a>
-                               <ul class="dropdown">
-                                 <li><a href="bogota.php">Bogotá</a></li>
-                                 <li><a href="medellin.php">Medellín</a></li>
-                                 <li><a href="ibague.php">Ibagué</a></li>
-                               </ul>
-                             </li>
-                             <li class="drop"><a href="traspaso.php">Servicios</a>
-                               <ul class="dropdown">
-                                 <li><a href="traspaso.php">Traspaso de vehiculo</a></li>
-                                 <li><a href="levantamiento-de-prenda.php">Levantamiento de prenda</a></li>
-                                 <li><a href="traslado-de-cuenta.php">Traslado de cuenta</a></li>
-                                 <li><a href="cancelacion-de-matricula.php">Cancelacion de matricula</a></li>
-                                 <li><a href="certificado-de-tradicion.php">Certificados de tradición</a></li>
-                                 <li><a href="otros.php">Otros</a></li>
-                               </ul>
-                             </li>
-                             <li class="drop"><a href="formatos.php">Formularios</a></li>
-                             <li class="drop"><a href="blog.php">Blog</a></li>
-                             <li><a href="contactenos.php">Contáctenos</a></li>
-                           </ul>
-                         </div>
-                       </nav>
-                       <div class="get-btn"><a href="contactenos.php" class="theme-btn appt-btn">Solicitar una asesoría</a></div>
-                     </div>
-                   </div>
-                 </div>
-            <!-- </section> -->
-            </header>
-
-           <!-- End Header -->
-
-
-
-
-    <!-- End Header -->
 
       <!--========================Slider========================== -->
       <div class="top-slider visible-xs-*">
@@ -575,123 +497,8 @@
 
 
       <!--========================Footer========================== -->
+      <?php include 'footer.php'; ?>
       <!--========================Footer========================== -->
-           <footer>
-             <div class="main-footer">
-               <div class="container">
-                 <div class="row">
-                   <div class="col-md-3 col-sm-6 col-xs-12">
-                     <div class="footer-widget">
-
-                     <div class="widget-title">
-                           <h4>Nuestras redes sociales</h4>
-                       </div>
-
-                     <div class="col-md-1">
-                       <div>
-                         <ul class="social-icons">
-                         <li>
-                           <a target="_blank" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9" class="enotype-icon-googleplus" title="googleplus"></a>
-                           <a class="lasts-posts" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9"> Google + </a>
-                         </li>
-                         <li>
-                           <a target="_blank" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9" class="enotype-icon-facebook" title="facebook"></a>
-                           <a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Facebook </a>
-                         </li>
-                         <li>
-                           <a href="#" class="enotype-icon-twitter" title="twitter"></a>
-                           <a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Twitter </a>
-                         </li>
-                         </ul>
-                       </div>
-                     </div>
-                     </div>
-                   </div>
-                   <div class="col-md-3 col-sm-6 col-xs-12">
-                     <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="footer-widget">
-                       <div class="widget-title">
-                         <h4>DONDE ESTAMOS</h4>
-                       </div>
-                       <ul class="lasts-posts">
-                         <li>
-                             <ul>
-                               <div style="color:white">TELEFONOS</div>
-                               <span itemprop="telephone">3152292379</span> - <span itemprop="telephone">3174823841</span>
-                             </ul>
-                             <br>
-                             <ul>
-                               <div itemprop="addressLocality" style="color:white">BOGOTÁ</div>
-                               <span itemprop="streetAddress">Cra 101 No. 147 - 21 C.C Fiesta Suba contiguo al SIM de SUBA - Local 34</span>
-                             </ul>
-                             <ul>
-                               <div itemprop="addressLocality" style="color:white">MEDELLÍN</div>
-                               <span itemprop="streetAddress">Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Oficina 243</span>
-                             </ul>
-                             <ul>
-                               <div  itemprop="addressLocality"style="color:white">IBAGUÉ</div>
-                               <span itemprop="streetAddress">Calle 60 No.2A - 59 Barrio La Floresta</span>
-                             </ul>
-                         </li>
-                       </ul>
-                     </div>
-                   </div>
-                   <div class="col-md-3 col-sm-6 col-xs-12">
-                     <div class="footer-widget">
-                       <div class="widget-title">
-                         <h4>SITIOS DE INTERES</h4>
-                       </div>
-                       <div class="tagcloud">
-                         <ul>
-                           <li>
-                             <a href="http://recursosweb.shd.gov.co/ConsultaPagos/ConsultaPagos.html">impuestos de Bogotá</a>
-                           </li>
-                           <li>
-                             <a href="http://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">impuestos de Tolima</a>
-                           </li>
-                           <li>
-                             <a href="http://vehiculosantioquia.com/impuestosWeb/index.jsp">impuestos de Antioquia</a>
-                           </li>
-                           <li>
-                             <a href="https://www.runt.com.co/portel/libreria/php/01.030518.html">Runt</a>
-                           </li>
-                           <li>
-                             <a href="https://consulta.simit.org.co/Simit/verificar/contenido_verificar_pago_linea.jsp">Simit</a>
-                           </li>
-                         </ul>
-                       </div>
-                     </div>
-                   </div>
-                   <div class="col-md-3 col-sm-6 col-xs-12">
-                     <div class="footer-widget">
-                     <div class="widget-title">
-                         <h4>Del blog</h4>
-                     </div>
-                     <ul class="lasts-posts">
-                       <li><a href="blog.php">Visite nuestro blog</a></li>
-                       <li><a href="recomendacion-traspaso.php">Porque es importante legalizar el traspaso</a></li>
-                     </ul>
-                   </div>
-                   </div>
-                 </div>
-               </div>
-             </div>
-             <div class="footer-btm">
-               <div class="container">
-                 <div class="row">
-                   <span class="copyright">© Copyright 2017 <a href="#" title="ConsultMe Template" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank">David Castillo</a>
-                   </span>
-                 </div>
-               </div>
-             </div>
-           </footer>
-           <!-- End Footer -->
-
-
-
-			<!-- End Footer -->
-
-
-
       <!-- scrollToTop -->
       <a href="#" class="scrollToTop">
         <i class="icon-angle-up"></i>

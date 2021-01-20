@@ -179,13 +179,13 @@
                         <a href="https://consulta.simit.org.co/Simit/verificar/contenido_verificar_pago_linea.jsp">Simit</a>
                       </li>
                       <li>
-                        <a href="http://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">Impuestos Tolima</a>
+                        <a href="https://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">Impuestos Tolima</a>
                       </li>
                       <li>
-                        <a href="http://recursosweb.shd.gov.co/ConsultaPagos/ConsultaPagos.html">Impuestos Bogota</a>
+                        <a href="https://oficinavirtual.shd.gov.co/vehiculos">Impuestos Bogota</a>
                       </li>
                       <li>
-                        <a href="http://vehiculosantioquia.com/impuestosWeb/index.jsp">Impuestos Antioquia</a>
+                        <a href="https://vehiculosantioquia.com/impuestosWeb/index.jsp">Impuestos Antioquia</a>
                       </li>
                     </ul>
                   </div>

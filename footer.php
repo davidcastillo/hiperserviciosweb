@@ -27,7 +27,7 @@
 								</div>
 							</div>
 							<div class="col-md-3 col-sm-6 col-xs-12">
-								<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="footer-widget">
+								<div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress" class="footer-widget">
 									<div class="widget-title">
 										<h4>DONDE ESTAMOS</h4>
 									</div>
@@ -35,7 +35,7 @@
 										<li>
 												<ul>
 													<div style="color:white">TELEFONOS</div>
-													<span itemprop="telephone">3152292379</span> - <span itemprop="telephone">3174823841</span>
+													<span itemprop="telephone"><a class="subrayar_texto" href="tel:+573152292379">3152292379</a></span> - <span itemprop="telephone"><a class="subrayar_texto" href="tel:+573152292379">3174823841</a></span>
 												</ul>
 												<br>
 												<ul>
@@ -62,13 +62,13 @@
 									<div class="tagcloud">
 										<ul>
 											<li>
-												<a href="http://recursosweb.shd.gov.co/ConsultaPagos/ConsultaPagos.html">impuestos de Bogotá</a>
+												<a href="https://oficinavirtual.shd.gov.co/vehiculos">impuestos de Bogotá</a>
 											</li>
 											<li>
-												<a href="http://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">impuestos de Tolima</a>
+												<a href="https://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">impuestos de Tolima</a>
 											</li>
 											<li>
-												<a href="http://vehiculosantioquia.com/impuestosWeb/index.jsp">impuestos de Antioquia</a>
+												<a href="https://vehiculosantioquia.com/impuestosWeb/index.jsp">impuestos de Antioquia</a>
 											</li>
 											<li>
 												<a href="https://www.runt.com.co/portel/libreria/php/01.030518.html">Runt</a>
