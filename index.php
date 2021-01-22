@@ -22,7 +22,9 @@
     <link rel="alternate" hreflang="es" href="https://es.asesoriasantetransito.com/" />
 
     <!-- Fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,400italic,600,600italic,700,700italic,900italic,900,300,300italic%7COpen+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css' />
+    <link rel="preload" href='https://fonts.googleapis.com/css?family=Montserrat:400,400italic,600,600italic,700,700italic,900italic,900,300,300italic%7COpen+Sans:400,400italic,700,700italic&display=swap' rel='stylesheet' type='text/css' as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400italic,600,600italic,700,700italic,900italic,900,300,300italic%7COpen+Sans:400,400italic,700,700italic&display=swap"></noscript>
+    <link rel="preload" href="/assets/Pacifico-Bold.woff2" as="font" type="font/woff2" crossorigin>
 
     <!-- Css Files -->
     <link rel="preload" rel="stylesheet" type="text/css" href="style/bootstrap.css" as="style" onload="this.onload=null;this.rel='stylesheet'">

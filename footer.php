@@ -14,12 +14,7 @@
 									<div>
 										<ul class="social-icons">
 										<li>
-											<a target="_blank" href="https://plus.google.com/u/0/b/102410379596050528240/+ASESORIASANTETRANSITOIbagu%C3%A9" class="enotype-icon-facebook" title="facebook"></a>
-											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Facebook </a>
-										</li>
-										<li>
-											<a href="#" class="enotype-icon-twitter" title="twitter"></a>
-											<a class="lasts-posts" href="https://www.facebook.com/asesoriasantetransitos/"> Twitter </a>
+											<a style="font-size: 48px" target="_blank" rel="noreferrer" rel="noopener" href="https://www.facebook.com/asesoriasantetransitos/" class="enotype-icon-facebook" title="facebook"></a>
 										</li>
 										</ul>
 									</div>
@@ -62,19 +57,19 @@
 									<div class="tagcloud">
 										<ul>
 											<li>
-												<a href="https://oficinavirtual.shd.gov.co/vehiculos">impuestos de Bogotá</a>
+												<a rel="noreferrer" target="_blank" href="https://oficinavirtual.shd.gov.co/vehiculos">impuestos de Bogotá</a>
 											</li>
 											<li>
-												<a href="https://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">impuestos de Tolima</a>
+												<a rel="noreferrer" target="_blank" href="https://aplicativosenlinea.net/sivervtolima/liquidacionweb/primeraa.php">impuestos de Tolima</a>
 											</li>
 											<li>
-												<a href="https://vehiculosantioquia.com/impuestosWeb/index.jsp">impuestos de Antioquia</a>
+												<a rel="noreferrer" target="_blank" href="https://vehiculosantioquia.com/impuestosWeb/index.jsp">impuestos de Antioquia</a>
 											</li>
 											<li>
-												<a href="https://www.runt.com.co/portel/libreria/php/01.030518.html">Runt</a>
+												<a rel="noreferrer" target="_blank" href="https://www.runt.com.co/portel/libreria/php/01.030518.html">Runt</a>
 											</li>
 											<li>
-												<a href="https://consulta.simit.org.co/Simit/verificar/contenido_verificar_pago_linea.jsp">Simit</a>
+												<a rel="noreferrer" target="_blank" href="https://consulta.simit.org.co/Simit/verificar/contenido_verificar_pago_linea.jsp">Simit</a>
 											</li>
 										</ul>
 									</div>
@@ -97,7 +92,7 @@
 				<div class="footer-btm">
 					<div class="container">
 						<div class="row">
-              <span class="copyright">© Copyright 2021 <a href="#" title="ConsultMe Template" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank">David Castillo</a>
+              <span class="copyright">© Copyright 2021 <a href="#" rel="noopener" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank" rel="noopener" >David Castillo</a>
 							</span>
 						</div>
 					</div>
