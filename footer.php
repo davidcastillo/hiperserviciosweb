@@ -29,21 +29,23 @@
 									<ul class="lasts-posts">
 										<li>
 												<ul>
-													<div style="color:white">TELEFONOS</div>
-													<span itemprop="telephone"><a class="subrayar_texto" href="tel:+573152292379">3152292379</a></span> - <span itemprop="telephone"><a class="subrayar_texto" href="tel:+573152292379">3174823841</a></span> - <span itemprop="telephone"><a class="subrayar_texto" href="tel:+573164645166">3164645166</a></span>
+													<h5 style="color:white">TELEFONOS</h4>
+													<span itemprop="telephone"><a style="color:white" class="subrayar_texto" href="tel:+573152292379">3152292379</a></span> - <span itemprop="telephone"><a style="color:white" class="subrayar_texto" href="tel:+573152292379">3174823841</a></span> - <span itemprop="telephone"><a style="color:white" class="subrayar_texto" href="tel:+573164645166">3164645166</a></span>
 												</ul>
 												<br>
 												<ul>
-													<div itemprop="addressLocality" style="color:white">BOGOTÁ</div>
-													<span itemprop="streetAddress">Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34 contiguo al SIM de SUBA</span>
+													<h4 itemprop="addressLocality" style="color:white">BOGOTÁ</h4>
+													<span style="color:white" itemprop="streetAddress">Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34 contiguo al SIM de SUBA</span>
 												</ul>
+												<br>
 												<ul>
-													<div itemprop="addressLocality" style="color:white">MEDELLÍN</div>
-													<span itemprop="streetAddress">Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 84</span>
+													<h4 itemprop="addressLocality" style="color:white">MEDELLÍN</h4>
+													<span style="color:white" itemprop="streetAddress">Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 84</span>
 												</ul>
+												<br>
 												<ul>
-													<div  itemprop="addressLocality"style="color:white">IBAGUÉ</div>
-													<span itemprop="streetAddress">Calle 60 No.2A - 59 Barrio La Floresta</span>
+													<h4  itemprop="addressLocality"style="color:white">IBAGUÉ</h4>
+													<span style="color:white" itemprop="streetAddress">Calle 60 No.2A - 59 Barrio La Floresta</span>
 												</ul>
 										</li>
 									</ul>
@@ -92,7 +94,7 @@
 				<div class="footer-btm">
 					<div class="container">
 						<div class="row">
-              <span class="copyright">© Copyright 2021 <a href="#" rel="noopener" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank" rel="noopener" >David Castillo</a>
+              <span  style="color:white" class="copyright">© Copyright 2021 <a href="#" rel="noopener" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank" rel="noopener" >David Castillo</a>
 							</span>
 						</div>
 					</div>
