@@ -11,7 +11,7 @@
     <meta name="keywords" content="traspaso, trámite, tránsito, runt, simit, tránsito de Ibagué, tránsito de Medellín, tránsito de Bogotá" />
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script async>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -19,20 +19,44 @@
     <!-- End Google Tag Manager -->
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="preload" rel="shortcut icon" href="images/favicon.ico">
 
     <!-- Fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,400italic,600,600italic,700,700italic,900italic,900,300,300italic%7COpen+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css' />
+    <link rel="preload" href='https://fonts.googleapis.com/css?family=Montserrat:400,400italic,600,600italic,700,700italic,900italic,900,300,300italic%7COpen+Sans:400,400italic,700,700italic&display=swap' rel='stylesheet' type='text/css' />
 
     <!-- Css Files -->
-    <link rel="stylesheet" type="text/css" href="style/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="style/owl.transitions.css">
-		<link rel="stylesheet" type="text/css" href="style/owl.carousel.css">
-		<link rel="stylesheet" type="text/css" href="style/owl.theme.css">
-    <link rel="stylesheet" type="text/css" href="style/prettyPhoto.css">
-    <link rel="stylesheet" type="text/css" href="style/style.css">
-    <link rel="stylesheet" type="text/css" href="style/responsive.css">
-    <link rel="stylesheet" type="text/css" href="style/icons.css">
+    <link rel="preload" rel="stylesheet" type="text/css" href="style/bootstrap.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="style/bootstrap.css">
+    </noscript>
+    <link rel="preload" rel="stylesheet" type="text/css" href="style/owl.transitions.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript>
+        <link rel="stylesheet" href="style/owl.transitions.css">
+    </noscript>
+    <link rel="preload" rel="stylesheet" type="text/css" href="style/owl.carousel.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript>
+        <link rel="stylesheet" href="style/owl.carousel.css">
+    </noscript>
+    <link rel="preload"rel="stylesheet" type="text/css" href="style/owl.theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="style/owl.theme.css">
+    </noscript>
+    <link rel="preload" rel="stylesheet" type="text/css" href="style/prettyPhoto.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="style/prettyPhoto.css">
+    </noscript>
+    <link rel="preload" rel="stylesheet" type="text/css" href="style/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="style/style.css">
+    </noscript>
+    <link rel="preload" rel="stylesheet" type="text/css" href="style/responsive.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="style/responsive.css">
+    </noscript>
+    <link rel="preload" rel="stylesheet" type="text/css" href="style/icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="style/icons.css">
+    </noscript>
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->
@@ -60,7 +84,7 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="project-pics">
-							<img src='images/others/hacer_un_traspaso_hiperservicios.jpg' alt='tramitadores de tránsito' title="Somos un equipo de 10 personas listas para hacer su trámite ante tránsito">
+							<img src='images/others/hacer_un_traspaso_hiperservicios.jpg' alt='tramitadores de tránsito' title="Somos un equipo de 10 personas listas para hacer su trámite ante tránsito" width="100%" height="100%">
 						</a>
 						<!--	<a href="images/projects/single5.jpg" class="prettyPhoto">
 							<img src='images/projects/single2.jpg' alt='img'>
@@ -116,15 +140,15 @@
     </div>
     <!-- End Container -->
     <!-- Js File -->
-    <script type="text/javascript" src="js/jquery-2.2.3.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/owl.carousel.js"></script>
-    <script type="text/javascript" src="js/jquery.appear.js"></script>
-		<script type="text/javascript" src="js/jquery.countTo.js"></script>
-    <script type="text/javascript" src="js/jquery.imagesloaded.min.js"></script>
-		<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
-    <script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+    <script type="text/javascript" src="js/jquery-2.2.3.min.js" async></script>
+    <script type="text/javascript" src="js/bootstrap.min.js" async></script>
+    <script type="text/javascript" src="js/owl.carousel.js" async></script>
+    <script type="text/javascript" src="js/jquery.appear.js" async></script>
+		<script type="text/javascript" src="js/jquery.countTo.js" async></script>
+    <script type="text/javascript" src="js/jquery.imagesloaded.min.js" async></script>
+		<script type="text/javascript" src="js/jquery.prettyPhoto.js" async></script>
+    <script type="text/javascript" src="js/jquery.isotope.min.js" async></script>
     <!-- Custom js -->
-    <script type="text/javascript" src="js/custom.js"></script>
+    <script type="text/javascript" src="js/custom.js" async></script>
   </body>
 </html>
