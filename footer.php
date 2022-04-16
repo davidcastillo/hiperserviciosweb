@@ -30,7 +30,7 @@
 										<li>
 												<ul>
 													<h5 style="color:white">TELEFONOS</h4>
-													<span itemprop="telephone"><a style="color:white" class="subrayar_texto" href="tel:+573152292379">3152292379</a></span> - <span itemprop="telephone"><a style="color:white" class="subrayar_texto" href="tel:+573152292379">3174823841</a></span> - <span itemprop="telephone"><a style="color:white" class="subrayar_texto" href="tel:+573164645166">3164645166</a></span>
+													<span itemprop="telephone"><a style="color:white" class="subrayar_texto" href="tel:+573152292379">3152292379</a></span> - <span itemprop="telephone"><a style="color:white" class="subrayar_texto" href="tel:+573152292379">3174823841</a></span> - <span itemprop="telephone"><a style="color:white" class="subrayar_texto" href="tel:+573155896827">3155896827</a></span>
 												</ul>
 												<br>
 												<ul>
