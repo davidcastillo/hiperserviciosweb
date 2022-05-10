@@ -35,7 +35,7 @@
 												<br>
 												<ul>
 													<h4 itemprop="addressLocality" style="color:white">BOGOTÁ</h4>
-													<span style="color:white" itemprop="streetAddress">Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34 contiguo al SIM de SUBA</span>
+													<span style="color:white" itemprop="streetAddress">Cra 101 No. 147 - 21 C.C Fiesta Suba Local 15 contiguo al SIM de SUBA</span>
 												</ul>
 												<br>
 												<ul>
