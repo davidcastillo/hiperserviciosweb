@@ -77,7 +77,7 @@
                     <br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34 cerca al SIM de SUBA </br>
                     </li>
                    <li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
-                   <br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 84</br>
+                   <br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 140</br>
                    </li>
                     <li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
                     <br>Calle 60 No.2A - 59 Barrio La Floresta</br>
