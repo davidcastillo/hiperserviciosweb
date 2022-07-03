@@ -74,7 +74,7 @@
                 <ul>
                 <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a>  <br>  <a href="tel:+573164645166">316 464 51 66</a>  - Fijo  (8) 266 74 82</br></li>
                   <li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
-                    <br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 34 cerca al SIM de SUBA </br>
+                    <br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 15 cerca al SIM de SUBA </br>
                     </li>
                    <li><i class="icon-map-marker"></i><strong>MEDELLÍN:</strong>
                    <br>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 140</br>
