@@ -74,7 +74,13 @@
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondrá en contacto con Ud</p>
                 <ul>
                   <li><i class="icon-map-marker"></i>Cra. 43a #19A-87 Centro Comercial Automotriz Movicentro Local 140</li>
-                  <li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573226444272">322 644 42 72</a><span> - </span><a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a></li>
+                  <li>
+			  <ul>
+				<li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573174823841">317 482 38 41</a></li>
+				<li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a></li>
+			  	<li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573226444272">322 644 42 72</a></li>
+			</ul>
+		</li>
                   <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
                   <li><i class="icomoon-icon-clock"></i>Lunes - Sábado : 08:00am - 6:00pm</li>
                 </ul>
