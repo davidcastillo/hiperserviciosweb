@@ -89,7 +89,7 @@
 			  <ul>
 				<li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573174823841">317 482 38 41</a></li>
 				<li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a></li>
-			  	<li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573152292379">315 229 23 79</a></li>
+			  	<li><i class="icomoon-icon-phone"></i><a class="subrayar_texto" href="tel:+573226735539">322 673 55 39</a></li>
 			</ul>
 		</li>
                   <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
