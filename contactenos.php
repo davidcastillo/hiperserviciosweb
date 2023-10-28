@@ -72,6 +72,8 @@
                 <p>Tramitadores Profesionales ante tránsito a nivel nacional</P> </h1>
                 <p>Con gusto atenderemos sus preguntas e inquietudes, muy pronto uno de nuestros asesores se pondra en contacto con Ud</p>
                 <ul>
+		 <li><i class="icon-map-marker"></i><strong>Lineas Principales:</strong>
+                    </li>
                 <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a></li>
                   <li><i class="icon-map-marker"></i><strong>BOGOTÁ:</strong>
                     <br>Cra 101 No. 147 - 21 C.C Fiesta Suba Local 15 cerca al SIM de SUBA </br>
@@ -84,6 +86,7 @@
                     <li><i class="icon-map-marker"></i><strong>IBAGUÉ:</strong>
                     <br>Calle 60 No.2A - 59 Barrio La Floresta</br>
                     </li>
+			                <li><i class="icomoon-icon-phone"></i><a href="tel:+573152292379">315 229 23 79</a>  -  <a href="tel:+573174823841">317 482 38 41</a></li>
                     <li><i class="icomoon-icon-mail2"></i>asesorias@transitoscolombia.com</li>
                 </ul>
               </div>
