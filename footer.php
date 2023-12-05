@@ -94,7 +94,7 @@
 				<div class="footer-btm">
 					<div class="container">
 						<div class="row">
-              <span  style="color:white" class="copyright">© Copyright 2022 <a href="#" rel="noopener" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank" rel="noopener" >David Castillo</a>
+              <span  style="color:white" class="copyright">© Copyright 2024 <a href="#" rel="noopener" target="_blank">Hiperservicios Colombia</a> por <a href="https://www.facebook.com/david.castillo.52056223" title="Stylish-Themes" target="_blank" rel="noopener" >David Castillo</a>
 							</span>
 						</div>
 					</div>
